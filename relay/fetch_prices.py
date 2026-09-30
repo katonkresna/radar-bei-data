@@ -143,6 +143,14 @@ def parse_ajaib(text):
                 # tanda poin sering hilang di teks ('75 (-1.22%)') -> ikuti tanda persen
                 if pts is not None and out["chg_pct"] is not None and out["chg_pct"] < 0 and pts > 0: pts = -pts
                 out["chg_pts"] = pts
+            else:
+                l1 = lines[i-1]
+                if re.fullmatch(r"[-–—]?|0|0[.,]0+|0\s*\(\s*0(?:[.,]0+)?\s*%\s*\)", l1):  # saham stagnan: '-', '0', '0 (0%)'
+                    out["chg_pts"], out["chg_pct"] = 0.0, 0.0
+                else:
+                    m2 = re.fullmatch(r"\(?\s*([+\-\u2212]?\s?" + NUMRE + r")\s*%\s*\)?", l1)  # hanya persen
+                    if m2: out["chg_pct"] = num(m2.group(1).replace(" ", ""))
+                    out["chg_line_raw"] = l1[:40]
         if i + 2 < len(lines) and lines[i+2].lower() == "volume": out["volume_txt"] = lines[i+1]
         break
     hi = re.search(r"Harga Tertinggi \(52 Minggu\)\s*\n\s*(" + NUMRE + ")", text)
@@ -186,8 +194,10 @@ def main():
                 txt = page_text(page, f"https://ajaib.co.id/saham/aset/{t}?v={bust}", wait_re="WIB")
                 ajaib[t] = parse_ajaib(txt)
                 if not ajaib[t].get("close") or not ajaib[t].get("as_of"):
-                    log(f"ajaib {t}: parse gagal"); 
+                    log(f"ajaib {t}: parse gagal")
                     if i < 3: dump(f"ajaib_{t}", txt)
+                elif ajaib[t].get("chg_pct") is None:
+                    log(f"ajaib {t}: baris perubahan tak dikenal: {ajaib[t].get('chg_line_raw')!r}"); dump(f"ajaib_{t}_chg", txt, 1200)
             except Exception as e: log(f"ajaib {t}: {e}")
             try:
                 txt = page_text(page, f"https://pluang.com/asset/indo-stock/{t.lower()}?v={bust}", wait_re="Hari Ini")
