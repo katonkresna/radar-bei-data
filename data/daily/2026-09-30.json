@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T17:33:09+07:00",
+ "generated_at": "2026-09-30T17:38:49+07:00",
  "trade_date": "2026-09-30",
  "status": "ok",
  "prices": {
@@ -101,8 +101,8 @@
   },
   "AMRT": {
    "close": 1320.0,
-   "prev": null,
-   "chg_pct": null,
+   "prev": 1320.0,
+   "chg_pct": 0.0,
    "hi52": 2330.0,
    "lo52": 1105.0,
    "volume_txt": "45.77 M",
@@ -149,8 +149,8 @@
   },
   "SIDO": {
    "close": 348.0,
-   "prev": null,
-   "chg_pct": null,
+   "prev": 348.0,
+   "chg_pct": 0.0,
    "hi52": 585.0,
    "lo52": 344.0,
    "volume_txt": "9.61 M",
@@ -265,9 +265,9 @@
   "16/16 harga; 16 terkonfirmasi 2+ sumber; trade_date=2026-09-30"
  ],
  "log": [
-  "[17:33:10] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/htm'",
-  "[17:33:11] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/htm'",
-  "[17:33:11] idx.co.id: 0/16 saham (None), IHSG n/a (None)",
-  "[17:36:36] ajaib: 16/16 harga, pluang: 16/16 harga"
+  "[17:38:50] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/htm'",
+  "[17:38:50] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/htm'",
+  "[17:38:50] idx.co.id: 0/16 saham (None), IHSG n/a (None)",
+  "[17:42:23] ajaib: 16/16 harga, pluang: 16/16 harga"
  ]
 }
