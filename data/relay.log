@@ -1,4 +1,4 @@
-[17:38:50] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[17:38:50] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[17:38:50] idx.co.id: 0/16 saham (None), IHSG n/a (None)
-[17:42:23] ajaib: 16/16 harga, pluang: 16/16 harga
+[23:53:41] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[23:53:41] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[23:53:41] idx.co.id: 0/16 saham (None), IHSG n/a (None)
+[23:57:03] ajaib: 16/16 harga, pluang: 16/16 harga
