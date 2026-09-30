@@ -1,0 +1,53 @@
+name: Radar BEI price relay
+
+on:
+  schedule:
+    # Jam UTC. 09:40 UTC = 16:40 WIB (setelah bursa tutup), 11:30 UTC = 18:30 WIB (ulangan),
+    # 23:45 UTC Min-Kam = 06:45 WIB Sen-Jum (cadangan sebelum briefing 07:30 WIB / 08:30 WITA).
+    - cron: "40 9 * * 1-5"
+    - cron: "30 11 * * 1-5"
+    - cron: "45 23 * * 0-4"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "relay/**"
+      - ".github/workflows/relay.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: relay
+  cancel-in-progress: false
+
+jobs:
+  relay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install --quiet requests playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Fetch closing prices
+        run: python relay/fetch_prices.py
+
+      - name: Commit data
+        run: |
+          git config user.name "radar-bei-relay"
+          git config user.email "relay@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "relay: $(date -u +'%Y-%m-%d %H:%MZ')"
+            git push
+          fi
