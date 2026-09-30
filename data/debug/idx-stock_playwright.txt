@@ -1,0 +1,8 @@
+www.idx.co.id
+Melakukan verifikasi keamanan
+
+Situs web menggunakan layanan keamanan untuk melindungi dari bot jahat. Halaman ini ditunjukkan semasa kami memverifikasi bahwa Anda bukan bot.
+
+Ray ID: a4327ed43ede6392
+Performa dan Keamanan dari Cloudflare
+Privasi
