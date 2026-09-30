@@ -1,0 +1,19 @@
+{
+ "generated_at": "2026-09-30T17:13:10+07:00",
+ "trade_date": null,
+ "status": "failed",
+ "prices": {},
+ "ihsg": null,
+ "notes": [
+  "0/16 harga; 0 terkonfirmasi 2+ sumber; trade_date=None",
+  "trade_date != hari ini: kemungkinan libur bursa atau sumber belum diperbarui"
+ ],
+ "log": [
+  "[17:13:11] idx requests: HTTP 403 ct=text/html; charset=UTF-8",
+  "[17:13:15] idx playwright error: Expecting value: line 1 column 1 (char 0)",
+  "[17:13:15] idx requests: HTTP 403 ct=text/html; charset=UTF-8",
+  "[17:13:19] idx playwright error: Expecting value: line 1 column 1 (char 0)",
+  "[17:13:19] idx.co.id: 0/16 saham (None), IHSG n/a (None)",
+  "[17:14:56] cnbc: 0 harga, ajaib: 0 harga"
+ ]
+}
