@@ -124,15 +124,39 @@ def parse_cnbc(text):
             "as_of": ts, "source": "cnbcindonesia.com"}
 
 def parse_ajaib(text):
-    t = re.sub(r"[ \t]+", " ", text)
-    m = re.search(r"(Senin|Selasa|Rabu|Kamis|Jumat|Sabtu|Minggu),?\s*(\d{1,2})\s+([A-Za-z]+)\s+(\d{4}),?\s+(\d{1,2}[:.]\d{2})\s*WIB", t, re.I)
-    ts = None
-    if m and m.group(3).lower() in MONTHS:
+    """Teks halaman Ajaib (rendered): ... 'Mulai Investasi' / '6,075' / '75 (-1.22%)' / 'Rabu, 30 September 2026 16:14 WIB' / '221.34 M' / 'Volume' ..."""
+    lines = [l.strip() for l in text.splitlines() if l.strip()]
+    date_re = re.compile(r"^(Senin|Selasa|Rabu|Kamis|Jumat|Sabtu|Minggu),?\s*(\d{1,2})\s+([A-Za-z]+)\s+(\d{4}),?\s+(\d{1,2}[:.]\d{2})\s*WIB$", re.I)
+    out = {"close": None, "chg_pts": None, "chg_pct": None, "as_of": None, "volume_txt": None, "source": "ajaib.co.id"}
+    for i, l in enumerate(lines):
+        m = date_re.match(l)
+        if not m or m.group(3).lower() not in MONTHS: continue
         hhmm = m.group(5).replace(".", ":").zfill(5)
-        ts = f"{m.group(4)}-{MONTHS[m.group(3).lower()]:02d}-{int(m.group(2)):02d}T{hhmm}:00"
-    px = re.search(r"Rp\s?(" + NUMRE + r")\s*\n?\s*([+\-−]?\s?" + NUMRE + r")\s*\n?\s*\(?\s*([+\-−]?\s?" + NUMRE + r")\s*%\s*\)?", t)
-    return {"close": num(px.group(1)) if px else None, "chg_pct": num(px.group(3).replace(" ", "")) if px else None,
-            "as_of": ts, "source": "ajaib.co.id"}
+        out["as_of"] = f"{m.group(4)}-{MONTHS[m.group(3).lower()]:02d}-{int(m.group(2)):02d}T{hhmm}:00"
+        if i >= 2:
+            px = re.fullmatch(r"(" + NUMRE + r")", lines[i-2])
+            ch = re.fullmatch(r"([+\-\u2212]?\s?" + NUMRE + r")\s*\(\s*([+\-\u2212]?\s?" + NUMRE + r")\s*%\s*\)", lines[i-1])
+            if px: out["close"] = num(px.group(1))
+            if ch:
+                out["chg_pct"] = num(ch.group(2).replace(" ", ""))
+                pts = num(ch.group(1).replace(" ", ""))
+                # tanda poin sering hilang di teks ('75 (-1.22%)') -> ikuti tanda persen
+                if pts is not None and out["chg_pct"] is not None and out["chg_pct"] < 0 and pts > 0: pts = -pts
+                out["chg_pts"] = pts
+        if i + 2 < len(lines) and lines[i+2].lower() == "volume": out["volume_txt"] = lines[i+1]
+        break
+    hi = re.search(r"Harga Tertinggi \(52 Minggu\)\s*\n\s*(" + NUMRE + ")", text)
+    lo = re.search(r"Harga Terendah \(52 Minggu\)\s*\n\s*(" + NUMRE + ")", text)
+    if hi: out["hi52"] = num(hi.group(1))
+    if lo: out["lo52"] = num(lo.group(1))
+    if out["close"] is not None and out["chg_pts"] is not None:
+        out["prev"] = round(out["close"] - out["chg_pts"], 2)
+    return out
+
+def parse_pluang(text):
+    """Judul/H1 Pluang: 'Harga Saham Bank Central Asia Tbk (BBCA) Hari Ini: Rp6.125' (tanpa stempel waktu -> hanya pembanding nilai)."""
+    m = re.search(r"Hari Ini:?\s*Rp\s?(" + NUMRE + ")", text)
+    return {"close": num(m.group(1)) if m else None, "source": "pluang.com"}
 
 def main():
     now = dt.datetime.now(WIB); today = now.date().isoformat()
@@ -150,34 +174,30 @@ def main():
         log(f"playwright unavailable: {e}")
 
     # 1. BEI resmi
-    sj, how1 = fetch_idx_json(IDX_STOCK, page, "idx-stock"); ij, how2 = fetch_idx_json(IDX_INDEX, page, "idx-index")
+    sj, how1 = fetch_idx_json(IDX_STOCK, None, "idx-stock"); ij, how2 = fetch_idx_json(IDX_INDEX, None, "idx-index")
     idx_prices, idx_ihsg = parse_idx(sj, ij)
     log(f"idx.co.id: {len(idx_prices)}/16 saham ({how1}), IHSG {'ok' if idx_ihsg else 'n/a'} ({how2})")
 
-    # 2-3. Konfirmasi silang
-    cnbc, ajaib = {}, {}
+    # 2-3. Ajaib (utama dari runner GitHub; CNBC & idx.co.id memblokir ASN GitHub via Cloudflare) + Pluang (pembanding nilai)
+    ajaib, pluang = {}, {}
     if page is not None:
         for i, t in enumerate(TICKERS):
-            try:
-                txt = page_text(page, f"https://www.cnbcindonesia.com/market-data/quote/{t}.JK?v={bust}", wait_re="Last updated")
-                cnbc[t] = parse_cnbc(txt)
-                if not cnbc[t].get("close") or not cnbc[t].get("as_of"):
-                    if i < 2: dump(f"cnbc_{t}", txt); log(f"cnbc {t}: parse gagal, teks[:160]={txt[:160]!r}")
-            except Exception as e: log(f"cnbc {t}: {e}")
             try:
                 txt = page_text(page, f"https://ajaib.co.id/saham/aset/{t}?v={bust}", wait_re="WIB")
                 ajaib[t] = parse_ajaib(txt)
                 if not ajaib[t].get("close") or not ajaib[t].get("as_of"):
-                    if i < 2: dump(f"ajaib_{t}", txt); log(f"ajaib {t}: parse gagal, teks[:160]={txt[:160]!r}")
+                    log(f"ajaib {t}: parse gagal"); 
+                    if i < 3: dump(f"ajaib_{t}", txt)
             except Exception as e: log(f"ajaib {t}: {e}")
-        try:
-            txt = page_text(page, f"https://www.cnbcindonesia.com/market-data/quote/.JKSE?v={bust}", wait_re="Last updated")
-            c = parse_cnbc(txt)
-            if c.get("close"): cnbc["IHSG"] = c
-            else: dump("cnbc_JKSE", txt)
-        except Exception as e: log(f"cnbc IHSG: {e}")
-    ok_c = sum(1 for k, v in cnbc.items() if k != "IHSG" and v.get("close")); ok_a = sum(1 for v in ajaib.values() if v.get("close"))
-    log(f"cnbc: {ok_c} harga, ajaib: {ok_a} harga, IHSG cnbc: {'ok' if cnbc.get('IHSG') else 'n/a'}")
+            try:
+                txt = page_text(page, f"https://pluang.com/asset/indo-stock/{t.lower()}?v={bust}", wait_re="Hari Ini")
+                pluang[t] = parse_pluang(txt)
+                if not pluang[t].get("close"):
+                    log(f"pluang {t}: parse gagal")
+                    if i < 2: dump(f"pluang_{t}", txt)
+            except Exception as e: log(f"pluang {t}: {e}")
+    ok_a = sum(1 for v in ajaib.values() if v.get("close")); ok_p = sum(1 for v in pluang.values() if v.get("close"))
+    log(f"ajaib: {ok_a}/16 harga, pluang: {ok_p}/16 harga")
 
     # Gabungkan + validasi
     def closing_ok(ts):  # timestamp hari ini & >= 15:50 WIB
@@ -187,20 +207,27 @@ def main():
         if t in idx_prices and idx_prices[t].get("close"):
             rec = dict(idx_prices[t]); conf.append("idx")
             if rec.get("date") and rec["date"] != today: rec["stale"] = True
-        c, a = cnbc.get(t, {}), ajaib.get(t, {})
-        for src, d in (("cnbc", c), ("ajaib", a)):
-            if d.get("close") and closing_ok(d.get("as_of")):
-                if not rec:
-                    rec = {k: v for k, v in d.items() if k != "as_of"}; rec["date"] = today; rec["as_of"] = d["as_of"]; conf.append(src)
-                elif abs(d["close"] - rec["close"]) < 1e-6: conf.append(src)
-                else: rec.setdefault("conflicts", []).append({src: d["close"], "as_of": d["as_of"]})
+        a = ajaib.get(t, {})
+        if a.get("close") and closing_ok(a.get("as_of")):
+            if not rec:
+                rec = {"close": a["close"], "prev": a.get("prev"), "chg_pct": a.get("chg_pct"), "hi52": a.get("hi52"), "lo52": a.get("lo52"),
+                       "volume_txt": a.get("volume_txt"), "date": today, "as_of": a["as_of"], "source": "ajaib.co.id"}
+                conf.append("ajaib")
+            elif abs(a["close"] - rec["close"]) < 1e-6: conf.append("ajaib")
+            else: rec.setdefault("conflicts", []).append({"ajaib": a["close"], "as_of": a["as_of"]})
+        elif a.get("close"):
+            log(f"ajaib {t}: stempel {a.get('as_of')} bukan penutupan hari ini -> diabaikan")
+        p = pluang.get(t, {})
+        if rec and p.get("close"):
+            if abs(p["close"] - rec["close"]) < 1e-6: conf.append("pluang")
+            else: rec.setdefault("conflicts", []).append({"pluang": p["close"]})
         if rec:
             if rec.get("prev") and rec.get("close") and rec.get("chg_pct") is None:
                 rec["chg_pct"] = round((rec["close"]/rec["prev"]-1)*100, 2)
             rec["confirmed_by"] = conf
             rec["status"] = "stale" if rec.get("stale") else ("confirmed_2" if len(conf) >= 2 else "single_source")
             result["prices"][t] = rec
-    ih = idx_ihsg or cnbc.get("IHSG")
+    ih = idx_ihsg  # IHSG: run pagi memakai berita penutupan + kuotasi CNBC dari sandbox Claude
     if ih:
         if ih.get("prev") and ih.get("close") and ih.get("chg_pct") is None: ih["chg_pct"] = round((ih["close"]/ih["prev"]-1)*100, 2)
         result["ihsg"] = ih

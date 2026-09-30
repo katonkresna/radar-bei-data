@@ -14,11 +14,15 @@ membaca `data/latest.json` lewat `raw.githubusercontent.com` (tanpa cache halama
 Workflow juga bisa dijalankan manual dari tab **Actions → Radar BEI price relay → Run workflow**.
 
 ## Sumber (berurutan)
-1. **BEI resmi** — `idx.co.id` TradingSummary (`GetStockSummary`, `GetIndexSummary`): harga penutupan resmi + tanggal.
-2. **CNBC Indonesia** market-data quote (`Last updated HH:MM:SS WIB | DD/MM/YYYY`) — konfirmasi silang / cadangan.
-3. **Ajaib** halaman aset (stempel `Hari, DD Bulan YYYY HH:MM WIB`) — konfirmasi silang / cadangan.
+1. **BEI resmi** — `idx.co.id` TradingSummary: dicoba tiap run, tetapi Cloudflare BEI memblokir runner GitHub (30 Sep 2026: HTTP 403 "Just a moment"). Dipakai otomatis bila suatu hari lolos.
+2. **Ajaib** halaman aset — sumber utama yang berjalan dari runner GitHub: harga, perubahan, stempel `Hari, DD Bulan YYYY HH:MM WIB`, volume, rentang 52 minggu.
+3. **Pluang** halaman aset — pembanding nilai (judul "Hari Ini: RpX"; tanpa stempel waktu).
 
-Harga dari sumber 2–3 hanya dianggap sah bila stempelnya = hari itu **dan** jam ≥ 15.50 WIB (penutupan).
+CNBC Indonesia tidak dipakai di relay (Cloudflare mereka memblokir ASN GitHub, Error 1005); halaman CNBC tetap bisa dibaca
+oleh run briefing pagi dari sandbox Claude untuk IHSG dan konfirmasi silang.
+
+Harga Ajaib hanya dianggap sah bila stempelnya = hari itu **dan** jam ≥ 15.50 WIB (penutupan). Status per ticker:
+`confirmed_2` (Ajaib + Pluang/idx cocok), `single_source` (hanya satu sumber sah), `stale` (tanggal lama).
 
 ## Keluaran
 - `data/latest.json` — snapshot terbaru: `trade_date`, `status` (`ok` / `partial` / `failed`), `prices.<TICKER>` (`close`, `prev`, `chg_pct`, `open`, `high`, `low`, `volume`, `status`: `confirmed_2` / `single_source` / `stale`, `confirmed_by`), `ihsg`, `notes`, `log`.
