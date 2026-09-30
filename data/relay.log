@@ -1,10 +1,4 @@
-[17:20:30] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[17:20:36] idx-stock playwright: HTTP 403 body[:200]='www.idx.co.id\nMelakukan verifikasi keamanan\n\nSitus web menggunakan layanan keamanan untuk melindungi dari bot jahat. Halaman ini ditunjukkan semasa kami memverifikasi bahwa Anda bukan bot.\n\nRay ID: a4'
-[17:20:36] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[17:20:42] idx-index playwright: HTTP 403 body[:200]='www.idx.co.id\nMelakukan verifikasi keamanan\n\nSitus web menggunakan layanan keamanan untuk melindungi dari bot jahat. Halaman ini ditunjukkan semasa kami memverifikasi bahwa Anda bukan bot.\n\nRay ID: a4'
-[17:20:42] idx.co.id: 0/16 saham (None), IHSG n/a (None)
-[17:21:00] cnbc BMRI: parse gagal, teks[:160]='Error 1005 Ray ID: a4327f20cad0d6f0 • 2026-09-30 10:20:43 UTC\nAccess denied\nWhat happened?\n\nThe owner of this website (www.cnbcindonesia.com) has banned the aut'
-[17:21:13] ajaib BMRI: parse gagal, teks[:160]='Produk\nBiaya\nBelajar\nTentang Kami\nPusat Bantuan\nAjaib Terminal\nLogin Ajaib\nDaftar Ajaib\nBMRI\n\nBank Mandiri (Persero) Tbk.\n\nKeuangan\n\nDay Trading\n\nTrading Limit\n'
-[17:21:30] cnbc BBCA: parse gagal, teks[:160]='Error 1005 Ray ID: a4327fe0ad3fd6f0 • 2026-09-30 10:21:13 UTC\nAccess denied\nWhat happened?\n\nThe owner of this website (www.cnbcindonesia.com) has banned the aut'
-[17:21:38] ajaib BBCA: parse gagal, teks[:160]='Produk\nBiaya\nBelajar\nTentang Kami\nPusat Bantuan\nAjaib Terminal\nLogin Ajaib\nDaftar Ajaib\nBBCA\n\nBank Central Asia Tbk.\n\nKeuangan\n\nDay Trading\n\nTrading Limit\n\nMula'
-[17:28:09] cnbc: 0 harga, ajaib: 0 harga, IHSG cnbc: n/a
+[17:33:10] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[17:33:11] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[17:33:11] idx.co.id: 0/16 saham (None), IHSG n/a (None)
+[17:36:36] ajaib: 16/16 harga, pluang: 16/16 harga
