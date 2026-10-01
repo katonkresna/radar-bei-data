@@ -17,9 +17,9 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-6,075
-75 (-1.22%)
-Rabu, 30 September 2026 16:14 WIB
+6,100
+25 (0.41%)
+Invalid Date Invalid Date WIB
 221.34 M
 Volume
 1D
@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-01 Okt
-08 Des
-23 Feb
-11 Mei
-24 Jul
+02 Okt
+09 Des
+24 Feb
+12 Mei
+27 Jul
 4.753
 6.253
 7.753
@@ -123,6 +123,16 @@ Payment Date
 Selengkapnya
 Feeds
 Ajaib Official
+30 September 2026, 13:00 WIB
+
+Sesi 1 Foreign Net Sell Rp677 Miliar (30/9)
+
+Top Buy (Val): $ANTM, $UNTR, $BBRI
+Top Sell (Val): $ADMF, $BBCA, $TLKM
+
+0
+1
+Ajaib Official
 29 September 2026, 13:09 WIB
 
 Sesi 1 Foreign Net Sell Rp365 Miliar (29/9)
@@ -140,7 +150,7 @@ Sesi 1 Foreign Net Sell Rp129 Miliar (28/9)
 Top Buy (Val): $PTBA, $PEGE, $BBRI
 Top Sell (Val): $BMRI, $TLKM, $BBCA
 
-4
+8
 6
 Ajaib Official
 25 September 2026, 12:22 WIB
@@ -159,79 +169,72 @@ denimalang
 
 0
 1
-papaashraf
-25 September 2026, 09:12 WIB
-
-📢 Saya baru saja mengirim Order Jual $BBCA di harga Rp7.000.
-
-0
-1
 Berita dan Kabar BBCA Terbaru Hari Ini
+
+Sesi I Asing Kabur Rp 677,4 Miliar, Saham BCA Paling Banyak Dilepas
+
+CNBC Indonesia • 30 Sep 2026 • 13:07 WIB
 
 BEI Buka Short Seling 1 Oktober, Investor Harus Punya Modal Rp 50 Juta
 
 CNBC Indonesia • 30 Sep 2026 • 06:45 WIB
 
+IHSG Hari Ini Berpeluang Menguat, Cek Saham BBCA, ICBP hingga UNTR
+
+IDX Channel • 30 Sep 2026 • 06:41 WIB
+
 BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 
 IDX Channel • 29 Sep 2026 • 15:31 WIB
-
-IHSG Masih Merah, Ini 5 Saham Rekomendasi Hari ini
-
-CNBC Indonesia • 28 Sep 2026 • 12:07 WIB
-
-IHSG Anjlok Lebih dari 1%, Ini Penyebabnya
-
-CNBC Indonesia • 24 Sep 2026 • 11:43 WIB
 Saham Terkait
+
+BNBA
+
+Bank Bumi Arta Tbk.
+
+▲ 0.00%
+
+POLA
+
+Pool Advista Finance Tbk.
+
+▲ 5.13%
+
+PNBS
+
+Bank Panin Dubai Syariah Tbk.
+
+▲ 0.00%
+
+MEGA
+
+Bank Mega Tbk.
+
+▲ 0.26%
+
+MASB
+
+Bank Multiarta Sentosa Tbk.
+
+▲ 0.00%
 
 BNII
 
 Bank Maybank Indonesia Tbk.
 
-▲ 0.00%
-
-SRTG
-
-Saratoga Investama Sedaya Tbk.
-
-▼ 0.84%
-
-CASA
-
-Capital Financial Indonesia Tbk.
-
-▲ 0.00%
-
-BVIC
-
-Bank Victoria International Tbk.
-
-▲ 1.15%
-
-BINA
-
-Bank Ina Perdana Tbk.
-
-▲ 6.36%
-
-NICK
-
-Charnic Capital Tbk.
-
-▲ 0.00%
-
-BSIM
-
-Bank Sinarmas Tbk.
-
-▲ 2.20%
-
-BTPS
-
-Bank BTPN Syariah Tbk.
-
 ▼ 0.53%
+
+LPPS
+
+Lenox Pasifik Investama Tbk.
+
+▼ 1.56%
+
+BBSI
+
+Krom Bank Indonesia Tbk.
+
+▲ 0.00%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

@@ -1,4 +1,21 @@
-[23:53:41] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[23:53:41] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[23:53:41] idx.co.id: 0/16 saham (None), IHSG n/a (None)
-[23:57:03] ajaib: 16/16 harga, pluang: 16/16 harga
+[09:29:23] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[09:29:23] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[09:29:23] idx.co.id: 0/16 saham (None), IHSG n/a (None)
+[09:29:31] ajaib BMRI: parse gagal
+[09:29:43] ajaib BBCA: parse gagal
+[09:29:53] ajaib BBRI: parse gagal
+[09:30:04] ajaib BBNI: parse gagal
+[09:30:22] ajaib TLKM: parse gagal
+[09:30:31] ajaib ASII: parse gagal
+[09:30:40] ajaib AMRT: parse gagal
+[09:31:02] ajaib ISAT: parse gagal
+[09:31:19] ajaib INDF: parse gagal
+[09:31:28] ajaib SIDO: parse gagal
+[09:31:35] ajaib AADI: parse gagal
+[09:31:45] ajaib ADRO: parse gagal
+[09:31:55] ajaib PTBA: parse gagal
+[09:32:16] ajaib ANTM: parse gagal
+[09:32:27] ajaib MEDC: parse gagal
+[09:32:44] ajaib BRMS: parse gagal
+[09:32:48] ajaib: 0/16 harga, pluang: 16/16 harga
+[09:32:48] hasil gagal — latest.json lama (baik) dipertahankan

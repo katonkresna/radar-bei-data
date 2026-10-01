@@ -6,9 +6,9 @@ Pusat Bantuan
 Ajaib Terminal
 Login Ajaib
 Daftar Ajaib
-BMRI
+BBRI
 
-Bank Mandiri (Persero) Tbk.
+Bank Rakyat Indonesia (Persero) Tbk.
 
 Keuangan
 
@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-4,010
+3,140
 -
 Invalid Date Invalid Date WIB
-171.07 M
+14.72 M
 Volume
 1D
 1W
@@ -34,95 +34,105 @@ YTD
 24 Feb
 12 Mei
 27 Jul
-3.636
-4.086
-4.536
-4.986
-5.429
+2.538
+2.938
+3.338
+3.738
+4.080
 Performa Harga
 Harga kembali 1 minggu
--4.30%
+0.32%
 Harga kembali 1 Bulan
--5.65%
+-6.80%
 Harga kembali 3 Bulan
-4.16%
+17.98%
 Harga kembali 6 Bulan
--14.68%
+-5.97%
 Harga Tertinggi (52 Minggu)
-5,375
+4,050
 Harga Terendah (52 Minggu)
-3,650
+2,540
 Latar Belakang Perusahaan
-PT Bank Mandiri (Persero) Tbk didirikan 2 Oktober 1998, dan melantai di bursa saham pada 14 Juli 2003. PT Bank Mandiri (Persero) Tbk memiliki visi menjadi Indonesia's best, ASEAN's prominent.
+PT Bank Rakyat Indonesia (Persero) Tbk didirikan 16 Desember 1895, dan melantai di bursa saham pada 10 November 2003. PT Bank Rakyat Indonesia (Persero) Tbk memiliki visi The Most Valuable Bank di Asia Tenggara dan Home to the Best Talent.
 Summary
 Dividen
 Technical
 Statistik Utama
 Valuation Information
 Market Cap
-370.52 T
+471.14 T
 Current PE Ratio (Annualized)
-6.09
+7.71
 Current PE Ratio (TTM)
-5.95
+7.77
 Earnings Yield (TTM)
-16.8
+12.87
 Current Price to Book Value
-1.3
+1.48
 Current Price to Cashflow (TTM)
-8.58
+33.81
 Current Price to Free Cashflow (TTM)
-9.67
+61.71
 PEG Ratio
-0.76
+0.98
 Per Share
 Current EPS (TTM)
-673.71
+404.07
 Current EPS (Annualized)
-658.27
+407.3
 Revenue Per Share (TTM)
-1696.01
+1481.12
 Cash Equivalent Per Share
-2305.32
+1087.69
 Current Book Value Per Share
-3080.01
+2124.07
 Free Cashflow Per Share (TTM)
-414.82
+50.88
 Cashflow Per Share (TTM)
-467.59
+92.87
 Net Assets Per Share
-3171.24
+2168.62
 Analisis Teknikal
-Analisa Rating BMRI
-73%
+Analisa Rating BBRI
+71%
 Beli
 
-29/40
+25/35
 
-Mayoritas analis merekomendasikan Beli, dengan 7 Netral dan 4 Jual.
+Mayoritas analis merekomendasikan Beli, dengan 8 Netral dan 2 Jual.
 
 Jual
 
 Beli
 
 Jual
-Jual 10
+Jual 9
 Netral 0
-Beli 4
+Beli 5
 Baca selengkapnya
 Dividen
 Jumlah Dividen
-IDR 66
+IDR 209
 Cum Date
-15 September 2026
+20 April 2026
 Ex Date
-16 September 2026
+21 April 2026
 Record Date
-17 September 2026
+22 April 2026
 Payment Date
-02 Oktober 2026
+08 Mei 2026
 Selengkapnya
 Feeds
+Ajaib Official
+30 September 2026, 13:00 WIB
+
+Sesi 1 Foreign Net Sell Rp677 Miliar (30/9)
+
+Top Buy (Val): $ANTM, $UNTR, $BBRI
+Top Sell (Val): $ADMF, $BBCA, $TLKM
+
+0
+1
 Ajaib Official
 29 September 2026, 13:09 WIB
 
@@ -132,7 +142,7 @@ Top Buy (Val): $BBRI, $TPIA, $ASII
 Top Sell (Val): $ADMF, $BMRI, $BBCA
 
 1
-2
+3
 Ajaib Official
 28 September 2026, 12:43 WIB
 
@@ -143,16 +153,13 @@ Top Sell (Val): $BMRI, $TLKM, $BBCA
 
 9
 7
-Ajaib Official
-25 September 2026, 12:22 WIB
+Heru1986
+25 September 2026, 09:59 WIB
 
-Sesi 1 Foreign Net Sell Rp355 Miliar (25/9)
+📢 Saya baru saja mengirim Order Beli $BBRI di harga Rp3.100.
 
-Top Buy (Val): $BBCA, $TPIA, $PTBA
-Top Sell (Val): $TLKM, $DSSA, $BMRI
-
-7
 0
+1
 Ajaib Official
 24 September 2026, 12:30 WIB
 
@@ -163,40 +170,60 @@ Top Sell (Val): $BMRI, $BBRI, $TLKM
 
 5
 1
-Ajaib Official
-23 September 2026, 12:33 WIB
-
-Sesi 1 Foreign Net Sell Rp335 Miliar (23/9)
-
-Top Buy (Val): $MDKA, $TINS, $AMMN
-Top Sell (Val): $BBRI, $BMRI, $TLKM
-
-5
-5
-Berita dan Kabar BMRI Terbaru Hari Ini
+Berita dan Kabar BBRI Terbaru Hari Ini
 
 IHSG Naik 1%, Ini Penyebabnya
 
 CNBC Indonesia • 30 Sep 2026 • 09:51 WIB
 
-Rekomendasi Saham Hari Ini: CUAN, INET, hingga DMAS
+IHSG Masih Merah, Ini 5 Saham Rekomendasi Hari ini
 
-CNBC Indonesia • 18 Sep 2026 • 09:00 WIB
+CNBC Indonesia • 28 Sep 2026 • 12:07 WIB
 
-Pergerakan IHSG Masih Rawan Terkoreksi, Saham BMRI-BRPT Bisa Dicermati
+Dukung Program 3 Juta Rumah, BRI Perkuat Ekosistem Perumahan di DKI
 
-IDX Channel • 18 Sep 2026 • 05:05 WIB
+CNN Indonesia • 18 Sep 2026 • 12:36 WIB
 
-Emiten Batu Bara Sinar Mas (GEMS) Dapat Kredit dari BMRI US$42 Juta
+IHSG Balik Arah, Saham-Saham Bank Jadi Pemberat
 
-CNBC Indonesia • 17 Sep 2026 • 21:10 WIB
+CNBC Indonesia • 18 Sep 2026 • 12:32 WIB
 Saham Terkait
 
-BPII
+BACA
 
-Batavia Prosperindo Internasional Tbk.
+Bank Capital Indonesia Tbk.
 
-▲ 0.44%
+▲ 0.92%
+
+KREN
+
+Quantum Clovera Investama Tbk.
+
+▲ 0.00%
+
+ASDM
+
+Asuransi Dayin Mitra Tbk.
+
+▲ 0.00%
+
+BBYB
+
+Bank Neo Commerce Tbk.
+
+▲ 0.51%
+
+PNBS
+
+Bank Panin Dubai Syariah Tbk.
+
+▲ 0.00%
+
+AGRO
+
+Bank Raya Indonesia Tbk.
+
+▲ 0.00%
 
 WOMF
 
@@ -204,41 +231,11 @@ Wahana Ottomitra Multiartha Tbk.
 
 ▼ 1.48%
 
-BKSW
+BPII
 
-Bank QNB Indonesia Tbk.
+Batavia Prosperindo Internasional Tbk.
 
-▲ 0.00%
-
-MTWI
-
-Malacca Trust Wuwungan Insurance Tbk.
-
-▲ 0.00%
-
-BCAP
-
-MNC Kapital Indonesia Tbk.
-
-▼ 6.25%
-
-BBTN
-
-Bank Tabungan Negara (Persero) Tbk.
-
-▼ 0.47%
-
-BNBA
-
-Bank Bumi Arta Tbk.
-
-▲ 0.00%
-
-ASJT
-
-Asuransi Jasa Tania Tbk.
-
-▲ 1.25%
+▲ 0.44%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
@@ -331,4 +328,4 @@ Communication
 Transportation
 PT Ajaib Sekuritas Asia berizin dan diawasi oleh Otoritas Jasa Keuangan
 Download Aplikasi
-3.636
+2.538
