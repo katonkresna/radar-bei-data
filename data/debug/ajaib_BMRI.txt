@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-02 Okt
-09 Des
-24 Feb
-12 Mei
-27 Jul
+03 Okt
+10 Des
+25 Feb
+13 Mei
+28 Jul
 3.636
 4.086
 4.536
@@ -192,29 +192,23 @@ Pergerakan IHSG Masih Rawan Terkoreksi, Saham BMRI-BRPT Bisa Dicermati
 IDX Channel • 18 Sep 2026 • 05:05 WIB
 Saham Terkait
 
-BBCA
+POOL
 
-Bank Central Asia Tbk.
-
-▼ 1.23%
-
-BMAS
-
-Bank Kasikorn Indonesia Tbk.
-
-▲ 0.41%
-
-BNBA
-
-Bank Bumi Arta Tbk.
-
-▼ 5.33%
-
-OCAP
-
-Onix Capital Tbk.
+Pool Advista Indonesia Tbk.
 
 ▲ 0.00%
+
+ASDM
+
+Asuransi Dayin Mitra Tbk.
+
+▲ 0.00%
+
+AHAP
+
+Asuransi Harta Aman Pratama Tbk.
+
+▲ 1.11%
 
 MREI
 
@@ -222,23 +216,29 @@ Maskapai Reasuransi Indonesia Tbk.
 
 ▲ 0.00%
 
-BCAP
+APIC
 
-MNC Kapital Indonesia Tbk.
+Pacific Strategic Financial Tbk.
 
-▼ 3.12%
+▼ 0.50%
 
-ARTO
+BEKS
 
-Bank Jago Tbk.
+Bank Pembangunan Daerah Banten Tbk.
 
-▼ 2.52%
+▲ 8.00%
 
-BBKP
+BINA
 
-Bank KB Indonesia Tbk.
+Bank Ina Perdana Tbk.
 
-▲ 0.00%
+▼ 3.91%
+
+COIN
+
+Indokripto Koin Semesta Tbk.
+
+▼ 0.68%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

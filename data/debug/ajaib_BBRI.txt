@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-02 Okt
-09 Des
-24 Feb
-12 Mei
-27 Jul
+03 Okt
+10 Des
+25 Feb
+13 Mei
+28 Jul
 2.538
 2.938
 3.338
@@ -189,53 +189,53 @@ IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-BABP
+POLA
 
-Bank MNC Internasional Tbk.
+Pool Advista Finance Tbk.
 
-▼ 3.12%
+▲ 5.13%
 
-MASB
+CFIN
 
-Bank Multiarta Sentosa Tbk.
+Clipan Finance Indonesia Tbk.
 
-▲ 0.00%
+▼ 1.69%
 
-HDFA
+YOII
 
-Radana Bhaskara Finance Tbk.
+Asuransi Digital Bersama Tbk.
 
-▼ 1.08%
+▲ 1.35%
 
-BVIC
+BDMN
 
-Bank Victoria International Tbk.
+Bank Danamon Indonesia Tbk.
 
-▼ 2.27%
+▲ 4.04%
 
-AMOR
+BINA
 
-Ashmore Asset Management Indonesia Tbk.
+Bank Ina Perdana Tbk.
 
-▼ 0.56%
+▼ 3.91%
 
-DNAR
+MFIN
 
-Bank Oke Indonesia Tbk.
-
-▼ 0.82%
-
-PNBN
-
-Bank Pan Indonesia Tbk
-
-▼ 1.78%
-
-SFAN
-
-Surya Fajar Capital Tbk.
+Mandala Multifinance Tbk.
 
 ▲ 0.00%
+
+MCOR
+
+Bank China Construction Bank Indonesia Tbk.
+
+▼ 1.49%
+
+FUJI
+
+Fuji Finance Indonesia Tbk.
+
+▲ 3.45%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
