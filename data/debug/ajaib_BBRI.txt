@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-3,140
--
+3,100
+40 (-1.27%)
 Invalid Date Invalid Date WIB
-14.72 M
+134.1 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 4.080
 Performa Harga
 Harga kembali 1 minggu
-0.32%
+-1.27%
 Harga kembali 1 Bulan
--6.80%
+-8.28%
 Harga kembali 3 Bulan
-17.98%
+16.10%
 Harga kembali 6 Bulan
--5.97%
+-7.46%
 Harga Tertinggi (52 Minggu)
 4,050
 Harga Terendah (52 Minggu)
@@ -60,21 +60,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-471.14 T
+465.13 T
 Current PE Ratio (Annualized)
-7.71
+7.61
 Current PE Ratio (TTM)
-7.77
+7.67
 Earnings Yield (TTM)
-12.87
+13.03
 Current Price to Book Value
-1.48
+1.46
 Current Price to Cashflow (TTM)
-33.81
+33.38
 Current Price to Free Cashflow (TTM)
-61.71
+60.92
 PEG Ratio
-0.98
+0.97
 Per Share
 Current EPS (TTM)
 404.07
@@ -131,8 +131,8 @@ Sesi 1 Foreign Net Sell Rp677 Miliar (30/9)
 Top Buy (Val): $ANTM, $UNTR, $BBRI
 Top Sell (Val): $ADMF, $BBCA, $TLKM
 
-0
-1
+4
+3
 Ajaib Official
 29 September 2026, 13:09 WIB
 
@@ -172,70 +172,70 @@ Top Sell (Val): $BMRI, $BBRI, $TLKM
 1
 Berita dan Kabar BBRI Terbaru Hari Ini
 
-IHSG Naik 1%, Ini Penyebabnya
+Kinerja BRI Kinclong, 3 Indikator Ini di Atas Rata-Rata Industri
 
-CNBC Indonesia • 30 Sep 2026 • 09:51 WIB
+CNBC Indonesia • 1 Okt 2026 • 11:40 WIB
 
-IHSG Masih Merah, Ini 5 Saham Rekomendasi Hari ini
+BRI Jadi Satu-satunya Bank RI di SdanP Global Sustainability Yearbook
 
-CNBC Indonesia • 28 Sep 2026 • 12:07 WIB
+CNBC Indonesia • 1 Okt 2026 • 11:12 WIB
 
-Dukung Program 3 Juta Rumah, BRI Perkuat Ekosistem Perumahan di DKI
+BRI Infinite Prioritas Hadirkan Kesempatan Ekstra 27.000 GarudaMiles
 
-CNN Indonesia • 18 Sep 2026 • 12:36 WIB
+CNBC Indonesia • 1 Okt 2026 • 08:14 WIB
 
-IHSG Balik Arah, Saham-Saham Bank Jadi Pemberat
+IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 
-CNBC Indonesia • 18 Sep 2026 • 12:32 WIB
+IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-BACA
+BABP
 
-Bank Capital Indonesia Tbk.
+Bank MNC Internasional Tbk.
 
-▲ 0.92%
+▼ 3.12%
 
-KREN
+MASB
 
-Quantum Clovera Investama Tbk.
-
-▲ 0.00%
-
-ASDM
-
-Asuransi Dayin Mitra Tbk.
+Bank Multiarta Sentosa Tbk.
 
 ▲ 0.00%
 
-BBYB
+HDFA
 
-Bank Neo Commerce Tbk.
+Radana Bhaskara Finance Tbk.
 
-▲ 0.51%
+▼ 1.08%
 
-PNBS
+BVIC
 
-Bank Panin Dubai Syariah Tbk.
+Bank Victoria International Tbk.
+
+▼ 2.27%
+
+AMOR
+
+Ashmore Asset Management Indonesia Tbk.
+
+▼ 0.56%
+
+DNAR
+
+Bank Oke Indonesia Tbk.
+
+▼ 0.82%
+
+PNBN
+
+Bank Pan Indonesia Tbk
+
+▼ 1.78%
+
+SFAN
+
+Surya Fajar Capital Tbk.
 
 ▲ 0.00%
-
-AGRO
-
-Bank Raya Indonesia Tbk.
-
-▲ 0.00%
-
-WOMF
-
-Wahana Ottomitra Multiartha Tbk.
-
-▼ 1.48%
-
-BPII
-
-Batavia Prosperindo Internasional Tbk.
-
-▲ 0.44%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

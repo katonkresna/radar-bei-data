@@ -20,7 +20,7 @@ Mulai Investasi
 4,010
 -
 Invalid Date Invalid Date WIB
-171.07 M
+80.31 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 5.429
 Performa Harga
 Harga kembali 1 minggu
--4.30%
+-1.47%
 Harga kembali 1 Bulan
--5.65%
+-7.18%
 Harga kembali 3 Bulan
-4.16%
+5.25%
 Harga kembali 6 Bulan
--14.68%
+-15.04%
 Harga Tertinggi (52 Minggu)
 5,375
 Harga Terendah (52 Minggu)
@@ -132,7 +132,7 @@ Top Buy (Val): $BBRI, $TPIA, $ASII
 Top Sell (Val): $ADMF, $BMRI, $BBCA
 
 1
-2
+3
 Ajaib Official
 28 September 2026, 12:43 WIB
 
@@ -175,6 +175,10 @@ Top Sell (Val): $BBRI, $BMRI, $TLKM
 5
 Berita dan Kabar BMRI Terbaru Hari Ini
 
+5 Tahun Livin' by Mandiri Hadirkan Solusi Investasi dan Pembiayaan
+
+CNN Indonesia • 1 Okt 2026 • 21:43 WIB
+
 IHSG Naik 1%, Ini Penyebabnya
 
 CNBC Indonesia • 30 Sep 2026 • 09:51 WIB
@@ -186,33 +190,35 @@ CNBC Indonesia • 18 Sep 2026 • 09:00 WIB
 Pergerakan IHSG Masih Rawan Terkoreksi, Saham BMRI-BRPT Bisa Dicermati
 
 IDX Channel • 18 Sep 2026 • 05:05 WIB
-
-Emiten Batu Bara Sinar Mas (GEMS) Dapat Kredit dari BMRI US$42 Juta
-
-CNBC Indonesia • 17 Sep 2026 • 21:10 WIB
 Saham Terkait
 
-BPII
+BBCA
 
-Batavia Prosperindo Internasional Tbk.
+Bank Central Asia Tbk.
 
-▲ 0.44%
+▼ 1.23%
 
-WOMF
+BMAS
 
-Wahana Ottomitra Multiartha Tbk.
+Bank Kasikorn Indonesia Tbk.
 
-▼ 1.48%
+▲ 0.41%
 
-BKSW
+BNBA
 
-Bank QNB Indonesia Tbk.
+Bank Bumi Arta Tbk.
+
+▼ 5.33%
+
+OCAP
+
+Onix Capital Tbk.
 
 ▲ 0.00%
 
-MTWI
+MREI
 
-Malacca Trust Wuwungan Insurance Tbk.
+Maskapai Reasuransi Indonesia Tbk.
 
 ▲ 0.00%
 
@@ -220,25 +226,19 @@ BCAP
 
 MNC Kapital Indonesia Tbk.
 
-▼ 6.25%
+▼ 3.12%
 
-BBTN
+ARTO
 
-Bank Tabungan Negara (Persero) Tbk.
+Bank Jago Tbk.
 
-▼ 0.47%
+▼ 2.52%
 
-BNBA
+BBKP
 
-Bank Bumi Arta Tbk.
+Bank KB Indonesia Tbk.
 
 ▲ 0.00%
-
-ASJT
-
-Asuransi Jasa Tania Tbk.
-
-▲ 1.25%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

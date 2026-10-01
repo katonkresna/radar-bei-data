@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-6,100
-25 (0.41%)
+6,000
+75 (-1.23%)
 Invalid Date Invalid Date WIB
-221.34 M
+118.04 M
 Volume
 1D
 1W
@@ -40,13 +40,13 @@ YTD
 8.787
 Performa Harga
 Harga kembali 1 minggu
--3.57%
+-3.61%
 Harga kembali 1 Bulan
--6.18%
+-9.09%
 Harga kembali 3 Bulan
-9.46%
+7.14%
 Harga kembali 6 Bulan
--5.81%
+-7.69%
 Harga Tertinggi (52 Minggu)
 8,750
 Harga Terendah (52 Minggu)
@@ -59,21 +59,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-741.41 T
+732.25 T
 Current PE Ratio (Annualized)
-12.55
+12.4
 Current PE Ratio (TTM)
-12.77
+12.61
 Earnings Yield (TTM)
-7.83
+7.93
 Current Price to Book Value
-2.74
+2.71
 Current Price to Cashflow (TTM)
-10.77
+10.64
 Current Price to Free Cashflow (TTM)
-11.27
+11.13
 PEG Ratio
-4.72
+4.66
 Per Share
 Current EPS (TTM)
 475.69
@@ -123,6 +123,16 @@ Payment Date
 Selengkapnya
 Feeds
 Ajaib Official
+01 Oktober 2026, 12:38 WIB
+
+Sesi 1 Foreign Net Sell Rp204 Miliar (1/10)
+
+Top Buy (Val): $ENRG, $BBCA, $DSSA
+Top Sell (Val): $GOTO, $CUAN, $AMMN
+
+4
+3
+Ajaib Official
 30 September 2026, 13:00 WIB
 
 Sesi 1 Foreign Net Sell Rp677 Miliar (30/9)
@@ -130,8 +140,8 @@ Sesi 1 Foreign Net Sell Rp677 Miliar (30/9)
 Top Buy (Val): $ANTM, $UNTR, $BBRI
 Top Sell (Val): $ADMF, $BBCA, $TLKM
 
-0
-1
+4
+3
 Ajaib Official
 29 September 2026, 13:09 WIB
 
@@ -141,7 +151,7 @@ Top Buy (Val): $BBRI, $TPIA, $ASII
 Top Sell (Val): $ADMF, $BMRI, $BBCA
 
 1
-2
+3
 Ajaib Official
 28 September 2026, 12:43 WIB
 
@@ -150,8 +160,8 @@ Sesi 1 Foreign Net Sell Rp129 Miliar (28/9)
 Top Buy (Val): $PTBA, $PEGE, $BBRI
 Top Sell (Val): $BMRI, $TLKM, $BBCA
 
-8
-6
+9
+7
 Ajaib Official
 25 September 2026, 12:22 WIB
 
@@ -162,13 +172,6 @@ Top Sell (Val): $TLKM, $DSSA, $BMRI
 
 7
 0
-denimalang
-25 September 2026, 10:30 WIB
-
-📢 Saya mengirim Order Beli $BBCA di harga Rp6.250, dengan ⚡XTRA Day Trading.
-
-0
-1
 Berita dan Kabar BBCA Terbaru Hari Ini
 
 Sesi I Asing Kabur Rp 677,4 Miliar, Saham BCA Paling Banyak Dilepas
@@ -188,53 +191,53 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-BNBA
+CASA
 
-Bank Bumi Arta Tbk.
+Capital Financial Indonesia Tbk.
 
-▲ 0.00%
+▲ 4.72%
 
-POLA
+AGRS
 
-Pool Advista Finance Tbk.
+Bank IBK Indonesia Tbk.
 
-▲ 5.13%
+▼ 3.39%
 
-PNBS
+FUJI
 
-Bank Panin Dubai Syariah Tbk.
+Fuji Finance Indonesia Tbk.
 
-▲ 0.00%
+▲ 3.45%
 
-MEGA
+BTPN
 
-Bank Mega Tbk.
-
-▲ 0.26%
-
-MASB
-
-Bank Multiarta Sentosa Tbk.
+Bank SMBC Indonesia Tbk.
 
 ▲ 0.00%
 
-BNII
+KREN
 
-Bank Maybank Indonesia Tbk.
+Quantum Clovera Investama Tbk.
 
-▼ 0.53%
+▼ 6.67%
 
-LPPS
+SDRA
 
-Lenox Pasifik Investama Tbk.
+Bank Woori Saudara Indonesia 1906 Tbk.
 
-▼ 1.56%
+▼ 0.97%
 
-BBSI
+BBTN
 
-Krom Bank Indonesia Tbk.
+Bank Tabungan Negara (Persero) Tbk.
 
-▲ 0.00%
+▼ 1.40%
+
+MCOR
+
+Bank China Construction Bank Indonesia Tbk.
+
+▼ 1.49%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
