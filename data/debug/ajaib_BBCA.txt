@@ -18,9 +18,9 @@ Trading Limit
 
 Mulai Investasi
 6,000
-75 (-1.23%)
+-
 Invalid Date Invalid Date WIB
-118.04 M
+32.35 M
 Volume
 1D
 1W
@@ -40,13 +40,13 @@ YTD
 8.787
 Performa Harga
 Harga kembali 1 minggu
--3.61%
+-4.00%
 Harga kembali 1 Bulan
--9.09%
+-10.11%
 Harga kembali 3 Bulan
-7.14%
+3.45%
 Harga kembali 6 Bulan
--7.69%
+-8.75%
 Harga Tertinggi (52 Minggu)
 8,750
 Harga Terendah (52 Minggu)
@@ -191,53 +191,53 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-CFIN
+ASDM
 
-Clipan Finance Indonesia Tbk.
-
-▼ 1.69%
-
-BBMD
-
-Bank Mestika Dharma Tbk.
-
-▼ 1.46%
-
-BANK
-
-Bank Aladin Syariah Tbk.
-
-▲ 0.85%
-
-BTPS
-
-Bank BTPN Syariah Tbk.
+Asuransi Dayin Mitra Tbk.
 
 ▲ 0.00%
 
-TRUS
+SRTG
 
-Trust Finance Indonesia Tbk
+Saratoga Investama Sedaya Tbk.
 
-▼ 0.45%
+▼ 1.44%
 
-VICO
+SDRA
 
-Victoria Investama Tbk.
+Bank Woori Saudara Indonesia 1906 Tbk.
 
-▼ 1.99%
+▲ 0.98%
 
-YULE
+STAR
 
-Yulie Sekuritas Indonesia Tbk.
+Calculus Global Ventures Tbk.
+
+▲ 0.00%
+
+JMAS
+
+Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk.
 
 ▲ 0.00%
 
-MASB
+BPFI
 
-Bank Multiarta Sentosa Tbk.
+Woori Finance Indonesia Tbk.
 
-▲ 0.00%
+▲ 1.69%
+
+BINA
+
+Bank Ina Perdana Tbk.
+
+▼ 3.59%
+
+KREN
+
+Quantum Clovera Investama Tbk.
+
+▼ 7.14%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
