@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-6,000
--
+6,100
+100 (1.67%)
 Invalid Date Invalid Date WIB
-32.35 M
+131.92 M
 Volume
 1D
 1W
@@ -40,13 +40,13 @@ YTD
 8.787
 Performa Harga
 Harga kembali 1 minggu
--4.00%
+-2.40%
 Harga kembali 1 Bulan
--10.11%
+-8.61%
 Harga kembali 3 Bulan
-3.45%
+5.17%
 Harga kembali 6 Bulan
--8.75%
+-7.22%
 Harga Tertinggi (52 Minggu)
 8,750
 Harga Terendah (52 Minggu)
@@ -59,21 +59,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-732.25 T
+744.46 T
 Current PE Ratio (Annualized)
-12.4
+12.6
 Current PE Ratio (TTM)
-12.61
+12.82
 Earnings Yield (TTM)
-7.93
+7.8
 Current Price to Book Value
-2.71
+2.75
 Current Price to Cashflow (TTM)
-10.64
+10.81
 Current Price to Free Cashflow (TTM)
-11.13
+11.32
 PEG Ratio
-4.66
+4.74
 Per Share
 Current EPS (TTM)
 475.69
@@ -191,53 +191,53 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-ASDM
+PNLF
 
-Asuransi Dayin Mitra Tbk.
+Panin Financial Tbk.
 
-▲ 0.00%
+▲ 1.57%
 
-SRTG
+TIFA
 
-Saratoga Investama Sedaya Tbk.
+KDB Tifa Finance Tbk.
 
-▼ 1.44%
+▲ 24.48%
 
-SDRA
+YULE
 
-Bank Woori Saudara Indonesia 1906 Tbk.
-
-▲ 0.98%
-
-STAR
-
-Calculus Global Ventures Tbk.
+Yulie Sekuritas Indonesia Tbk.
 
 ▲ 0.00%
-
-JMAS
-
-Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk.
-
-▲ 0.00%
-
-BPFI
-
-Woori Finance Indonesia Tbk.
-
-▲ 1.69%
-
-BINA
-
-Bank Ina Perdana Tbk.
-
-▼ 3.59%
 
 KREN
 
 Quantum Clovera Investama Tbk.
 
-▼ 7.14%
+▲ 0.00%
+
+MAYA
+
+Bank Mayapada Internasional Tbk.
+
+▼ 1.00%
+
+PNBS
+
+Bank Panin Dubai Syariah Tbk.
+
+▲ 0.00%
+
+CFIN
+
+Clipan Finance Indonesia Tbk.
+
+▲ 0.57%
+
+BGTG
+
+Bank Ganesha Tbk.
+
+▼ 3.74%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

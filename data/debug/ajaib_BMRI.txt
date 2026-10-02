@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-4,010
--
+4,030
+20 (0.50%)
 Invalid Date Invalid Date WIB
-5.34 M
+75.14 M
 Volume
 1D
 1W
@@ -43,11 +43,11 @@ Performa Harga
 Harga kembali 1 minggu
 -1.23%
 Harga kembali 1 Bulan
--6.94%
+-7.57%
 Harga kembali 3 Bulan
-5.51%
+3.33%
 Harga kembali 6 Bulan
--14.83%
+-13.33%
 Harga Tertinggi (52 Minggu)
 5,375
 Harga Terendah (52 Minggu)
@@ -60,19 +60,19 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-371.45 T
+372.37 T
 Current PE Ratio (Annualized)
-6.11
+6.12
 Current PE Ratio (TTM)
-5.97
+5.98
 Earnings Yield (TTM)
-16.76
+16.72
 Current Price to Book Value
 1.31
 Current Price to Cashflow (TTM)
-8.6
+8.62
 Current Price to Free Cashflow (TTM)
-9.69
+9.71
 PEG Ratio
 0.76
 Per Share
@@ -192,51 +192,51 @@ Pergerakan IHSG Masih Rawan Terkoreksi, Saham BMRI-BRPT Bisa Dicermati
 IDX Channel • 18 Sep 2026 • 05:05 WIB
 Saham Terkait
 
-VINS
+BTPS
 
-Victoria Insurance Tbk.
+Bank BTPN Syariah Tbk.
+
+▼ 1.06%
+
+BBLD
+
+Buana Finance Tbk.
+
+▲ 1.52%
+
+BGTG
+
+Bank Ganesha Tbk.
+
+▼ 3.74%
+
+BBMD
+
+Bank Mestika Dharma Tbk.
+
+▲ 1.48%
+
+HDFA
+
+Radana Bhaskara Finance Tbk.
+
+▲ 2.17%
+
+OCAP
+
+Onix Capital Tbk.
 
 ▲ 0.00%
 
-AGRS
+COIN
 
-Bank IBK Indonesia Tbk.
+Indokripto Koin Semesta Tbk.
 
-▲ 1.75%
+▲ 0.69%
 
-BJBR
+VTNY
 
-Bank Pembangunan Daerah Jawa Barat dan Banten Tbk.
-
-▲ 0.00%
-
-ARTO
-
-Bank Jago Tbk.
-
-▼ 4.52%
-
-BINA
-
-Bank Ina Perdana Tbk.
-
-▼ 3.59%
-
-ASBI
-
-Asuransi Bintang Tbk.
-
-▼ 0.51%
-
-PNBN
-
-Bank Pan Indonesia Tbk
-
-▲ 0.60%
-
-AHAP
-
-Asuransi Harta Aman Pratama Tbk.
+Venteny Fortuna International Tbk.
 
 ▲ 0.00%
 

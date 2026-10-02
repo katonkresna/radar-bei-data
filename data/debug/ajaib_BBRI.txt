@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-3,070
-30 (-0.97%)
+3,080
+20 (-0.65%)
 Invalid Date Invalid Date WIB
-134.1 M
+170.34 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 4.080
 Performa Harga
 Harga kembali 1 minggu
--1.27%
+-2.22%
 Harga kembali 1 Bulan
--8.28%
+-9.14%
 Harga kembali 3 Bulan
-16.10%
+14.50%
 Harga kembali 6 Bulan
--7.46%
+-7.23%
 Harga Tertinggi (52 Minggu)
 4,050
 Harga Terendah (52 Minggu)
@@ -60,21 +60,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-465.13 T
+462.13 T
 Current PE Ratio (Annualized)
-7.61
+7.56
 Current PE Ratio (TTM)
-7.67
+7.62
 Earnings Yield (TTM)
-13.03
+13.12
 Current Price to Book Value
-1.46
+1.45
 Current Price to Cashflow (TTM)
-33.38
+33.16
 Current Price to Free Cashflow (TTM)
-60.92
+60.53
 PEG Ratio
-0.97
+0.96
 Per Share
 Current EPS (TTM)
 404.07
@@ -189,53 +189,53 @@ IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-PNIN
+BACA
 
-Paninvest Tbk.
+Bank Capital Indonesia Tbk.
+
+▲ 0.93%
+
+BTPN
+
+Bank SMBC Indonesia Tbk.
+
+▲ 1.25%
+
+DNET
+
+Indoritel Makmur Internasional Tbk.
+
+▲ 2.86%
+
+BMRI
+
+Bank Mandiri (Persero) Tbk.
+
+▲ 0.50%
+
+BNBA
+
+Bank Bumi Arta Tbk.
+
+▲ 1.25%
+
+NISP
+
+Bank OCBC NISP Tbk.
+
+▼ 0.81%
+
+BANK
+
+Bank Aladin Syariah Tbk.
+
+▲ 0.84%
+
+PNBS
+
+Bank Panin Dubai Syariah Tbk.
 
 ▲ 0.00%
-
-AMAG
-
-Asuransi Multi Artha Guna Tbk.
-
-▲ 0.00%
-
-ASMI
-
-Asuransi Maximus Graha Persada Tbk.
-
-▲ 5.26%
-
-VTNY
-
-Venteny Fortuna International Tbk.
-
-▲ 0.00%
-
-CFIN
-
-Clipan Finance Indonesia Tbk.
-
-▲ 0.00%
-
-AGRS
-
-Bank IBK Indonesia Tbk.
-
-▲ 1.75%
-
-VRNA
-
-Mizuho Leasing Indonesia Tbk.
-
-▲ 0.00%
-
-BNLI
-
-Bank Permata Tbk.
-
-▼ 1.30%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
