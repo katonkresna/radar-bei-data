@@ -18,9 +18,9 @@ Trading Limit
 
 Mulai Investasi
 3,080
-20 (-0.65%)
+-
 Invalid Date Invalid Date WIB
-170.34 M
+20.07 M
 Volume
 1D
 1W
@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-03 Okt
-10 Des
-25 Feb
-13 Mei
-28 Jul
+06 Okt
+11 Des
+26 Feb
+18 Mei
+29 Jul
 2.538
 2.938
 3.338
@@ -41,13 +41,13 @@ YTD
 4.080
 Performa Harga
 Harga kembali 1 minggu
--2.22%
+-2.55%
 Harga kembali 1 Bulan
--9.14%
+-9.73%
 Harga kembali 3 Bulan
-14.50%
+12.92%
 Harga kembali 6 Bulan
--7.23%
+-7.83%
 Harga Tertinggi (52 Minggu)
 4,050
 Harga Terendah (52 Minggu)
@@ -60,19 +60,19 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-462.13 T
+460.63 T
 Current PE Ratio (Annualized)
-7.56
+7.54
 Current PE Ratio (TTM)
-7.62
+7.6
 Earnings Yield (TTM)
-13.12
+13.16
 Current Price to Book Value
 1.45
 Current Price to Cashflow (TTM)
-33.16
+33.06
 Current Price to Free Cashflow (TTM)
-60.53
+60.33
 PEG Ratio
 0.96
 Per Share
@@ -131,7 +131,7 @@ Sesi 1 Foreign Net Sell Rp677 Miliar (30/9)
 Top Buy (Val): $ANTM, $UNTR, $BBRI
 Top Sell (Val): $ADMF, $BBCA, $TLKM
 
-4
+10
 3
 Ajaib Official
 29 September 2026, 13:09 WIB
@@ -189,53 +189,53 @@ IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-NISP
+VICO
 
-Bank OCBC NISP Tbk.
+Victoria Investama Tbk.
 
-▼ 0.81%
+▲ 0.65%
 
-IBFN
+IMJS
 
-Intan Baru Prana Tbk.
+Indomobil Multi Jasa Tbk.
+
+▲ 1.24%
+
+YULE
+
+Yulie Sekuritas Indonesia Tbk.
+
+▲ 3.65%
+
+MREI
+
+Maskapai Reasuransi Indonesia Tbk.
 
 ▲ 0.00%
 
-VINS
+BVIC
 
-Victoria Insurance Tbk.
+Bank Victoria International Tbk.
 
-▲ 0.72%
+▲ 2.33%
 
-TIFA
+BANK
 
-KDB Tifa Finance Tbk.
+Bank Aladin Syariah Tbk.
 
-▲ 24.48%
+▲ 1.67%
 
-TRIM
+BBNI
 
-Trimegah Sekuritas Indonesia Tbk.
+Bank Negara Indonesia (Persero) Tbk.
 
-▼ 3.16%
+▲ 0.29%
 
-MEGA
+YOII
 
-Bank Mega Tbk.
+Asuransi Digital Bersama Tbk.
 
-▲ 0.52%
-
-DEFI
-
-Danasupra Erapacific Tbk.
-
-▼ 2.20%
-
-BBSI
-
-Krom Bank Indonesia Tbk.
-
-▼ 2.81%
+▲ 0.00%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

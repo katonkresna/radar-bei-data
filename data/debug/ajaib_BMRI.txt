@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-4,030
-20 (0.50%)
+4,060
+30 (0.74%)
 Invalid Date Invalid Date WIB
-75.14 M
+13.68 M
 Volume
 1D
 1W
@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-03 Okt
-10 Des
-25 Feb
-13 Mei
-28 Jul
+06 Okt
+11 Des
+26 Feb
+18 Mei
+29 Jul
 3.636
 4.086
 4.536
@@ -41,13 +41,13 @@ YTD
 5.429
 Performa Harga
 Harga kembali 1 minggu
--1.23%
+1.49%
 Harga kembali 1 Bulan
--7.57%
+-7.69%
 Harga kembali 3 Bulan
-3.33%
+1.75%
 Harga kembali 6 Bulan
--13.33%
+-12.26%
 Harga Tertinggi (52 Minggu)
 5,375
 Harga Terendah (52 Minggu)
@@ -60,21 +60,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-372.37 T
+376.07 T
 Current PE Ratio (Annualized)
-6.12
+6.18
 Current PE Ratio (TTM)
-5.98
+6.04
 Earnings Yield (TTM)
-16.72
+16.55
 Current Price to Book Value
-1.31
+1.32
 Current Price to Cashflow (TTM)
-8.62
+8.7
 Current Price to Free Cashflow (TTM)
-9.71
+9.81
 PEG Ratio
-0.76
+0.77
 Per Share
 Current EPS (TTM)
 673.71
@@ -192,53 +192,53 @@ Pergerakan IHSG Masih Rawan Terkoreksi, Saham BMRI-BRPT Bisa Dicermati
 IDX Channel • 18 Sep 2026 • 05:05 WIB
 Saham Terkait
 
-DNET
-
-Indoritel Makmur Internasional Tbk.
-
-▲ 2.86%
-
-SFAN
-
-Surya Fajar Capital Tbk.
-
-▼ 0.25%
-
-SUPA
-
-Super Bank Indonesia Tbk.
-
-▲ 0.00%
-
-PNLF
-
-Panin Financial Tbk.
-
-▲ 1.57%
-
-POOL
-
-Pool Advista Indonesia Tbk.
-
-▲ 0.00%
-
 WOMF
 
 Wahana Ottomitra Multiartha Tbk.
 
 ▲ 0.00%
 
-AMOR
+TRUS
 
-Ashmore Asset Management Indonesia Tbk.
+Trust Finance Indonesia Tbk
 
-▲ 2.26%
+▲ 0.44%
 
-LPGI
+TUGU
 
-Lippo General Insurance Tbk.
+Asuransi Tugu Pratama Indonesia Tbk.
+
+▲ 13.12%
+
+NOBU
+
+Bank Nationalnobu Tbk.
 
 ▲ 0.00%
+
+VINS
+
+Victoria Insurance Tbk.
+
+▲ 0.71%
+
+PLAS
+
+Polaris Investama Tbk
+
+▲ 0.00%
+
+RELI
+
+Reliance Sekuritas Indonesia Tbk.
+
+▲ 0.00%
+
+BNBA
+
+Bank Bumi Arta Tbk.
+
+▲ 1.85%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

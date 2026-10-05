@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-6,100
-100 (1.67%)
+6,125
+25 (0.41%)
 Invalid Date Invalid Date WIB
-131.92 M
+7.23 M
 Volume
 1D
 1W
@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-03 Okt
-10 Des
-25 Feb
-13 Mei
-28 Jul
+06 Okt
+11 Des
+26 Feb
+18 Mei
+29 Jul
 4.753
 6.253
 7.753
@@ -130,8 +130,8 @@ Sesi 1 Foreign Net Sell Rp204 Miliar (1/10)
 Top Buy (Val): $ENRG, $BBCA, $DSSA
 Top Sell (Val): $GOTO, $CUAN, $AMMN
 
-4
-3
+5
+5
 Ajaib Official
 30 September 2026, 13:00 WIB
 
@@ -140,7 +140,7 @@ Sesi 1 Foreign Net Sell Rp677 Miliar (30/9)
 Top Buy (Val): $ANTM, $UNTR, $BBRI
 Top Sell (Val): $ADMF, $BBCA, $TLKM
 
-4
+10
 3
 Ajaib Official
 29 September 2026, 13:09 WIB
@@ -191,53 +191,53 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-AMAG
+MFIN
 
-Asuransi Multi Artha Guna Tbk.
-
-▲ 1.04%
-
-ASMI
-
-Asuransi Maximus Graha Persada Tbk.
-
-▲ 10.53%
-
-DEFI
-
-Danasupra Erapacific Tbk.
-
-▼ 2.20%
-
-BCAP
-
-MNC Kapital Indonesia Tbk.
-
-▼ 6.45%
-
-TRIM
-
-Trimegah Sekuritas Indonesia Tbk.
-
-▼ 3.16%
-
-KREN
-
-Quantum Clovera Investama Tbk.
+Mandala Multifinance Tbk.
 
 ▲ 0.00%
 
-VRNA
+BCIC
 
-Mizuho Leasing Indonesia Tbk.
+Bank JTrust Indonesia Tbk.
 
-▼ 1.35%
+▼ 1.55%
 
-CASA
+SDRA
 
-Capital Financial Indonesia Tbk.
+Bank Woori Saudara Indonesia 1906 Tbk.
 
-▼ 1.06%
+▲ 0.00%
+
+BBNI
+
+Bank Negara Indonesia (Persero) Tbk.
+
+▲ 0.29%
+
+OCAP
+
+Onix Capital Tbk.
+
+▲ 0.00%
+
+COIN
+
+Indokripto Koin Semesta Tbk.
+
+▲ 1.37%
+
+MAYA
+
+Bank Mayapada Internasional Tbk.
+
+▼ 0.51%
+
+DNET
+
+Indoritel Makmur Internasional Tbk.
+
+▼ 0.25%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
