@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-3,080
--
+3,120
+40 (1.30%)
 Invalid Date Invalid Date WIB
-20.07 M
+135.38 M
 Volume
 1D
 1W
@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-06 Okt
-11 Des
-26 Feb
-18 Mei
-29 Jul
+07 Okt
+12 Des
+27 Feb
+19 Mei
+30 Jul
 2.538
 2.938
 3.338
@@ -41,13 +41,13 @@ YTD
 4.080
 Performa Harga
 Harga kembali 1 minggu
--2.55%
+-0.64%
 Harga kembali 1 Bulan
--9.73%
+-7.96%
 Harga kembali 3 Bulan
-12.92%
+15.13%
 Harga kembali 6 Bulan
--7.83%
+-6.02%
 Harga Tertinggi (52 Minggu)
 4,050
 Harga Terendah (52 Minggu)
@@ -60,21 +60,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-460.63 T
+468.14 T
 Current PE Ratio (Annualized)
-7.54
+7.66
 Current PE Ratio (TTM)
-7.6
+7.72
 Earnings Yield (TTM)
-13.16
+12.95
 Current Price to Book Value
-1.45
+1.47
 Current Price to Cashflow (TTM)
-33.06
+33.59
 Current Price to Free Cashflow (TTM)
-60.33
+61.31
 PEG Ratio
-0.96
+0.97
 Per Share
 Current EPS (TTM)
 404.07
@@ -94,12 +94,12 @@ Net Assets Per Share
 2168.62
 Analisis Teknikal
 Analisa Rating BBRI
-71%
+68%
 Beli
 
-25/35
+23/34
 
-Mayoritas analis merekomendasikan Beli, dengan 8 Netral dan 2 Jual.
+Mayoritas analis merekomendasikan Beli, dengan 9 Netral dan 2 Jual.
 
 Jual
 
@@ -189,53 +189,53 @@ IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-VICO
+SMMA
 
-Victoria Investama Tbk.
+Sinarmas Multiartha Tbk.
 
-▲ 0.65%
+▲ 0.25%
 
-IMJS
+TUGU
 
-Indomobil Multi Jasa Tbk.
+Asuransi Tugu Pratama Indonesia Tbk.
 
-▲ 1.24%
+▲ 9.57%
 
-YULE
+BACA
 
-Yulie Sekuritas Indonesia Tbk.
+Bank Capital Indonesia Tbk.
 
-▲ 3.65%
+▲ 0.92%
 
-MREI
+DNAR
 
-Maskapai Reasuransi Indonesia Tbk.
+Bank Oke Indonesia Tbk.
 
-▲ 0.00%
+▲ 2.50%
 
-BVIC
+FUJI
 
-Bank Victoria International Tbk.
+Fuji Finance Indonesia Tbk.
 
-▲ 2.33%
+▼ 0.68%
 
-BANK
+NICK
 
-Bank Aladin Syariah Tbk.
-
-▲ 1.67%
-
-BBNI
-
-Bank Negara Indonesia (Persero) Tbk.
-
-▲ 0.29%
-
-YOII
-
-Asuransi Digital Bersama Tbk.
+Charnic Capital Tbk.
 
 ▲ 0.00%
+
+SRTG
+
+Saratoga Investama Sedaya Tbk.
+
+▲ 1.17%
+
+SFAN
+
+Surya Fajar Capital Tbk.
+
+▲ 0.25%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-6,125
-25 (0.41%)
+6,175
+75 (1.23%)
 Invalid Date Invalid Date WIB
-7.23 M
+89.91 M
 Volume
 1D
 1W
@@ -29,24 +29,24 @@ Volume
 1Y
 5Y
 YTD
-06 Okt
-11 Des
-26 Feb
-18 Mei
-29 Jul
+07 Okt
+12 Des
+27 Feb
+19 Mei
+30 Jul
 4.753
 6.253
 7.753
 8.787
 Performa Harga
 Harga kembali 1 minggu
--2.40%
+-0.80%
 Harga kembali 1 Bulan
--8.61%
+-7.84%
 Harga kembali 3 Bulan
-5.17%
+2.07%
 Harga kembali 6 Bulan
--7.22%
+-6.08%
 Harga Tertinggi (52 Minggu)
 8,750
 Harga Terendah (52 Minggu)
@@ -59,21 +59,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-744.46 T
+753.61 T
 Current PE Ratio (Annualized)
-12.6
+12.76
 Current PE Ratio (TTM)
-12.82
+12.98
 Earnings Yield (TTM)
-7.8
+7.7
 Current Price to Book Value
-2.75
+2.79
 Current Price to Cashflow (TTM)
-10.81
+10.95
 Current Price to Free Cashflow (TTM)
-11.32
+11.46
 PEG Ratio
-4.74
+4.8
 Per Share
 Current EPS (TTM)
 475.69
@@ -104,10 +104,10 @@ Jual
 
 Beli
 
-Jual
-Jual 10
+Netral
+Jual 8
 Netral 0
-Beli 4
+Beli 6
 Baca selengkapnya
 Dividen
 Jumlah Dividen
@@ -130,8 +130,8 @@ Sesi 1 Foreign Net Sell Rp204 Miliar (1/10)
 Top Buy (Val): $ENRG, $BBCA, $DSSA
 Top Sell (Val): $GOTO, $CUAN, $AMMN
 
-5
-5
+6
+9
 Ajaib Official
 30 September 2026, 13:00 WIB
 
@@ -191,53 +191,53 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-MFIN
+PADI
 
-Mandala Multifinance Tbk.
+Minna Padi Investama Sekuritas Tbk.
+
+▲ 5.00%
+
+ASBI
+
+Asuransi Bintang Tbk.
+
+▲ 1.55%
+
+SRTG
+
+Saratoga Investama Sedaya Tbk.
+
+▲ 1.17%
+
+VTNY
+
+Venteny Fortuna International Tbk.
 
 ▲ 0.00%
 
-BCIC
+BANK
 
-Bank JTrust Indonesia Tbk.
-
-▼ 1.55%
-
-SDRA
-
-Bank Woori Saudara Indonesia 1906 Tbk.
+Bank Aladin Syariah Tbk.
 
 ▲ 0.00%
 
-BBNI
+PEGE
 
-Bank Negara Indonesia (Persero) Tbk.
+Panca Global Kapital Tbk.
 
-▲ 0.29%
+▲ 0.00%
+
+ASDM
+
+Asuransi Dayin Mitra Tbk.
+
+▲ 0.99%
 
 OCAP
 
 Onix Capital Tbk.
 
 ▲ 0.00%
-
-COIN
-
-Indokripto Koin Semesta Tbk.
-
-▲ 1.37%
-
-MAYA
-
-Bank Mayapada Internasional Tbk.
-
-▼ 0.51%
-
-DNET
-
-Indoritel Makmur Internasional Tbk.
-
-▼ 0.25%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

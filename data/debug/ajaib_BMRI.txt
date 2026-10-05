@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-4,060
-30 (0.74%)
+4,100
+70 (1.74%)
 Invalid Date Invalid Date WIB
-13.68 M
+87.17 M
 Volume
 1D
 1W
@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-06 Okt
-11 Des
-26 Feb
-18 Mei
-29 Jul
+07 Okt
+12 Des
+27 Feb
+19 Mei
+30 Jul
 3.636
 4.086
 4.536
@@ -41,13 +41,13 @@ YTD
 5.429
 Performa Harga
 Harga kembali 1 minggu
-1.49%
+1.99%
 Harga kembali 1 Bulan
--7.69%
+-7.24%
 Harga kembali 3 Bulan
-1.75%
+2.24%
 Harga kembali 6 Bulan
--12.26%
+-11.83%
 Harga Tertinggi (52 Minggu)
 5,375
 Harga Terendah (52 Minggu)
@@ -60,19 +60,19 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-376.07 T
+378.84 T
 Current PE Ratio (Annualized)
-6.18
+6.23
 Current PE Ratio (TTM)
-6.04
+6.09
 Earnings Yield (TTM)
-16.55
+16.43
 Current Price to Book Value
-1.32
+1.33
 Current Price to Cashflow (TTM)
-8.7
+8.77
 Current Price to Free Cashflow (TTM)
-9.81
+9.88
 PEG Ratio
 0.77
 Per Share
@@ -99,16 +99,16 @@ Beli
 
 29/40
 
-Mayoritas analis merekomendasikan Beli, dengan 7 Netral dan 4 Jual.
+Mayoritas analis merekomendasikan Beli, dengan 6 Netral dan 5 Jual.
 
 Jual
 
 Beli
 
-Jual
-Jual 10
+Netral
+Jual 8
 Netral 0
-Beli 4
+Beli 6
 Baca selengkapnya
 Dividen
 Jumlah Dividen
@@ -196,49 +196,49 @@ WOMF
 
 Wahana Ottomitra Multiartha Tbk.
 
-▲ 0.00%
+▲ 3.70%
 
-TRUS
+NICK
 
-Trust Finance Indonesia Tbk
-
-▲ 0.44%
-
-TUGU
-
-Asuransi Tugu Pratama Indonesia Tbk.
-
-▲ 13.12%
-
-NOBU
-
-Bank Nationalnobu Tbk.
+Charnic Capital Tbk.
 
 ▲ 0.00%
 
-VINS
+PNLF
 
-Victoria Insurance Tbk.
+Panin Financial Tbk.
 
-▲ 0.71%
+▲ 1.03%
 
-PLAS
+VRNA
 
-Polaris Investama Tbk
+Mizuho Leasing Indonesia Tbk.
+
+▲ 2.74%
+
+PNBS
+
+Bank Panin Dubai Syariah Tbk.
+
+▲ 5.00%
+
+YULE
+
+Yulie Sekuritas Indonesia Tbk.
 
 ▲ 0.00%
 
-RELI
+BFIN
 
-Reliance Sekuritas Indonesia Tbk.
+BFI Finance Indonesia Tbk.
+
+▲ 2.20%
+
+IBFN
+
+Intan Baru Prana Tbk.
 
 ▲ 0.00%
-
-BNBA
-
-Bank Bumi Arta Tbk.
-
-▲ 1.85%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
