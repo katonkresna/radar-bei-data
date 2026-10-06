@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-6,200
-25 (0.40%)
+6,100
+75 (-1.21%)
 Invalid Date Invalid Date WIB
-20.52 M
+152.17 M
 Volume
 1D
 1W
@@ -40,13 +40,13 @@ YTD
 8.787
 Performa Harga
 Harga kembali 1 minggu
-0.41%
+-0.81%
 Harga kembali 1 Bulan
--7.84%
+-8.96%
 Harga kembali 3 Bulan
-0.82%
+-0.41%
 Harga kembali 6 Bulan
--5.00%
+-6.15%
 Harga Tertinggi (52 Minggu)
 8,750
 Harga Terendah (52 Minggu)
@@ -59,21 +59,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-753.61 T
+744.46 T
 Current PE Ratio (Annualized)
-12.76
+12.6
 Current PE Ratio (TTM)
-12.98
+12.82
 Earnings Yield (TTM)
-7.7
+7.8
 Current Price to Book Value
-2.79
+2.75
 Current Price to Cashflow (TTM)
-10.95
+10.81
 Current Price to Free Cashflow (TTM)
-11.46
+11.32
 PEG Ratio
-4.8
+4.74
 Per Share
 Current EPS (TTM)
 475.69
@@ -104,10 +104,10 @@ Jual
 
 Beli
 
-Netral
-Jual 8
+Jual
+Jual 10
 Netral 0
-Beli 6
+Beli 4
 Baca selengkapnya
 Dividen
 Jumlah Dividen
@@ -130,8 +130,8 @@ Sesi 1 Foreign Net Sell Rp204 Miliar (1/10)
 Top Buy (Val): $ENRG, $BBCA, $DSSA
 Top Sell (Val): $GOTO, $CUAN, $AMMN
 
-6
-9
+8
+10
 Ajaib Official
 30 September 2026, 13:00 WIB
 
@@ -191,53 +191,53 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-ASDM
+BSIM
 
-Asuransi Dayin Mitra Tbk.
+Bank Sinarmas Tbk.
+
+▲ 2.59%
+
+FUJI
+
+Fuji Finance Indonesia Tbk.
+
+▲ 2.04%
+
+BBSI
+
+Krom Bank Indonesia Tbk.
+
+▲ 4.58%
+
+RELI
+
+Reliance Sekuritas Indonesia Tbk.
+
+▲ 5.83%
+
+BGTG
+
+Bank Ganesha Tbk.
+
+▲ 0.95%
+
+PNLF
+
+Panin Financial Tbk.
+
+▲ 1.02%
+
+BEKS
+
+Bank Pembangunan Daerah Banten Tbk.
+
+▲ 20.00%
+
+SUPA
+
+Super Bank Indonesia Tbk.
 
 ▲ 0.00%
-
-YOII
-
-Asuransi Digital Bersama Tbk.
-
-▲ 0.00%
-
-BMRI
-
-Bank Mandiri (Persero) Tbk.
-
-▲ 1.22%
-
-HDFA
-
-Radana Bhaskara Finance Tbk.
-
-▲ 3.23%
-
-BCAP
-
-MNC Kapital Indonesia Tbk.
-
-▲ 3.33%
-
-AMAG
-
-Asuransi Multi Artha Guna Tbk.
-
-▲ 0.00%
-
-BPFI
-
-Woori Finance Indonesia Tbk.
-
-▲ 0.00%
-
-NISP
-
-Bank OCBC NISP Tbk.
-
-▲ 0.40%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

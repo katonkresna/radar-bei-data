@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-3,170
-50 (1.60%)
+3,110
+10 (-0.32%)
 Invalid Date Invalid Date WIB
-39.17 M
+139.17 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 4.080
 Performa Harga
 Harga kembali 1 minggu
--
+-1.89%
 Harga kembali 1 Bulan
--6.49%
+-8.26%
 Harga kembali 3 Bulan
-13.62%
+11.47%
 Harga kembali 6 Bulan
--4.23%
+-6.04%
 Harga Tertinggi (52 Minggu)
 4,050
 Harga Terendah (52 Minggu)
@@ -60,21 +60,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-475.64 T
+466.64 T
 Current PE Ratio (Annualized)
-7.78
+7.64
 Current PE Ratio (TTM)
-7.85
+7.7
 Earnings Yield (TTM)
-12.75
+12.99
 Current Price to Book Value
-1.49
+1.46
 Current Price to Cashflow (TTM)
-34.13
+33.49
 Current Price to Free Cashflow (TTM)
-62.3
+61.12
 PEG Ratio
-0.99
+0.97
 Per Share
 Current EPS (TTM)
 404.07
@@ -124,6 +124,16 @@ Payment Date
 Selengkapnya
 Feeds
 Ajaib Official
+05 Oktober 2026, 12:30 WIB
+
+Sesi 1 Foreign Net Sell Rp205 Miliar (5/10)
+
+Top Buy (Val): $BMRI, $GOTO, $BUVA
+Top Sell (Val): $BBRI, $BUMI, $AMMN
+
+3
+2
+Ajaib Official
 30 September 2026, 13:00 WIB
 
 Sesi 1 Foreign Net Sell Rp677 Miliar (30/9)
@@ -160,16 +170,6 @@ Heru1986
 
 0
 1
-Ajaib Official
-24 September 2026, 12:30 WIB
-
-Sesi 1 Foreign Net Sell Rp987 Miliar (24/9)
-
-Top Buy (Val): $ASII, $ASLI, $TINS
-Top Sell (Val): $BMRI, $BBRI, $TLKM
-
-5
-1
 Berita dan Kabar BBRI Terbaru Hari Ini
 
 Kinerja BRI Kinclong, 3 Indikator Ini di Atas Rata-Rata Industri
@@ -189,17 +189,41 @@ IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-BVIC
+STAR
 
-Bank Victoria International Tbk.
+Calculus Global Ventures Tbk.
 
-▲ 1.15%
+▲ 0.49%
 
-PNBN
+FUJI
 
-Bank Pan Indonesia Tbk
+Fuji Finance Indonesia Tbk.
 
-▲ 0.61%
+▲ 2.04%
+
+OCAP
+
+Onix Capital Tbk.
+
+▲ 0.00%
+
+MASB
+
+Bank Multiarta Sentosa Tbk.
+
+▲ 0.96%
+
+BNLI
+
+Bank Permata Tbk.
+
+▲ 1.30%
+
+MREI
+
+Maskapai Reasuransi Indonesia Tbk.
+
+▲ 0.00%
 
 MTWI
 
@@ -207,35 +231,11 @@ Malacca Trust Wuwungan Insurance Tbk.
 
 ▲ 0.00%
 
-DNET
+PEGE
 
-Indoritel Makmur Internasional Tbk.
+Panca Global Kapital Tbk.
 
-▲ 0.25%
-
-APIC
-
-Pacific Strategic Financial Tbk.
-
-▼ 0.50%
-
-AGRO
-
-Bank Raya Indonesia Tbk.
-
-▲ 2.94%
-
-DEFI
-
-Danasupra Erapacific Tbk.
-
-▲ 2.20%
-
-BNLI
-
-Bank Permata Tbk.
-
-▲ 1.30%
+▼ 2.92%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
