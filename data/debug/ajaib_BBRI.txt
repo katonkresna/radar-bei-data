@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-07 Okt
-12 Des
-27 Feb
-19 Mei
-30 Jul
+08 Okt
+15 Des
+02 Mar
+20 Mei
+31 Jul
 2.538
 2.938
 3.338
@@ -189,53 +189,53 @@ IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-STAR
+IMJS
 
-Calculus Global Ventures Tbk.
+Indomobil Multi Jasa Tbk.
 
-▲ 0.49%
+▲ 3.01%
 
-FUJI
+LIFE
 
-Fuji Finance Indonesia Tbk.
+MSIG Life Insurance Indonesia Tbk.
 
-▲ 2.04%
+▼ 1.02%
 
-OCAP
+PADI
 
-Onix Capital Tbk.
+Minna Padi Investama Sekuritas Tbk.
 
-▲ 0.00%
+▲ 4.76%
 
-MASB
+ASJT
 
-Bank Multiarta Sentosa Tbk.
+Asuransi Jasa Tania Tbk.
 
-▲ 0.96%
+▼ 0.61%
 
-BNLI
+BRIS
 
-Bank Permata Tbk.
+Bank Syariah Indonesia (Persero) Tbk.
 
-▲ 1.30%
+▼ 0.35%
 
-MREI
+PANS
 
-Maskapai Reasuransi Indonesia Tbk.
+Panin Sekuritas Tbk.
 
-▲ 0.00%
+▲ 0.61%
 
-MTWI
+BBLD
 
-Malacca Trust Wuwungan Insurance Tbk.
+Buana Finance Tbk.
 
-▲ 0.00%
+▲ 1.52%
 
-PEGE
+BTPN
 
-Panca Global Kapital Tbk.
+Bank SMBC Indonesia Tbk.
 
-▼ 2.92%
+▲ 0.82%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

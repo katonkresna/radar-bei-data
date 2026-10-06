@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-07 Okt
-12 Des
-27 Feb
-19 Mei
-30 Jul
+08 Okt
+15 Des
+02 Mar
+20 Mei
+31 Jul
 4.753
 6.253
 7.753
@@ -191,53 +191,53 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-BSIM
+POLA
 
-Bank Sinarmas Tbk.
+Pool Advista Finance Tbk.
 
-▲ 2.59%
+▲ 34.15%
 
-FUJI
+VTNY
 
-Fuji Finance Indonesia Tbk.
+Venteny Fortuna International Tbk.
 
-▲ 2.04%
+▼ 1.69%
 
-BBSI
+GSMF
 
-Krom Bank Indonesia Tbk.
+Equity Development Investment Tbk.
 
-▲ 4.58%
+▲ 4.35%
 
-RELI
+BANK
 
-Reliance Sekuritas Indonesia Tbk.
-
-▲ 5.83%
-
-BGTG
-
-Bank Ganesha Tbk.
-
-▲ 0.95%
-
-PNLF
-
-Panin Financial Tbk.
-
-▲ 1.02%
-
-BEKS
-
-Bank Pembangunan Daerah Banten Tbk.
-
-▲ 20.00%
-
-SUPA
-
-Super Bank Indonesia Tbk.
+Bank Aladin Syariah Tbk.
 
 ▲ 0.00%
+
+ASBI
+
+Asuransi Bintang Tbk.
+
+▲ 0.00%
+
+BRIS
+
+Bank Syariah Indonesia (Persero) Tbk.
+
+▼ 0.35%
+
+BCIC
+
+Bank JTrust Indonesia Tbk.
+
+▼ 1.50%
+
+BCAP
+
+MNC Kapital Indonesia Tbk.
+
+▲ 3.33%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
