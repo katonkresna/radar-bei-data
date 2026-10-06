@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-6,175
-75 (1.23%)
+6,200
+25 (0.40%)
 Invalid Date Invalid Date WIB
-89.91 M
+20.52 M
 Volume
 1D
 1W
@@ -40,13 +40,13 @@ YTD
 8.787
 Performa Harga
 Harga kembali 1 minggu
--0.80%
+0.41%
 Harga kembali 1 Bulan
 -7.84%
 Harga kembali 3 Bulan
-2.07%
+0.82%
 Harga kembali 6 Bulan
--6.08%
+-5.00%
 Harga Tertinggi (52 Minggu)
 8,750
 Harga Terendah (52 Minggu)
@@ -191,53 +191,53 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-MGNA
+ASDM
 
-Magna Investama Mandiri Tbk.
-
-▲ 3.06%
-
-LPPS
-
-Lenox Pasifik Investama Tbk.
-
-▲ 4.92%
-
-BINA
-
-Bank Ina Perdana Tbk.
-
-▼ 0.74%
-
-FUJI
-
-Fuji Finance Indonesia Tbk.
-
-▼ 0.68%
-
-IMJS
-
-Indomobil Multi Jasa Tbk.
-
-▲ 3.11%
-
-BKSW
-
-Bank QNB Indonesia Tbk.
+Asuransi Dayin Mitra Tbk.
 
 ▲ 0.00%
 
-VRNA
+YOII
 
-Mizuho Leasing Indonesia Tbk.
+Asuransi Digital Bersama Tbk.
 
-▲ 2.74%
+▲ 0.00%
 
-DNET
+BMRI
 
-Indoritel Makmur Internasional Tbk.
+Bank Mandiri (Persero) Tbk.
 
-▲ 0.25%
+▲ 1.22%
+
+HDFA
+
+Radana Bhaskara Finance Tbk.
+
+▲ 3.23%
+
+BCAP
+
+MNC Kapital Indonesia Tbk.
+
+▲ 3.33%
+
+AMAG
+
+Asuransi Multi Artha Guna Tbk.
+
+▲ 0.00%
+
+BPFI
+
+Woori Finance Indonesia Tbk.
+
+▲ 0.00%
+
+NISP
+
+Bank OCBC NISP Tbk.
+
+▲ 0.40%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

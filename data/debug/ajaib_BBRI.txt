@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-3,120
-40 (1.30%)
+3,170
+50 (1.60%)
 Invalid Date Invalid Date WIB
-135.38 M
+39.17 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 4.080
 Performa Harga
 Harga kembali 1 minggu
--0.64%
+-
 Harga kembali 1 Bulan
--7.96%
+-6.49%
 Harga kembali 3 Bulan
-15.13%
+13.62%
 Harga kembali 6 Bulan
--6.02%
+-4.23%
 Harga Tertinggi (52 Minggu)
 4,050
 Harga Terendah (52 Minggu)
@@ -60,21 +60,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-468.14 T
+475.64 T
 Current PE Ratio (Annualized)
-7.66
+7.78
 Current PE Ratio (TTM)
-7.72
+7.85
 Earnings Yield (TTM)
-12.95
+12.75
 Current Price to Book Value
-1.47
+1.49
 Current Price to Cashflow (TTM)
-33.59
+34.13
 Current Price to Free Cashflow (TTM)
-61.31
+62.3
 PEG Ratio
-0.97
+0.99
 Per Share
 Current EPS (TTM)
 404.07
@@ -189,53 +189,53 @@ IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-BCAP
+BVIC
 
-MNC Kapital Indonesia Tbk.
+Bank Victoria International Tbk.
 
-▲ 3.45%
+▲ 1.15%
 
-HDFA
+PNBN
 
-Radana Bhaskara Finance Tbk.
+Bank Pan Indonesia Tbk
 
-▼ 1.06%
+▲ 0.61%
 
-MGNA
+MTWI
 
-Magna Investama Mandiri Tbk.
+Malacca Trust Wuwungan Insurance Tbk.
 
-▲ 3.06%
+▲ 0.00%
+
+DNET
+
+Indoritel Makmur Internasional Tbk.
+
+▲ 0.25%
 
 APIC
 
 Pacific Strategic Financial Tbk.
 
-▲ 0.50%
+▼ 0.50%
 
-BNGA
+AGRO
 
-Bank CIMB Niaga Tbk.
+Bank Raya Indonesia Tbk.
 
-▼ 0.30%
+▲ 2.94%
 
-ARTO
+DEFI
 
-Bank Jago Tbk.
+Danasupra Erapacific Tbk.
 
-▲ 1.99%
+▲ 2.20%
 
-IBFN
+BNLI
 
-Intan Baru Prana Tbk.
+Bank Permata Tbk.
 
-▲ 0.00%
-
-MFIN
-
-Mandala Multifinance Tbk.
-
-▲ 0.00%
+▲ 1.30%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

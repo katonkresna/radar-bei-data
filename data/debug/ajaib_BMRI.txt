@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-4,100
-70 (1.74%)
+4,150
+50 (1.22%)
 Invalid Date Invalid Date WIB
-87.17 M
+17.51 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 5.429
 Performa Harga
 Harga kembali 1 minggu
-1.99%
+2.23%
 Harga kembali 1 Bulan
--7.24%
+-6.79%
 Harga kembali 3 Bulan
-2.24%
+2.23%
 Harga kembali 6 Bulan
--11.83%
+-10.63%
 Harga Tertinggi (52 Minggu)
 5,375
 Harga Terendah (52 Minggu)
@@ -60,21 +60,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-378.84 T
+381.61 T
 Current PE Ratio (Annualized)
-6.23
+6.27
 Current PE Ratio (TTM)
-6.09
+6.13
 Earnings Yield (TTM)
-16.43
+16.31
 Current Price to Book Value
-1.33
+1.34
 Current Price to Cashflow (TTM)
-8.77
+8.83
 Current Price to Free Cashflow (TTM)
-9.88
+9.96
 PEG Ratio
-0.77
+0.78
 Per Share
 Current EPS (TTM)
 673.71
@@ -192,53 +192,53 @@ Pergerakan IHSG Masih Rawan Terkoreksi, Saham BMRI-BRPT Bisa Dicermati
 IDX Channel • 18 Sep 2026 • 05:05 WIB
 Saham Terkait
 
-ARTO
+NISP
 
-Bank Jago Tbk.
+Bank OCBC NISP Tbk.
 
-▲ 1.99%
+▲ 0.40%
 
-SRTG
+BSIM
 
-Saratoga Investama Sedaya Tbk.
+Bank Sinarmas Tbk.
 
-▲ 1.17%
+▼ 0.52%
 
-MGNA
+BACA
 
-Magna Investama Mandiri Tbk.
+Bank Capital Indonesia Tbk.
 
-▲ 3.06%
+▲ 0.91%
 
-WOMF
+AMAR
 
-Wahana Ottomitra Multiartha Tbk.
+Bank Amar Indonesia Tbk.
 
-▲ 3.70%
+▲ 0.87%
 
-MFIN
+BNII
 
-Mandala Multifinance Tbk.
+Bank Maybank Indonesia Tbk.
+
+▲ 0.53%
+
+BANK
+
+Bank Aladin Syariah Tbk.
 
 ▲ 0.00%
 
-BPFI
+BFIN
 
-Woori Finance Indonesia Tbk.
+BFI Finance Indonesia Tbk.
 
-▲ 0.00%
+▼ 0.54%
 
-PNLF
+BDMN
 
-Panin Financial Tbk.
+Bank Danamon Indonesia Tbk.
 
-▲ 1.03%
-
-BBLD
-
-Buana Finance Tbk.
-
-▼ 1.49%
+▲ 1.90%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
