@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-3,110
-10 (-0.32%)
+3,140
+30 (0.96%)
 Invalid Date Invalid Date WIB
-139.17 M
+17.25 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 4.080
 Performa Harga
 Harga kembali 1 minggu
--1.89%
+-
 Harga kembali 1 Bulan
--8.26%
+-6.82%
 Harga kembali 3 Bulan
-11.47%
+9.79%
 Harga kembali 6 Bulan
--6.04%
+-2.79%
 Harga Tertinggi (52 Minggu)
 4,050
 Harga Terendah (52 Minggu)
@@ -60,21 +60,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-466.64 T
+471.14 T
 Current PE Ratio (Annualized)
-7.64
+7.71
 Current PE Ratio (TTM)
-7.7
+7.77
 Earnings Yield (TTM)
-12.99
+12.87
 Current Price to Book Value
-1.46
+1.48
 Current Price to Cashflow (TTM)
-33.49
+33.81
 Current Price to Free Cashflow (TTM)
-61.12
+61.71
 PEG Ratio
-0.97
+0.98
 Per Share
 Current EPS (TTM)
 404.07
@@ -124,6 +124,16 @@ Payment Date
 Selengkapnya
 Feeds
 Ajaib Official
+06 Oktober 2026, 13:19 WIB
+
+Sesi 1 Foreign Net Sell Rp273 Miliar (6/10)
+
+Top Buy (Val): $BBRI, $TPIA, $BUMI
+Top Sell (Val): $GOTO, $BMRI, $TLKM
+
+0
+1
+Ajaib Official
 05 Oktober 2026, 12:30 WIB
 
 Sesi 1 Foreign Net Sell Rp205 Miliar (5/10)
@@ -163,13 +173,6 @@ Top Sell (Val): $BMRI, $TLKM, $BBCA
 
 9
 7
-Heru1986
-25 September 2026, 09:59 WIB
-
-📢 Saya baru saja mengirim Order Beli $BBRI di harga Rp3.100.
-
-0
-1
 Berita dan Kabar BBRI Terbaru Hari Ini
 
 Kinerja BRI Kinclong, 3 Indikator Ini di Atas Rata-Rata Industri
@@ -189,53 +192,53 @@ IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
+NICK
+
+Charnic Capital Tbk.
+
+▲ 0.00%
+
+VTNY
+
+Venteny Fortuna International Tbk.
+
+▲ 1.72%
+
+INPC
+
+Bank Artha Graha Internasional Tbk.
+
+▼ 1.95%
+
+FUJI
+
+Fuji Finance Indonesia Tbk.
+
+▼ 1.33%
+
 IMJS
 
 Indomobil Multi Jasa Tbk.
 
-▲ 3.01%
+▲ 1.17%
 
-LIFE
+MCOR
 
-MSIG Life Insurance Indonesia Tbk.
-
-▼ 1.02%
-
-PADI
-
-Minna Padi Investama Sekuritas Tbk.
-
-▲ 4.76%
-
-ASJT
-
-Asuransi Jasa Tania Tbk.
-
-▼ 0.61%
-
-BRIS
-
-Bank Syariah Indonesia (Persero) Tbk.
-
-▼ 0.35%
-
-PANS
-
-Panin Sekuritas Tbk.
-
-▲ 0.61%
-
-BBLD
-
-Buana Finance Tbk.
+Bank China Construction Bank Indonesia Tbk.
 
 ▲ 1.52%
 
-BTPN
+PLAS
 
-Bank SMBC Indonesia Tbk.
+Polaris Investama Tbk
 
-▲ 0.82%
+▲ 0.00%
+
+BMRI
+
+Bank Mandiri (Persero) Tbk.
+
+▲ 0.73%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

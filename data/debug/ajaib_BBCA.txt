@@ -17,8 +17,8 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-6,100
-75 (-1.21%)
+6,075
+25 (-0.41%)
 Invalid Date Invalid Date WIB
 152.17 M
 Volume
@@ -122,6 +122,13 @@ Payment Date
 16 September 2026
 Selengkapnya
 Feeds
+Inv8GCEI
+06 Oktober 2026, 09:55 WIB
+
+Makan enak sambil beli $BBCA
+
+0
+1
 Ajaib Official
 01 Oktober 2026, 12:38 WIB
 
@@ -162,16 +169,6 @@ Top Sell (Val): $BMRI, $TLKM, $BBCA
 
 9
 7
-Ajaib Official
-25 September 2026, 12:22 WIB
-
-Sesi 1 Foreign Net Sell Rp355 Miliar (25/9)
-
-Top Buy (Val): $BBCA, $TPIA, $PTBA
-Top Sell (Val): $TLKM, $DSSA, $BMRI
-
-7
-0
 Berita dan Kabar BBCA Terbaru Hari Ini
 
 Sesi I Asing Kabur Rp 677,4 Miliar, Saham BCA Paling Banyak Dilepas
@@ -191,53 +188,53 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-POLA
+DNET
 
-Pool Advista Finance Tbk.
+Indoritel Makmur Internasional Tbk.
 
-▲ 34.15%
+▲ 0.00%
+
+NISP
+
+Bank OCBC NISP Tbk.
+
+▲ 0.00%
+
+TRUS
+
+Trust Finance Indonesia Tbk
+
+▲ 0.00%
+
+PNIN
+
+Paninvest Tbk.
+
+▲ 0.74%
+
+IMJS
+
+Indomobil Multi Jasa Tbk.
+
+▲ 1.17%
+
+AHAP
+
+Asuransi Harta Aman Pratama Tbk.
+
+▼ 1.04%
 
 VTNY
 
 Venteny Fortuna International Tbk.
 
-▼ 1.69%
+▲ 1.72%
 
-GSMF
+TUGU
 
-Equity Development Investment Tbk.
+Asuransi Tugu Pratama Indonesia Tbk.
 
-▲ 4.35%
-
-BANK
-
-Bank Aladin Syariah Tbk.
-
-▲ 0.00%
-
-ASBI
-
-Asuransi Bintang Tbk.
-
-▲ 0.00%
-
-BRIS
-
-Bank Syariah Indonesia (Persero) Tbk.
-
-▼ 0.35%
-
-BCIC
-
-Bank JTrust Indonesia Tbk.
-
-▼ 1.50%
-
-BCAP
-
-MNC Kapital Indonesia Tbk.
-
-▲ 3.33%
+▲ 0.33%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
