@@ -20,7 +20,7 @@ Mulai Investasi
 3,140
 30 (0.96%)
 Invalid Date Invalid Date WIB
-17.25 M
+88.63 M
 Volume
 1D
 1W
@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-08 Okt
-15 Des
-02 Mar
-20 Mei
-31 Jul
+09 Okt
+16 Des
+03 Mar
+21 Mei
+03 Agt
 2.538
 2.938
 3.338
@@ -105,10 +105,10 @@ Jual
 
 Beli
 
-Jual
-Jual 9
+Netral
+Jual 8
 Netral 0
-Beli 5
+Beli 6
 Baca selengkapnya
 Dividen
 Jumlah Dividen
@@ -192,53 +192,53 @@ IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-NICK
+BPII
 
-Charnic Capital Tbk.
-
-▲ 0.00%
-
-VTNY
-
-Venteny Fortuna International Tbk.
-
-▲ 1.72%
-
-INPC
-
-Bank Artha Graha Internasional Tbk.
-
-▼ 1.95%
-
-FUJI
-
-Fuji Finance Indonesia Tbk.
-
-▼ 1.33%
-
-IMJS
-
-Indomobil Multi Jasa Tbk.
-
-▲ 1.17%
-
-MCOR
-
-Bank China Construction Bank Indonesia Tbk.
-
-▲ 1.52%
-
-PLAS
-
-Polaris Investama Tbk
+Batavia Prosperindo Internasional Tbk.
 
 ▲ 0.00%
 
-BMRI
+LIFE
 
-Bank Mandiri (Persero) Tbk.
+MSIG Life Insurance Indonesia Tbk.
 
-▲ 0.73%
+▼ 0.77%
+
+BBHI
+
+Allo Bank Indonesia Tbk.
+
+▲ 0.00%
+
+ASDM
+
+Asuransi Dayin Mitra Tbk.
+
+▲ 0.00%
+
+SUPA
+
+Super Bank Indonesia Tbk.
+
+▲ 0.00%
+
+AGRO
+
+Bank Raya Indonesia Tbk.
+
+▲ 0.00%
+
+AMAG
+
+Asuransi Multi Artha Guna Tbk.
+
+▲ 0.00%
+
+ASMI
+
+Asuransi Maximus Graha Persada Tbk.
+
+▲ 33.33%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

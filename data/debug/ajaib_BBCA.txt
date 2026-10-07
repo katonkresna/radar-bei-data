@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-6,075
-25 (-0.41%)
+6,050
+50 (-0.82%)
 Invalid Date Invalid Date WIB
-152.17 M
+162.69 M
 Volume
 1D
 1W
@@ -29,24 +29,24 @@ Volume
 1Y
 5Y
 YTD
-08 Okt
-15 Des
-02 Mar
-20 Mei
-31 Jul
+09 Okt
+16 Des
+03 Mar
+21 Mei
+03 Agt
 4.753
 6.253
 7.753
 8.787
 Performa Harga
 Harga kembali 1 minggu
--0.81%
-Harga kembali 1 Bulan
--8.96%
-Harga kembali 3 Bulan
 -0.41%
+Harga kembali 1 Bulan
+-8.68%
+Harga kembali 3 Bulan
+-3.97%
 Harga kembali 6 Bulan
--6.15%
+-6.92%
 Harga Tertinggi (52 Minggu)
 8,750
 Harga Terendah (52 Minggu)
@@ -59,21 +59,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-744.46 T
+738.36 T
 Current PE Ratio (Annualized)
-12.6
+12.5
 Current PE Ratio (TTM)
-12.82
+12.72
 Earnings Yield (TTM)
-7.8
+7.86
 Current Price to Book Value
-2.75
+2.73
 Current Price to Cashflow (TTM)
-10.81
+10.72
 Current Price to Free Cashflow (TTM)
-11.32
+11.22
 PEG Ratio
-4.74
+4.7
 Per Share
 Current EPS (TTM)
 475.69
@@ -122,6 +122,16 @@ Payment Date
 16 September 2026
 Selengkapnya
 Feeds
+Ajaib Official
+07 Oktober 2026, 12:37 WIB
+
+Sesi 1 Foreign Net Sell Rp663 Miliar (7/10)
+
+Top Buy (Val): $BBRI, $TLKM, $DSSA
+Top Sell (Val): $BBCA, $GOTO, $DEWA
+
+2
+7
 Inv8GCEI
 06 Oktober 2026, 09:55 WIB
 
@@ -159,16 +169,6 @@ Top Sell (Val): $ADMF, $BMRI, $BBCA
 
 1
 3
-Ajaib Official
-28 September 2026, 12:43 WIB
-
-Sesi 1 Foreign Net Sell Rp129 Miliar (28/9)
-
-Top Buy (Val): $PTBA, $PEGE, $BBRI
-Top Sell (Val): $BMRI, $TLKM, $BBCA
-
-9
-7
 Berita dan Kabar BBCA Terbaru Hari Ini
 
 Sesi I Asing Kabur Rp 677,4 Miliar, Saham BCA Paling Banyak Dilepas
@@ -188,53 +188,53 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-DNET
+ADMF
 
-Indoritel Makmur Internasional Tbk.
-
-▲ 0.00%
-
-NISP
-
-Bank OCBC NISP Tbk.
+Adira Dinamika Multi Finance Tbk.
 
 ▲ 0.00%
 
-TRUS
+BVIC
 
-Trust Finance Indonesia Tbk
+Bank Victoria International Tbk.
 
 ▲ 0.00%
+
+BABP
+
+Bank MNC Internasional Tbk.
+
+▲ 0.00%
+
+TRIM
+
+Trimegah Sekuritas Indonesia Tbk.
+
+▲ 0.00%
+
+ASJT
+
+Asuransi Jasa Tania Tbk.
+
+▼ 0.62%
+
+RELI
+
+Reliance Sekuritas Indonesia Tbk.
+
+▲ 0.00%
+
+BNBA
+
+Bank Bumi Arta Tbk.
+
+▼ 0.62%
 
 PNIN
 
 Paninvest Tbk.
 
-▲ 0.74%
-
-IMJS
-
-Indomobil Multi Jasa Tbk.
-
-▲ 1.17%
-
-AHAP
-
-Asuransi Harta Aman Pratama Tbk.
-
-▼ 1.04%
-
-VTNY
-
-Venteny Fortuna International Tbk.
-
-▲ 1.72%
-
-TUGU
-
-Asuransi Tugu Pratama Indonesia Tbk.
-
-▲ 0.33%
+▲ 0.00%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
