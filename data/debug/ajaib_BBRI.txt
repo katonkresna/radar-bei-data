@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-3,120
-20 (-0.64%)
+3,030
+110 (-3.50%)
 Invalid Date Invalid Date WIB
-4.77 M
+150.85 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 4.080
 Performa Harga
 Harga kembali 1 minggu
-0.32%
+-2.26%
 Harga kembali 1 Bulan
--6.53%
+-11.14%
 Harga kembali 3 Bulan
-10.14%
+8.60%
 Harga kembali 6 Bulan
--2.48%
+-9.28%
 Harga Tertinggi (52 Minggu)
 4,050
 Harga Terendah (52 Minggu)
@@ -60,21 +60,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-472.64 T
+454.63 T
 Current PE Ratio (Annualized)
-7.73
+7.44
 Current PE Ratio (TTM)
-7.8
+7.5
 Earnings Yield (TTM)
-12.83
+13.34
 Current Price to Book Value
-1.48
+1.43
 Current Price to Cashflow (TTM)
-33.92
+32.63
 Current Price to Free Cashflow (TTM)
-61.9
+59.55
 PEG Ratio
-0.98
+0.95
 Per Share
 Current EPS (TTM)
 404.07
@@ -105,10 +105,10 @@ Jual
 
 Beli
 
-Netral
-Jual 8
+Jual
+Jual 10
 Netral 0
-Beli 6
+Beli 4
 Baca selengkapnya
 Dividen
 Jumlah Dividen
@@ -124,6 +124,16 @@ Payment Date
 Selengkapnya
 Feeds
 Ajaib Official
+07 Oktober 2026, 12:37 WIB
+
+Sesi 1 Foreign Net Sell Rp663 Miliar (7/10)
+
+Top Buy (Val): $BBRI, $TLKM, $DSSA
+Top Sell (Val): $BBCA, $GOTO, $DEWA
+
+2
+9
+Ajaib Official
 06 Oktober 2026, 13:19 WIB
 
 Sesi 1 Foreign Net Sell Rp273 Miliar (6/10)
@@ -132,7 +142,7 @@ Top Buy (Val): $BBRI, $TPIA, $BUMI
 Top Sell (Val): $GOTO, $BMRI, $TLKM
 
 0
-1
+2
 Ajaib Official
 05 Oktober 2026, 12:30 WIB
 
@@ -144,6 +154,16 @@ Top Sell (Val): $BBRI, $BUMI, $AMMN
 3
 2
 Ajaib Official
+02 Oktober 2026, 12:25 WIB
+
+Sesi 1 Foreign Net Sell Rp1,2 Triliun (2/10)
+
+Top Buy (Val): $ASII, $EMAS, $PTBA
+Top Sell (Val): $GOTO, $ADMF, $BBRI
+
+3
+1
+Ajaib Official
 30 September 2026, 13:00 WIB
 
 Sesi 1 Foreign Net Sell Rp677 Miliar (30/9)
@@ -153,26 +173,6 @@ Top Sell (Val): $ADMF, $BBCA, $TLKM
 
 10
 3
-Ajaib Official
-29 September 2026, 13:09 WIB
-
-Sesi 1 Foreign Net Sell Rp365 Miliar (29/9)
-
-Top Buy (Val): $BBRI, $TPIA, $ASII
-Top Sell (Val): $ADMF, $BMRI, $BBCA
-
-1
-3
-Ajaib Official
-28 September 2026, 12:43 WIB
-
-Sesi 1 Foreign Net Sell Rp129 Miliar (28/9)
-
-Top Buy (Val): $PTBA, $PEGE, $BBRI
-Top Sell (Val): $BMRI, $TLKM, $BBCA
-
-9
-7
 Berita dan Kabar BBRI Terbaru Hari Ini
 
 Kinerja BRI Kinclong, 3 Indikator Ini di Atas Rata-Rata Industri
@@ -192,17 +192,35 @@ IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-BSWD
+MEGA
 
-Bank Of India Indonesia Tbk.
+Bank Mega Tbk.
+
+▲ 0.00%
+
+SMMA
+
+Sinarmas Multiartha Tbk.
 
 ▲ 0.00%
 
-VINS
+VICO
 
-Victoria Insurance Tbk.
+Victoria Investama Tbk.
+
+▲ 0.65%
+
+IBFN
+
+Intan Baru Prana Tbk.
 
 ▲ 0.00%
+
+FUJI
+
+Fuji Finance Indonesia Tbk.
+
+▼ 2.68%
 
 BHAT
 
@@ -210,35 +228,17 @@ Bhakti Multi Artha Tbk.
 
 ▲ 0.00%
 
-BBHI
+LIFE
 
-Allo Bank Indonesia Tbk.
+MSIG Life Insurance Indonesia Tbk.
 
-▼ 0.62%
+▼ 6.46%
 
-AMAR
+BBTN
 
-Bank Amar Indonesia Tbk.
+Bank Tabungan Negara (Persero) Tbk.
 
-▼ 1.72%
-
-BBYB
-
-Bank Neo Commerce Tbk.
-
-▼ 0.50%
-
-LPGI
-
-Lippo General Insurance Tbk.
-
-▼ 0.78%
-
-RELI
-
-Reliance Sekuritas Indonesia Tbk.
-
-▲ 0.00%
+▼ 0.94%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

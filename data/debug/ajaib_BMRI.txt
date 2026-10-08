@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-4,070
-30 (-0.73%)
+4,000
+100 (-2.44%)
 Invalid Date Invalid Date WIB
-10.53 M
+130.85 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 5.429
 Performa Harga
 Harga kembali 1 minggu
-2.24%
+-0.25%
 Harga kembali 1 Bulan
--7.45%
+-9.71%
 Harga kembali 3 Bulan
-3.27%
+0.76%
 Harga kembali 6 Bulan
--12.21%
+-14.35%
 Harga Tertinggi (52 Minggu)
 5,375
 Harga Terendah (52 Minggu)
@@ -60,21 +60,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-378.84 T
+369.6 T
 Current PE Ratio (Annualized)
-6.23
+6.08
 Current PE Ratio (TTM)
-6.09
+5.94
 Earnings Yield (TTM)
-16.43
+16.84
 Current Price to Book Value
-1.33
+1.3
 Current Price to Cashflow (TTM)
-8.77
+8.55
 Current Price to Free Cashflow (TTM)
-9.88
+9.64
 PEG Ratio
-0.77
+0.75
 Per Share
 Current EPS (TTM)
 673.71
@@ -105,10 +105,10 @@ Jual
 
 Beli
 
-Netral
-Jual 8
+Jual
+Jual 10
 Netral 0
-Beli 6
+Beli 4
 Baca selengkapnya
 Dividen
 Jumlah Dividen
@@ -132,7 +132,7 @@ Top Buy (Val): $BBRI, $TPIA, $BUMI
 Top Sell (Val): $GOTO, $BMRI, $TLKM
 
 0
-1
+2
 Ajaib Official
 05 Oktober 2026, 12:30 WIB
 
@@ -192,53 +192,53 @@ Pergerakan IHSG Masih Rawan Terkoreksi, Saham BMRI-BRPT Bisa Dicermati
 IDX Channel • 18 Sep 2026 • 05:05 WIB
 Saham Terkait
 
-BKSW
+OCAP
 
-Bank QNB Indonesia Tbk.
-
-▼ 2.04%
-
-BPII
-
-Batavia Prosperindo Internasional Tbk.
-
-▼ 0.44%
-
-BANK
-
-Bank Aladin Syariah Tbk.
-
-▲ 0.82%
-
-DEFI
-
-Danasupra Erapacific Tbk.
-
-▲ 2.20%
-
-BINA
-
-Bank Ina Perdana Tbk.
-
-▼ 0.50%
-
-BBMD
-
-Bank Mestika Dharma Tbk.
+Onix Capital Tbk.
 
 ▲ 0.00%
 
-HDFA
+ASBI
 
-Radana Bhaskara Finance Tbk.
+Asuransi Bintang Tbk.
 
-▲ 2.11%
+▲ 0.51%
 
-AMOR
+MGNA
 
-Ashmore Asset Management Indonesia Tbk.
+Magna Investama Mandiri Tbk.
 
-▼ 0.55%
+▼ 6.19%
+
+YULE
+
+Yulie Sekuritas Indonesia Tbk.
+
+▼ 0.56%
+
+FUJI
+
+Fuji Finance Indonesia Tbk.
+
+▼ 2.68%
+
+BJTM
+
+Bank Pembangunan Daerah Jawa Timur Tbk.
+
+▼ 0.97%
+
+PNIN
+
+Paninvest Tbk.
+
+▼ 0.74%
+
+BACA
+
+Bank Capital Indonesia Tbk.
+
+▲ 0.00%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

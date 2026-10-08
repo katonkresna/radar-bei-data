@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-6,075
-25 (0.41%)
+6,000
+50 (-0.83%)
 Invalid Date Invalid Date WIB
-23.27 M
+113.14 M
 Volume
 1D
 1W
@@ -40,13 +40,13 @@ YTD
 8.787
 Performa Harga
 Harga kembali 1 minggu
-0.83%
+-
 Harga kembali 1 Bulan
--9.36%
+-10.11%
 Harga kembali 3 Bulan
--2.02%
+-2.83%
 Harga kembali 6 Bulan
--10.37%
+-11.11%
 Harga Tertinggi (52 Minggu)
 8,750
 Harga Terendah (52 Minggu)
@@ -59,21 +59,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-738.36 T
+732.25 T
 Current PE Ratio (Annualized)
-12.5
+12.4
 Current PE Ratio (TTM)
-12.72
+12.61
 Earnings Yield (TTM)
-7.86
+7.93
 Current Price to Book Value
-2.73
+2.71
 Current Price to Cashflow (TTM)
-10.72
+10.64
 Current Price to Free Cashflow (TTM)
-11.22
+11.13
 PEG Ratio
-4.7
+4.66
 Per Share
 Current EPS (TTM)
 475.69
@@ -131,7 +131,7 @@ Top Buy (Val): $BBRI, $TLKM, $DSSA
 Top Sell (Val): $BBCA, $GOTO, $DEWA
 
 2
-7
+9
 Inv8GCEI
 06 Oktober 2026, 09:55 WIB
 
@@ -147,8 +147,8 @@ Sesi 1 Foreign Net Sell Rp204 Miliar (1/10)
 Top Buy (Val): $ENRG, $BBCA, $DSSA
 Top Sell (Val): $GOTO, $CUAN, $AMMN
 
-8
 10
+11
 Ajaib Official
 30 September 2026, 13:00 WIB
 
@@ -188,39 +188,21 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-ADMF
-
-Adira Dinamika Multi Finance Tbk.
-
-▲ 0.30%
-
-BSIM
-
-Bank Sinarmas Tbk.
-
-▼ 2.51%
-
-BBMD
-
-Bank Mestika Dharma Tbk.
-
-▲ 0.00%
-
 ASMI
 
 Asuransi Maximus Graha Persada Tbk.
 
-▲ 13.64%
+▼ 9.09%
 
-VRNA
+BRIS
 
-Mizuho Leasing Indonesia Tbk.
+Bank Syariah Indonesia (Persero) Tbk.
 
-▲ 1.30%
+▼ 2.91%
 
-BHAT
+IBFN
 
-Bhakti Multi Artha Tbk.
+Intan Baru Prana Tbk.
 
 ▲ 0.00%
 
@@ -228,13 +210,31 @@ TUGU
 
 Asuransi Tugu Pratama Indonesia Tbk.
 
-▼ 1.31%
+▼ 4.26%
 
-BNLI
+STAR
 
-Bank Permata Tbk.
+Calculus Global Ventures Tbk.
 
-▼ 0.77%
+▼ 6.86%
+
+BGTG
+
+Bank Ganesha Tbk.
+
+▲ 0.00%
+
+PNBS
+
+Bank Panin Dubai Syariah Tbk.
+
+▼ 2.33%
+
+BABP
+
+Bank MNC Internasional Tbk.
+
+▼ 6.67%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
