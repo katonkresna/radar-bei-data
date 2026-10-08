@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-09 Okt
-16 Des
-03 Mar
-21 Mei
-03 Agt
+10 Okt
+17 Des
+04 Mar
+22 Mei
+04 Agt
 2.538
 2.938
 3.338
@@ -123,6 +123,13 @@ Payment Date
 08 Mei 2026
 Selengkapnya
 Feeds
+Sutarjo
+08 Oktober 2026, 13:31 WIB
+
+📢 Saya mengirim Order Beli $BBRI sesuai harga Market saat ini.
+
+0
+1
 Ajaib Official
 07 Oktober 2026, 12:37 WIB
 
@@ -133,6 +140,13 @@ Top Sell (Val): $BBCA, $GOTO, $DEWA
 
 2
 9
+Penjuang100jt
+08 Oktober 2026, 11:26 WIB
+
+$BBRI $PANI arakan dar
+
+1
+0
 Ajaib Official
 06 Oktober 2026, 13:19 WIB
 
@@ -142,7 +156,7 @@ Top Buy (Val): $BBRI, $TPIA, $BUMI
 Top Sell (Val): $GOTO, $BMRI, $TLKM
 
 0
-2
+3
 Ajaib Official
 05 Oktober 2026, 12:30 WIB
 
@@ -153,26 +167,6 @@ Top Sell (Val): $BBRI, $BUMI, $AMMN
 
 3
 2
-Ajaib Official
-02 Oktober 2026, 12:25 WIB
-
-Sesi 1 Foreign Net Sell Rp1,2 Triliun (2/10)
-
-Top Buy (Val): $ASII, $EMAS, $PTBA
-Top Sell (Val): $GOTO, $ADMF, $BBRI
-
-3
-1
-Ajaib Official
-30 September 2026, 13:00 WIB
-
-Sesi 1 Foreign Net Sell Rp677 Miliar (30/9)
-
-Top Buy (Val): $ANTM, $UNTR, $BBRI
-Top Sell (Val): $ADMF, $BBCA, $TLKM
-
-10
-3
 Berita dan Kabar BBRI Terbaru Hari Ini
 
 Kinerja BRI Kinclong, 3 Indikator Ini di Atas Rata-Rata Industri
@@ -192,53 +186,53 @@ IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-MEGA
+VRNA
 
-Bank Mega Tbk.
+Mizuho Leasing Indonesia Tbk.
 
-▲ 0.00%
+▲ 1.30%
 
-SMMA
+MASB
 
-Sinarmas Multiartha Tbk.
-
-▲ 0.00%
-
-VICO
-
-Victoria Investama Tbk.
-
-▲ 0.65%
-
-IBFN
-
-Intan Baru Prana Tbk.
+Bank Multiarta Sentosa Tbk.
 
 ▲ 0.00%
 
-FUJI
+BCAP
 
-Fuji Finance Indonesia Tbk.
+MNC Kapital Indonesia Tbk.
 
-▼ 2.68%
+▲ 0.00%
+
+GSMF
+
+Equity Development Investment Tbk.
+
+▼ 2.11%
+
+BNII
+
+Bank Maybank Indonesia Tbk.
+
+▲ 0.00%
+
+PNIN
+
+Paninvest Tbk.
+
+▼ 0.74%
+
+BBNI
+
+Bank Negara Indonesia (Persero) Tbk.
+
+▼ 0.87%
 
 BHAT
 
 Bhakti Multi Artha Tbk.
 
 ▲ 0.00%
-
-LIFE
-
-MSIG Life Insurance Indonesia Tbk.
-
-▼ 6.46%
-
-BBTN
-
-Bank Tabungan Negara (Persero) Tbk.
-
-▼ 0.94%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

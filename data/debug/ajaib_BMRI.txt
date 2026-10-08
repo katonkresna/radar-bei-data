@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-09 Okt
-16 Des
-03 Mar
-21 Mei
-03 Agt
+10 Okt
+17 Des
+04 Mar
+22 Mei
+04 Agt
 3.636
 4.086
 4.536
@@ -124,6 +124,16 @@ Payment Date
 Selengkapnya
 Feeds
 Ajaib Official
+08 Oktober 2026, 12:26 WIB
+
+Sesi 1 Foreign Net Sell Rp194 Miliar (8/10)
+
+Top Buy (Val): $BBCA, $ASII, $GOTO
+Top Sell (Val): $BMRI, $BUMI, $ANTM
+
+2
+4
+Ajaib Official
 06 Oktober 2026, 13:19 WIB
 
 Sesi 1 Foreign Net Sell Rp273 Miliar (6/10)
@@ -132,7 +142,7 @@ Top Buy (Val): $BBRI, $TPIA, $BUMI
 Top Sell (Val): $GOTO, $BMRI, $TLKM
 
 0
-2
+3
 Ajaib Official
 05 Oktober 2026, 12:30 WIB
 
@@ -163,16 +173,6 @@ Top Sell (Val): $BMRI, $TLKM, $BBCA
 
 9
 7
-Ajaib Official
-25 September 2026, 12:22 WIB
-
-Sesi 1 Foreign Net Sell Rp355 Miliar (25/9)
-
-Top Buy (Val): $BBCA, $TPIA, $PTBA
-Top Sell (Val): $TLKM, $DSSA, $BMRI
-
-7
-0
 Berita dan Kabar BMRI Terbaru Hari Ini
 
 5 Tahun Livin' by Mandiri Hadirkan Solusi Investasi dan Pembiayaan
@@ -192,51 +192,51 @@ Pergerakan IHSG Masih Rawan Terkoreksi, Saham BMRI-BRPT Bisa Dicermati
 IDX Channel • 18 Sep 2026 • 05:05 WIB
 Saham Terkait
 
-OCAP
+BBSI
 
-Onix Capital Tbk.
+Krom Bank Indonesia Tbk.
+
+▲ 0.25%
+
+POOL
+
+Pool Advista Indonesia Tbk.
 
 ▲ 0.00%
 
-ASBI
+BMAS
 
-Asuransi Bintang Tbk.
+Bank Kasikorn Indonesia Tbk.
 
-▲ 0.51%
+▲ 0.84%
 
-MGNA
+BEKS
 
-Magna Investama Mandiri Tbk.
+Bank Pembangunan Daerah Banten Tbk.
 
-▼ 6.19%
+▼ 8.33%
 
-YULE
+AGRO
 
-Yulie Sekuritas Indonesia Tbk.
+Bank Raya Indonesia Tbk.
 
-▼ 0.56%
+▼ 3.57%
 
-FUJI
+PLAS
 
-Fuji Finance Indonesia Tbk.
+Polaris Investama Tbk
 
-▼ 2.68%
+▲ 0.00%
 
-BJTM
+BNGA
 
-Bank Pembangunan Daerah Jawa Timur Tbk.
+Bank CIMB Niaga Tbk.
 
-▼ 0.97%
+▼ 1.46%
 
-PNIN
+BTPS
 
-Paninvest Tbk.
-
-▼ 0.74%
-
-BACA
-
-Bank Capital Indonesia Tbk.
+Bank BTPN Syariah Tbk.
 
 ▲ 0.00%
 
