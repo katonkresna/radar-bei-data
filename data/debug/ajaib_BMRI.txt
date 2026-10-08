@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-4,100
--
+4,070
+30 (-0.73%)
 Invalid Date Invalid Date WIB
-51.81 M
+10.53 M
 Volume
 1D
 1W
@@ -43,11 +43,11 @@ Performa Harga
 Harga kembali 1 minggu
 2.24%
 Harga kembali 1 Bulan
--6.61%
+-7.45%
 Harga kembali 3 Bulan
-0.74%
+3.27%
 Harga kembali 6 Bulan
--9.09%
+-12.21%
 Harga Tertinggi (52 Minggu)
 5,375
 Harga Terendah (52 Minggu)
@@ -192,53 +192,53 @@ Pergerakan IHSG Masih Rawan Terkoreksi, Saham BMRI-BRPT Bisa Dicermati
 IDX Channel • 18 Sep 2026 • 05:05 WIB
 Saham Terkait
 
-CASA
+BKSW
 
-Capital Financial Indonesia Tbk.
+Bank QNB Indonesia Tbk.
 
-▲ 1.69%
+▼ 2.04%
 
-BBHI
+BPII
 
-Allo Bank Indonesia Tbk.
+Batavia Prosperindo Internasional Tbk.
 
-▲ 0.00%
+▼ 0.44%
 
 BANK
 
 Bank Aladin Syariah Tbk.
 
-▲ 1.67%
+▲ 0.82%
+
+DEFI
+
+Danasupra Erapacific Tbk.
+
+▲ 2.20%
+
+BINA
+
+Bank Ina Perdana Tbk.
+
+▼ 0.50%
+
+BBMD
+
+Bank Mestika Dharma Tbk.
+
+▲ 0.00%
+
+HDFA
+
+Radana Bhaskara Finance Tbk.
+
+▲ 2.11%
 
 AMOR
 
 Ashmore Asset Management Indonesia Tbk.
 
-▲ 0.00%
-
-BTPN
-
-Bank SMBC Indonesia Tbk.
-
-▲ 2.44%
-
-BHAT
-
-Bhakti Multi Artha Tbk.
-
-▲ 0.00%
-
-LPPS
-
-Lenox Pasifik Investama Tbk.
-
-▼ 1.61%
-
-LPGI
-
-Lippo General Insurance Tbk.
-
-▼ 0.78%
+▼ 0.55%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

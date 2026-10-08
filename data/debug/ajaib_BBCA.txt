@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-6,050
-50 (-0.82%)
+6,075
+25 (0.41%)
 Invalid Date Invalid Date WIB
-162.69 M
+23.27 M
 Volume
 1D
 1W
@@ -40,13 +40,13 @@ YTD
 8.787
 Performa Harga
 Harga kembali 1 minggu
--0.41%
+0.83%
 Harga kembali 1 Bulan
--8.68%
+-9.36%
 Harga kembali 3 Bulan
--3.97%
+-2.02%
 Harga kembali 6 Bulan
--6.92%
+-10.37%
 Harga Tertinggi (52 Minggu)
 8,750
 Harga Terendah (52 Minggu)
@@ -192,49 +192,49 @@ ADMF
 
 Adira Dinamika Multi Finance Tbk.
 
-▲ 0.00%
+▲ 0.30%
 
-BVIC
+BSIM
 
-Bank Victoria International Tbk.
+Bank Sinarmas Tbk.
 
-▲ 0.00%
+▼ 2.51%
 
-BABP
+BBMD
 
-Bank MNC Internasional Tbk.
-
-▲ 0.00%
-
-TRIM
-
-Trimegah Sekuritas Indonesia Tbk.
+Bank Mestika Dharma Tbk.
 
 ▲ 0.00%
 
-ASJT
+ASMI
 
-Asuransi Jasa Tania Tbk.
+Asuransi Maximus Graha Persada Tbk.
 
-▼ 0.62%
+▲ 13.64%
 
-RELI
+VRNA
 
-Reliance Sekuritas Indonesia Tbk.
+Mizuho Leasing Indonesia Tbk.
 
-▲ 0.00%
+▲ 1.30%
 
-BNBA
+BHAT
 
-Bank Bumi Arta Tbk.
-
-▼ 0.62%
-
-PNIN
-
-Paninvest Tbk.
+Bhakti Multi Artha Tbk.
 
 ▲ 0.00%
+
+TUGU
+
+Asuransi Tugu Pratama Indonesia Tbk.
+
+▼ 1.31%
+
+BNLI
+
+Bank Permata Tbk.
+
+▼ 0.77%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

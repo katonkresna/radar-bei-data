@@ -1,21 +1,21 @@
-[00:52:48] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[00:52:48] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[00:52:48] idx.co.id: 0/16 saham (None), IHSG n/a (None)
-[00:53:04] ajaib BMRI: parse gagal
-[00:53:20] ajaib BBCA: parse gagal
-[00:53:38] ajaib BBRI: parse gagal
-[00:53:49] ajaib BBNI: parse gagal
-[00:53:59] ajaib TLKM: parse gagal
-[00:54:09] ajaib ASII: parse gagal
-[00:54:29] ajaib AMRT: parse gagal
-[00:54:50] ajaib ISAT: parse gagal
-[00:55:08] ajaib INDF: parse gagal
-[00:55:15] ajaib SIDO: parse gagal
-[00:55:22] ajaib AADI: parse gagal
-[00:55:28] ajaib ADRO: parse gagal
-[00:55:37] ajaib PTBA: parse gagal
-[00:55:57] ajaib ANTM: parse gagal
-[00:56:05] ajaib MEDC: parse gagal
-[00:56:22] ajaib BRMS: parse gagal
-[00:56:25] ajaib: 0/16 harga, pluang: 16/16 harga
-[00:56:25] hasil gagal — latest.json lama (baik) dipertahankan
+[10:00:29] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[10:00:29] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[10:00:29] idx.co.id: 0/16 saham (None), IHSG n/a (None)
+[10:00:34] ajaib BMRI: parse gagal
+[10:00:49] ajaib BBCA: parse gagal
+[10:01:03] ajaib BBRI: parse gagal
+[10:01:21] ajaib BBNI: parse gagal
+[10:01:31] ajaib TLKM: parse gagal
+[10:01:42] ajaib ASII: parse gagal
+[10:01:52] ajaib AMRT: parse gagal
+[10:02:13] ajaib ISAT: parse gagal
+[10:02:32] ajaib INDF: parse gagal
+[10:02:39] ajaib SIDO: parse gagal
+[10:02:49] ajaib AADI: parse gagal
+[10:02:59] ajaib ADRO: parse gagal
+[10:03:09] ajaib PTBA: parse gagal
+[10:03:30] ajaib ANTM: parse gagal
+[10:03:37] ajaib MEDC: parse gagal
+[10:03:54] ajaib BRMS: parse gagal
+[10:03:58] ajaib: 0/16 harga, pluang: 16/16 harga
+[10:03:58] hasil gagal — latest.json lama (baik) dipertahankan
