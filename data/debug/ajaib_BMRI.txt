@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-10 Okt
-17 Des
-04 Mar
-22 Mei
-04 Agt
+13 Okt
+18 Des
+05 Mar
+25 Mei
+05 Agt
 3.636
 4.086
 4.536
@@ -192,53 +192,53 @@ Pergerakan IHSG Masih Rawan Terkoreksi, Saham BMRI-BRPT Bisa Dicermati
 IDX Channel • 18 Sep 2026 • 05:05 WIB
 Saham Terkait
 
-BSWD
+VINS
 
-Bank Of India Indonesia Tbk.
-
-▲ 0.00%
-
-BCAP
-
-MNC Kapital Indonesia Tbk.
+Victoria Insurance Tbk.
 
 ▲ 0.00%
 
-SRTG
+ASMI
 
-Saratoga Investama Sedaya Tbk.
+Asuransi Maximus Graha Persada Tbk.
 
-▼ 0.85%
+▼ 2.50%
 
-BBLD
+PADI
 
-Buana Finance Tbk.
+Minna Padi Investama Sekuritas Tbk.
+
+▲ 2.50%
+
+IBFN
+
+Intan Baru Prana Tbk.
 
 ▲ 0.00%
 
-BINA
+BTPS
 
-Bank Ina Perdana Tbk.
+Bank BTPN Syariah Tbk.
 
-▲ 0.76%
+▲ 1.56%
 
-CASA
+VRNA
 
-Capital Financial Indonesia Tbk.
+Mizuho Leasing Indonesia Tbk.
 
-▲ 1.67%
+▲ 0.00%
 
-BABP
+POOL
 
-Bank MNC Internasional Tbk.
+Pool Advista Indonesia Tbk.
 
-▲ 10.71%
+▲ 0.00%
 
-BSIM
+BBNI
 
-Bank Sinarmas Tbk.
+Bank Negara Indonesia (Persero) Tbk.
 
-▲ 1.07%
+▲ 0.59%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

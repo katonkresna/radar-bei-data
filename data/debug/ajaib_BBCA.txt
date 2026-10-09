@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-10 Okt
-17 Des
-04 Mar
-22 Mei
-04 Agt
+13 Okt
+18 Des
+05 Mar
+25 Mei
+05 Agt
 4.753
 6.253
 7.753
@@ -188,53 +188,53 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-SUPA
+TRUS
 
-Super Bank Indonesia Tbk.
-
-▲ 2.08%
-
-ASDM
-
-Asuransi Dayin Mitra Tbk.
+Trust Finance Indonesia Tbk
 
 ▲ 0.00%
 
-BTPN
+BSIM
 
-Bank SMBC Indonesia Tbk.
+Bank Sinarmas Tbk.
 
-▲ 1.63%
+▲ 1.07%
 
-BJTM
+BNGA
 
-Bank Pembangunan Daerah Jawa Timur Tbk.
+Bank CIMB Niaga Tbk.
 
-▲ 0.98%
+▲ 0.59%
 
-AMAG
+PNBN
 
-Asuransi Multi Artha Guna Tbk.
+Bank Pan Indonesia Tbk
 
-▼ 0.52%
+▲ 0.00%
 
-DEFI
+VTNY
 
-Danasupra Erapacific Tbk.
+Venteny Fortuna International Tbk.
 
-▲ 1.12%
+▲ 0.00%
 
-PNLF
+ABDA
 
-Panin Financial Tbk.
+Asuransi Bina Dana Arta Tbk.
 
-▲ 1.03%
+▲ 0.00%
 
-NISP
+BMRI
 
-Bank OCBC NISP Tbk.
+Bank Mandiri (Persero) Tbk.
 
-▼ 0.81%
+▲ 1.00%
+
+BTPS
+
+Bank BTPN Syariah Tbk.
+
+▲ 1.56%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

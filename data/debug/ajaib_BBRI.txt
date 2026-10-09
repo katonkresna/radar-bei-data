@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-10 Okt
-17 Des
-04 Mar
-22 Mei
-04 Agt
+13 Okt
+18 Des
+05 Mar
+25 Mei
+05 Agt
 2.538
 2.938
 3.338
@@ -186,53 +186,53 @@ IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-MASB
+BNBA
 
-Bank Multiarta Sentosa Tbk.
+Bank Bumi Arta Tbk.
 
-▲ 0.00%
+▲ 0.62%
 
-BABP
+BTPS
 
-Bank MNC Internasional Tbk.
+Bank BTPN Syariah Tbk.
 
-▲ 10.71%
+▲ 1.56%
 
-DNAR
+BPII
 
-Bank Oke Indonesia Tbk.
-
-▼ 2.36%
-
-POLA
-
-Pool Advista Finance Tbk.
-
-▲ 2.86%
-
-BBTN
-
-Bank Tabungan Negara (Persero) Tbk.
+Batavia Prosperindo Internasional Tbk.
 
 ▲ 0.00%
 
-MTWI
+PNIN
 
-Malacca Trust Wuwungan Insurance Tbk.
+Paninvest Tbk.
 
 ▲ 0.00%
 
-BNLI
+BBLD
 
-Bank Permata Tbk.
+Buana Finance Tbk.
 
-▼ 1.28%
+▲ 0.00%
 
-STAR
+LPPS
 
-Calculus Global Ventures Tbk.
+Lenox Pasifik Investama Tbk.
 
-▲ 0.53%
+▼ 1.64%
+
+ASDM
+
+Asuransi Dayin Mitra Tbk.
+
+▲ 0.00%
+
+IBFN
+
+Intan Baru Prana Tbk.
+
+▲ 0.00%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
