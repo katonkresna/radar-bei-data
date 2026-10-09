@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-4,000
-100 (-2.44%)
+4,020
+20 (0.50%)
 Invalid Date Invalid Date WIB
-130.85 M
+8.45 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 5.429
 Performa Harga
 Harga kembali 1 minggu
--0.25%
+-
 Harga kembali 1 Bulan
--9.71%
+-8.20%
 Harga kembali 3 Bulan
-0.76%
+-0.25%
 Harga kembali 6 Bulan
--14.35%
+-11.82%
 Harga Tertinggi (52 Minggu)
 5,375
 Harga Terendah (52 Minggu)
@@ -60,21 +60,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-369.6 T
+371.45 T
 Current PE Ratio (Annualized)
-6.08
+6.11
 Current PE Ratio (TTM)
-5.94
+5.97
 Earnings Yield (TTM)
-16.84
+16.76
 Current Price to Book Value
-1.3
+1.31
 Current Price to Cashflow (TTM)
-8.55
+8.6
 Current Price to Free Cashflow (TTM)
-9.64
+9.69
 PEG Ratio
-0.75
+0.76
 Per Share
 Current EPS (TTM)
 673.71
@@ -132,7 +132,7 @@ Top Buy (Val): $BBCA, $ASII, $GOTO
 Top Sell (Val): $BMRI, $BUMI, $ANTM
 
 2
-4
+5
 Ajaib Official
 06 Oktober 2026, 13:19 WIB
 
@@ -192,53 +192,53 @@ Pergerakan IHSG Masih Rawan Terkoreksi, Saham BMRI-BRPT Bisa Dicermati
 IDX Channel • 18 Sep 2026 • 05:05 WIB
 Saham Terkait
 
-BBSI
+ADMF
 
-Krom Bank Indonesia Tbk.
+Adira Dinamika Multi Finance Tbk.
 
-▲ 0.25%
+▲ 0.30%
 
-POOL
+BCAP
 
-Pool Advista Indonesia Tbk.
-
-▲ 0.00%
-
-BMAS
-
-Bank Kasikorn Indonesia Tbk.
-
-▲ 0.84%
-
-BEKS
-
-Bank Pembangunan Daerah Banten Tbk.
-
-▼ 8.33%
-
-AGRO
-
-Bank Raya Indonesia Tbk.
-
-▼ 3.57%
-
-PLAS
-
-Polaris Investama Tbk
+MNC Kapital Indonesia Tbk.
 
 ▲ 0.00%
 
-BNGA
+TUGU
 
-Bank CIMB Niaga Tbk.
+Asuransi Tugu Pratama Indonesia Tbk.
 
-▼ 1.46%
+▲ 2.74%
 
-BTPS
+MAYA
 
-Bank BTPN Syariah Tbk.
+Bank Mayapada Internasional Tbk.
+
+▼ 1.01%
+
+BBKP
+
+Bank KB Indonesia Tbk.
 
 ▲ 0.00%
+
+BHAT
+
+Bhakti Multi Artha Tbk.
+
+▲ 0.00%
+
+BRIS
+
+Bank Syariah Indonesia (Persero) Tbk.
+
+▲ 0.75%
+
+TRUS
+
+Trust Finance Indonesia Tbk
+
+▲ 0.44%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

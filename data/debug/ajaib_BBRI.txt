@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-3,030
-110 (-3.50%)
+3,060
+30 (0.99%)
 Invalid Date Invalid Date WIB
-150.85 M
+26.84 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 4.080
 Performa Harga
 Harga kembali 1 minggu
--2.26%
+-0.97%
 Harga kembali 1 Bulan
--11.14%
+-10.82%
 Harga kembali 3 Bulan
-8.60%
+9.71%
 Harga kembali 6 Bulan
--9.28%
+-7.01%
 Harga Tertinggi (52 Minggu)
 4,050
 Harga Terendah (52 Minggu)
@@ -60,19 +60,19 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-454.63 T
+459.13 T
 Current PE Ratio (Annualized)
-7.44
+7.51
 Current PE Ratio (TTM)
-7.5
+7.57
 Earnings Yield (TTM)
-13.34
+13.2
 Current Price to Book Value
-1.43
+1.44
 Current Price to Cashflow (TTM)
-32.63
+32.95
 Current Price to Free Cashflow (TTM)
-59.55
+60.14
 PEG Ratio
 0.95
 Per Share
@@ -186,51 +186,51 @@ IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-VRNA
+ASDM
 
-Mizuho Leasing Indonesia Tbk.
-
-▲ 1.30%
-
-MASB
-
-Bank Multiarta Sentosa Tbk.
+Asuransi Dayin Mitra Tbk.
 
 ▲ 0.00%
 
-BCAP
+BACA
 
-MNC Kapital Indonesia Tbk.
+Bank Capital Indonesia Tbk.
 
-▲ 0.00%
+▼ 0.91%
 
-GSMF
+BTPN
 
-Equity Development Investment Tbk.
-
-▼ 2.11%
-
-BNII
-
-Bank Maybank Indonesia Tbk.
+Bank SMBC Indonesia Tbk.
 
 ▲ 0.00%
 
-PNIN
+SFAN
 
-Paninvest Tbk.
+Surya Fajar Capital Tbk.
 
-▼ 0.74%
+▲ 0.00%
 
-BBNI
+PLAS
 
-Bank Negara Indonesia (Persero) Tbk.
+Polaris Investama Tbk
 
-▼ 0.87%
+▲ 0.00%
 
-BHAT
+BPFI
 
-Bhakti Multi Artha Tbk.
+Woori Finance Indonesia Tbk.
+
+▼ 0.83%
+
+BMAS
+
+Bank Kasikorn Indonesia Tbk.
+
+▼ 0.42%
+
+BBTN
+
+Bank Tabungan Negara (Persero) Tbk.
 
 ▲ 0.00%
 

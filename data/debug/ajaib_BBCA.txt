@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-6,000
-50 (-0.83%)
+6,025
+25 (0.42%)
 Invalid Date Invalid Date WIB
-113.14 M
+17.4 M
 Volume
 1D
 1W
@@ -40,13 +40,13 @@ YTD
 8.787
 Performa Harga
 Harga kembali 1 minggu
--
+-1.64%
 Harga kembali 1 Bulan
--10.11%
+-8.05%
 Harga kembali 3 Bulan
--2.83%
+-3.23%
 Harga kembali 6 Bulan
--11.11%
+-7.34%
 Harga Tertinggi (52 Minggu)
 8,750
 Harga Terendah (52 Minggu)
@@ -59,21 +59,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-732.25 T
+735.3 T
 Current PE Ratio (Annualized)
-12.4
+12.45
 Current PE Ratio (TTM)
-12.61
+12.67
 Earnings Yield (TTM)
-7.93
+7.9
 Current Price to Book Value
-2.71
+2.72
 Current Price to Cashflow (TTM)
-10.64
+10.68
 Current Price to Free Cashflow (TTM)
-11.13
+11.18
 PEG Ratio
-4.66
+4.68
 Per Share
 Current EPS (TTM)
 475.69
@@ -188,53 +188,53 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-VICO
+BBTN
 
-Victoria Investama Tbk.
-
-▲ 0.65%
-
-BEKS
-
-Bank Pembangunan Daerah Banten Tbk.
-
-▼ 8.33%
-
-GSMF
-
-Equity Development Investment Tbk.
-
-▼ 2.11%
-
-STAR
-
-Calculus Global Ventures Tbk.
-
-▼ 6.86%
-
-MEGA
-
-Bank Mega Tbk.
+Bank Tabungan Negara (Persero) Tbk.
 
 ▲ 0.00%
 
-ASDM
+VTNY
 
-Asuransi Dayin Mitra Tbk.
-
-▲ 0.00%
-
-BACA
-
-Bank Capital Indonesia Tbk.
+Venteny Fortuna International Tbk.
 
 ▲ 0.00%
 
-BVIC
+ARTO
 
-Bank Victoria International Tbk.
+Bank Jago Tbk.
+
+▼ 0.64%
+
+AMAR
+
+Bank Amar Indonesia Tbk.
+
+▲ 0.88%
+
+BMAS
+
+Bank Kasikorn Indonesia Tbk.
+
+▼ 0.42%
+
+AMOR
+
+Ashmore Asset Management Indonesia Tbk.
 
 ▲ 0.00%
+
+SDRA
+
+Bank Woori Saudara Indonesia 1906 Tbk.
+
+▲ 2.00%
+
+AGRS
+
+Bank IBK Indonesia Tbk.
+
+▲ 1.72%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
