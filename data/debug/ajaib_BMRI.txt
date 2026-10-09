@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-4,020
-20 (0.50%)
+4,040
+40 (1.00%)
 Invalid Date Invalid Date WIB
-8.45 M
+53.45 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 5.429
 Performa Harga
 Harga kembali 1 minggu
--
+0.25%
 Harga kembali 1 Bulan
--8.20%
+-7.97%
 Harga kembali 3 Bulan
--0.25%
+-
 Harga kembali 6 Bulan
--11.82%
+-11.60%
 Harga Tertinggi (52 Minggu)
 5,375
 Harga Terendah (52 Minggu)
@@ -60,19 +60,19 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-371.45 T
+373.3 T
 Current PE Ratio (Annualized)
-6.11
+6.14
 Current PE Ratio (TTM)
-5.97
+6
 Earnings Yield (TTM)
-16.76
+16.68
 Current Price to Book Value
 1.31
 Current Price to Cashflow (TTM)
-8.6
+8.64
 Current Price to Free Cashflow (TTM)
-9.69
+9.74
 PEG Ratio
 0.76
 Per Share
@@ -192,11 +192,11 @@ Pergerakan IHSG Masih Rawan Terkoreksi, Saham BMRI-BRPT Bisa Dicermati
 IDX Channel • 18 Sep 2026 • 05:05 WIB
 Saham Terkait
 
-ADMF
+BSWD
 
-Adira Dinamika Multi Finance Tbk.
+Bank Of India Indonesia Tbk.
 
-▲ 0.30%
+▲ 0.00%
 
 BCAP
 
@@ -204,41 +204,41 @@ MNC Kapital Indonesia Tbk.
 
 ▲ 0.00%
 
-TUGU
+SRTG
 
-Asuransi Tugu Pratama Indonesia Tbk.
+Saratoga Investama Sedaya Tbk.
 
-▲ 2.74%
+▼ 0.85%
 
-MAYA
+BBLD
 
-Bank Mayapada Internasional Tbk.
-
-▼ 1.01%
-
-BBKP
-
-Bank KB Indonesia Tbk.
+Buana Finance Tbk.
 
 ▲ 0.00%
 
-BHAT
+BINA
 
-Bhakti Multi Artha Tbk.
+Bank Ina Perdana Tbk.
 
-▲ 0.00%
+▲ 0.76%
 
-BRIS
+CASA
 
-Bank Syariah Indonesia (Persero) Tbk.
+Capital Financial Indonesia Tbk.
 
-▲ 0.75%
+▲ 1.67%
 
-TRUS
+BABP
 
-Trust Finance Indonesia Tbk
+Bank MNC Internasional Tbk.
 
-▲ 0.44%
+▲ 10.71%
+
+BSIM
+
+Bank Sinarmas Tbk.
+
+▲ 1.07%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

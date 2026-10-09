@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-3,060
-30 (0.99%)
+3,100
+70 (2.31%)
 Invalid Date Invalid Date WIB
-26.84 M
+155.85 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 4.080
 Performa Harga
 Harga kembali 1 minggu
--0.97%
+0.65%
 Harga kembali 1 Bulan
--10.82%
+-9.36%
 Harga kembali 3 Bulan
-9.71%
+11.51%
 Harga kembali 6 Bulan
--7.01%
+-5.49%
 Harga Tertinggi (52 Minggu)
 4,050
 Harga Terendah (52 Minggu)
@@ -60,21 +60,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-459.13 T
+465.13 T
 Current PE Ratio (Annualized)
-7.51
+7.61
 Current PE Ratio (TTM)
-7.57
+7.67
 Earnings Yield (TTM)
-13.2
+13.03
 Current Price to Book Value
-1.44
+1.46
 Current Price to Cashflow (TTM)
-32.95
+33.38
 Current Price to Free Cashflow (TTM)
-60.14
+60.92
 PEG Ratio
-0.95
+0.97
 Per Share
 Current EPS (TTM)
 404.07
@@ -106,9 +106,9 @@ Jual
 Beli
 
 Jual
-Jual 10
+Jual 9
 Netral 0
-Beli 4
+Beli 5
 Baca selengkapnya
 Dividen
 Jumlah Dividen
@@ -186,53 +186,53 @@ IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-ASDM
+MASB
 
-Asuransi Dayin Mitra Tbk.
-
-▲ 0.00%
-
-BACA
-
-Bank Capital Indonesia Tbk.
-
-▼ 0.91%
-
-BTPN
-
-Bank SMBC Indonesia Tbk.
+Bank Multiarta Sentosa Tbk.
 
 ▲ 0.00%
 
-SFAN
+BABP
 
-Surya Fajar Capital Tbk.
+Bank MNC Internasional Tbk.
 
-▲ 0.00%
+▲ 10.71%
 
-PLAS
+DNAR
 
-Polaris Investama Tbk
+Bank Oke Indonesia Tbk.
 
-▲ 0.00%
+▼ 2.36%
 
-BPFI
+POLA
 
-Woori Finance Indonesia Tbk.
+Pool Advista Finance Tbk.
 
-▼ 0.83%
-
-BMAS
-
-Bank Kasikorn Indonesia Tbk.
-
-▼ 0.42%
+▲ 2.86%
 
 BBTN
 
 Bank Tabungan Negara (Persero) Tbk.
 
 ▲ 0.00%
+
+MTWI
+
+Malacca Trust Wuwungan Insurance Tbk.
+
+▲ 0.00%
+
+BNLI
+
+Bank Permata Tbk.
+
+▼ 1.28%
+
+STAR
+
+Calculus Global Ventures Tbk.
+
+▲ 0.53%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

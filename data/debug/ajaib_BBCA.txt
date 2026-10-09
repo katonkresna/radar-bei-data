@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-6,025
-25 (0.42%)
+6,050
+50 (0.83%)
 Invalid Date Invalid Date WIB
-17.4 M
+87.1 M
 Volume
 1D
 1W
@@ -40,13 +40,13 @@ YTD
 8.787
 Performa Harga
 Harga kembali 1 minggu
--1.64%
+-0.82%
 Harga kembali 1 Bulan
--8.05%
+-7.28%
 Harga kembali 3 Bulan
--3.23%
+-2.42%
 Harga kembali 6 Bulan
--7.34%
+-6.56%
 Harga Tertinggi (52 Minggu)
 8,750
 Harga Terendah (52 Minggu)
@@ -59,21 +59,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-735.3 T
+738.36 T
 Current PE Ratio (Annualized)
-12.45
+12.5
 Current PE Ratio (TTM)
-12.67
+12.72
 Earnings Yield (TTM)
-7.9
+7.86
 Current Price to Book Value
-2.72
+2.73
 Current Price to Cashflow (TTM)
-10.68
+10.72
 Current Price to Free Cashflow (TTM)
-11.18
+11.22
 PEG Ratio
-4.68
+4.7
 Per Share
 Current EPS (TTM)
 475.69
@@ -130,8 +130,8 @@ Sesi 1 Foreign Net Sell Rp194 Miliar (8/10)
 Top Buy (Val): $BBCA, $ASII, $GOTO
 Top Sell (Val): $BMRI, $BUMI, $ANTM
 
-2
-4
+5
+6
 Ajaib Official
 07 Oktober 2026, 12:37 WIB
 
@@ -188,53 +188,53 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-BBTN
+SUPA
 
-Bank Tabungan Negara (Persero) Tbk.
+Super Bank Indonesia Tbk.
 
-▲ 0.00%
+▲ 2.08%
 
-VTNY
+ASDM
 
-Venteny Fortuna International Tbk.
-
-▲ 0.00%
-
-ARTO
-
-Bank Jago Tbk.
-
-▼ 0.64%
-
-AMAR
-
-Bank Amar Indonesia Tbk.
-
-▲ 0.88%
-
-BMAS
-
-Bank Kasikorn Indonesia Tbk.
-
-▼ 0.42%
-
-AMOR
-
-Ashmore Asset Management Indonesia Tbk.
+Asuransi Dayin Mitra Tbk.
 
 ▲ 0.00%
 
-SDRA
+BTPN
 
-Bank Woori Saudara Indonesia 1906 Tbk.
+Bank SMBC Indonesia Tbk.
 
-▲ 2.00%
+▲ 1.63%
 
-AGRS
+BJTM
 
-Bank IBK Indonesia Tbk.
+Bank Pembangunan Daerah Jawa Timur Tbk.
 
-▲ 1.72%
+▲ 0.98%
+
+AMAG
+
+Asuransi Multi Artha Guna Tbk.
+
+▼ 0.52%
+
+DEFI
+
+Danasupra Erapacific Tbk.
+
+▲ 1.12%
+
+PNLF
+
+Panin Financial Tbk.
+
+▲ 1.03%
+
+NISP
+
+Bank OCBC NISP Tbk.
+
+▼ 0.81%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
