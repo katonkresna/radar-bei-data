@@ -18,9 +18,9 @@ Trading Limit
 
 Mulai Investasi
 3,100
-70 (2.31%)
+-
 Invalid Date Invalid Date WIB
-155.85 M
+17.06 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 4.080
 Performa Harga
 Harga kembali 1 minggu
-0.65%
+-0.32%
 Harga kembali 1 Bulan
--9.36%
+-4.89%
 Harga kembali 3 Bulan
-11.51%
+11.47%
 Harga kembali 6 Bulan
--5.49%
+-8.26%
 Harga Tertinggi (52 Minggu)
 4,050
 Harga Terendah (52 Minggu)
@@ -60,19 +60,19 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-465.13 T
+466.64 T
 Current PE Ratio (Annualized)
-7.61
+7.64
 Current PE Ratio (TTM)
-7.67
+7.7
 Earnings Yield (TTM)
-13.03
+12.99
 Current Price to Book Value
 1.46
 Current Price to Cashflow (TTM)
-33.38
+33.49
 Current Price to Free Cashflow (TTM)
-60.92
+61.12
 PEG Ratio
 0.97
 Per Share
@@ -123,6 +123,16 @@ Payment Date
 08 Mei 2026
 Selengkapnya
 Feeds
+Ajaib Official
+09 Oktober 2026, 12:12 WIB
+
+Sesi 1 Foreign Net Sell Rp32 Miliar (9/10)
+
+Top Buy (Val): $SINI,$CUAN, $ARCI
+Top Sell (Val): $GOTO, $BUMI, $BBRI
+
+1
+3
 Sutarjo
 08 Oktober 2026, 13:31 WIB
 
@@ -157,16 +167,6 @@ Top Sell (Val): $GOTO, $BMRI, $TLKM
 
 0
 3
-Ajaib Official
-05 Oktober 2026, 12:30 WIB
-
-Sesi 1 Foreign Net Sell Rp205 Miliar (5/10)
-
-Top Buy (Val): $BMRI, $GOTO, $BUVA
-Top Sell (Val): $BBRI, $BUMI, $AMMN
-
-3
-2
 Berita dan Kabar BBRI Terbaru Hari Ini
 
 Kinerja BRI Kinclong, 3 Indikator Ini di Atas Rata-Rata Industri
@@ -186,53 +186,53 @@ IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-BNBA
+CFIN
 
-Bank Bumi Arta Tbk.
-
-▲ 0.62%
-
-BTPS
-
-Bank BTPN Syariah Tbk.
-
-▲ 1.56%
-
-BPII
-
-Batavia Prosperindo Internasional Tbk.
+Clipan Finance Indonesia Tbk.
 
 ▲ 0.00%
 
-PNIN
+VTNY
 
-Paninvest Tbk.
+Venteny Fortuna International Tbk.
 
-▲ 0.00%
+▲ 1.82%
 
-BBLD
+LIFE
 
-Buana Finance Tbk.
+MSIG Life Insurance Indonesia Tbk.
 
-▲ 0.00%
+▼ 0.23%
 
-LPPS
+INPC
 
-Lenox Pasifik Investama Tbk.
-
-▼ 1.64%
-
-ASDM
-
-Asuransi Dayin Mitra Tbk.
+Bank Artha Graha Internasional Tbk.
 
 ▲ 0.00%
 
-IBFN
+VINS
 
-Intan Baru Prana Tbk.
+Victoria Insurance Tbk.
 
-▲ 0.00%
+▲ 1.44%
+
+BBKP
+
+Bank KB Indonesia Tbk.
+
+▼ 2.27%
+
+AMAG
+
+Asuransi Multi Artha Guna Tbk.
+
+▲ 0.52%
+
+GSMF
+
+Equity Development Investment Tbk.
+
+▼ 1.08%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

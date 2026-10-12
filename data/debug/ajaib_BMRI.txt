@@ -18,9 +18,9 @@ Trading Limit
 
 Mulai Investasi
 4,040
-40 (1.00%)
+-
 Invalid Date Invalid Date WIB
-53.45 M
+8.11 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 5.429
 Performa Harga
 Harga kembali 1 minggu
-0.25%
+-1.46%
 Harga kembali 1 Bulan
--7.97%
+-7.34%
 Harga kembali 3 Bulan
--
+-0.98%
 Harga kembali 6 Bulan
--11.60%
+-13.49%
 Harga Tertinggi (52 Minggu)
 5,375
 Harga Terendah (52 Minggu)
@@ -60,19 +60,19 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-373.3 T
+374.22 T
 Current PE Ratio (Annualized)
-6.14
+6.15
 Current PE Ratio (TTM)
-6
+6.01
 Earnings Yield (TTM)
-16.68
+16.63
 Current Price to Book Value
 1.31
 Current Price to Cashflow (TTM)
-8.64
+8.66
 Current Price to Free Cashflow (TTM)
-9.74
+9.76
 PEG Ratio
 0.76
 Per Share
@@ -131,8 +131,8 @@ Sesi 1 Foreign Net Sell Rp194 Miliar (8/10)
 Top Buy (Val): $BBCA, $ASII, $GOTO
 Top Sell (Val): $BMRI, $BUMI, $ANTM
 
-2
 5
+6
 Ajaib Official
 06 Oktober 2026, 13:19 WIB
 
@@ -192,53 +192,53 @@ Pergerakan IHSG Masih Rawan Terkoreksi, Saham BMRI-BRPT Bisa Dicermati
 IDX Channel • 18 Sep 2026 • 05:05 WIB
 Saham Terkait
 
-VINS
+ASJT
 
-Victoria Insurance Tbk.
+Asuransi Jasa Tania Tbk.
+
+▼ 0.61%
+
+OCAP
+
+Onix Capital Tbk.
 
 ▲ 0.00%
 
-ASMI
+HDFA
 
-Asuransi Maximus Graha Persada Tbk.
+Radana Bhaskara Finance Tbk.
 
-▼ 2.50%
+▲ 0.00%
+
+MCOR
+
+Bank China Construction Bank Indonesia Tbk.
+
+▲ 1.52%
+
+JMAS
+
+Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk.
+
+▲ 0.00%
+
+BABP
+
+Bank MNC Internasional Tbk.
+
+▼ 6.45%
 
 PADI
 
 Minna Padi Investama Sekuritas Tbk.
 
-▲ 2.50%
+▼ 2.44%
 
-IBFN
+BSWD
 
-Intan Baru Prana Tbk.
-
-▲ 0.00%
-
-BTPS
-
-Bank BTPN Syariah Tbk.
-
-▲ 1.56%
-
-VRNA
-
-Mizuho Leasing Indonesia Tbk.
+Bank Of India Indonesia Tbk.
 
 ▲ 0.00%
-
-POOL
-
-Pool Advista Indonesia Tbk.
-
-▲ 0.00%
-
-BBNI
-
-Bank Negara Indonesia (Persero) Tbk.
-
-▲ 0.59%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-6,050
-50 (0.83%)
+6,025
+25 (-0.41%)
 Invalid Date Invalid Date WIB
-87.1 M
+3.52 M
 Volume
 1D
 1W
@@ -188,9 +188,33 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-TRUS
+POLA
 
-Trust Finance Indonesia Tbk
+Pool Advista Finance Tbk.
+
+▲ 6.48%
+
+SUPA
+
+Super Bank Indonesia Tbk.
+
+▼ 0.82%
+
+LPGI
+
+Lippo General Insurance Tbk.
+
+▼ 0.78%
+
+MTWI
+
+Malacca Trust Wuwungan Insurance Tbk.
+
+▲ 3.23%
+
+BJBR
+
+Bank Pembangunan Daerah Jawa Barat dan Banten Tbk.
 
 ▲ 0.00%
 
@@ -198,43 +222,19 @@ BSIM
 
 Bank Sinarmas Tbk.
 
-▲ 1.07%
+▲ 0.00%
 
-BNGA
+MAYA
 
-Bank CIMB Niaga Tbk.
-
-▲ 0.59%
-
-PNBN
-
-Bank Pan Indonesia Tbk
+Bank Mayapada Internasional Tbk.
 
 ▲ 0.00%
 
-VTNY
+BDMN
 
-Venteny Fortuna International Tbk.
-
-▲ 0.00%
-
-ABDA
-
-Asuransi Bina Dana Arta Tbk.
+Bank Danamon Indonesia Tbk.
 
 ▲ 0.00%
-
-BMRI
-
-Bank Mandiri (Persero) Tbk.
-
-▲ 1.00%
-
-BTPS
-
-Bank BTPN Syariah Tbk.
-
-▲ 1.56%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
