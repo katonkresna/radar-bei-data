@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-4,040
--
+4,010
+30 (-0.74%)
 Invalid Date Invalid Date WIB
-8.11 M
+108.84 M
 Volume
 1D
 1W
@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-13 Okt
-18 Des
-05 Mar
-25 Mei
-05 Agt
+14 Okt
+19 Des
+06 Mar
+26 Mei
+06 Agt
 3.636
 4.086
 4.536
@@ -41,13 +41,13 @@ YTD
 5.429
 Performa Harga
 Harga kembali 1 minggu
--1.46%
+-2.20%
 Harga kembali 1 Bulan
--7.34%
+-8.03%
 Harga kembali 3 Bulan
--0.98%
+-1.72%
 Harga kembali 6 Bulan
--13.49%
+-14.13%
 Harga Tertinggi (52 Minggu)
 5,375
 Harga Terendah (52 Minggu)
@@ -60,19 +60,19 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-374.22 T
+370.52 T
 Current PE Ratio (Annualized)
-6.15
+6.09
 Current PE Ratio (TTM)
-6.01
+5.95
 Earnings Yield (TTM)
-16.63
+16.8
 Current Price to Book Value
-1.31
+1.3
 Current Price to Cashflow (TTM)
-8.66
+8.58
 Current Price to Free Cashflow (TTM)
-9.76
+9.67
 PEG Ratio
 0.76
 Per Share
@@ -123,6 +123,13 @@ Payment Date
 02 Oktober 2026
 Selengkapnya
 Feeds
+prikitiw77
+12 Oktober 2026, 14:30 WIB
+
+📢 Saya baru saja mengirim Order Beli $BMRI di harga Rp3.970.
+
+0
+1
 Ajaib Official
 08 Oktober 2026, 12:26 WIB
 
@@ -163,16 +170,6 @@ Top Sell (Val): $ADMF, $BMRI, $BBCA
 
 1
 3
-Ajaib Official
-28 September 2026, 12:43 WIB
-
-Sesi 1 Foreign Net Sell Rp129 Miliar (28/9)
-
-Top Buy (Val): $PTBA, $PEGE, $BBRI
-Top Sell (Val): $BMRI, $TLKM, $BBCA
-
-9
-7
 Berita dan Kabar BMRI Terbaru Hari Ini
 
 5 Tahun Livin' by Mandiri Hadirkan Solusi Investasi dan Pembiayaan
@@ -192,51 +189,51 @@ Pergerakan IHSG Masih Rawan Terkoreksi, Saham BMRI-BRPT Bisa Dicermati
 IDX Channel • 18 Sep 2026 • 05:05 WIB
 Saham Terkait
 
-ASJT
+WOMF
 
-Asuransi Jasa Tania Tbk.
+Wahana Ottomitra Multiartha Tbk.
 
-▼ 0.61%
+▼ 2.16%
 
-OCAP
+PLAS
 
-Onix Capital Tbk.
-
-▲ 0.00%
-
-HDFA
-
-Radana Bhaskara Finance Tbk.
+Polaris Investama Tbk
 
 ▲ 0.00%
 
-MCOR
+BPII
 
-Bank China Construction Bank Indonesia Tbk.
+Batavia Prosperindo Internasional Tbk.
 
-▲ 1.52%
+▼ 3.15%
 
-JMAS
+BBKP
 
-Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk.
+Bank KB Indonesia Tbk.
 
-▲ 0.00%
+▼ 9.09%
 
-BABP
+ASRM
 
-Bank MNC Internasional Tbk.
+Asuransi Ramayana Tbk.
 
-▼ 6.45%
+▼ 4.44%
 
-PADI
+SUPA
 
-Minna Padi Investama Sekuritas Tbk.
+Super Bank Indonesia Tbk.
 
-▼ 2.44%
+▼ 2.86%
 
-BSWD
+BDMN
 
-Bank Of India Indonesia Tbk.
+Bank Danamon Indonesia Tbk.
+
+▼ 0.60%
+
+MREI
+
+Maskapai Reasuransi Indonesia Tbk.
 
 ▲ 0.00%
 

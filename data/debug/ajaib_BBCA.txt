@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-6,025
-25 (-0.41%)
+5,950
+100 (-1.65%)
 Invalid Date Invalid Date WIB
-3.52 M
+97.97 M
 Volume
 1D
 1W
@@ -29,24 +29,24 @@ Volume
 1Y
 5Y
 YTD
-13 Okt
-18 Des
-05 Mar
-25 Mei
-05 Agt
+14 Okt
+19 Des
+06 Mar
+26 Mei
+06 Agt
 4.753
 6.253
 7.753
 8.787
 Performa Harga
 Harga kembali 1 minggu
--0.82%
+-3.64%
 Harga kembali 1 Bulan
--7.28%
+-5.93%
 Harga kembali 3 Bulan
--2.42%
+-3.64%
 Harga kembali 6 Bulan
--6.56%
+-11.19%
 Harga Tertinggi (52 Minggu)
 8,750
 Harga Terendah (52 Minggu)
@@ -59,21 +59,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-738.36 T
+726.15 T
 Current PE Ratio (Annualized)
-12.5
+12.29
 Current PE Ratio (TTM)
-12.72
+12.51
 Earnings Yield (TTM)
-7.86
+7.99
 Current Price to Book Value
-2.73
+2.69
 Current Price to Cashflow (TTM)
-10.72
+10.55
 Current Price to Free Cashflow (TTM)
-11.22
+11.04
 PEG Ratio
-4.7
+4.62
 Per Share
 Current EPS (TTM)
 475.69
@@ -123,6 +123,16 @@ Payment Date
 Selengkapnya
 Feeds
 Ajaib Official
+12 Oktober 2026, 12:33 WIB
+
+Sesi 1 Foreign Net Sell Rp166 Miliar (12/10)
+
+Top Buy (Val): $GOTO, $ASII, $ERAA
+Top Sell (Val): $BUMI, $BBCA, $DEWA
+
+0
+10
+Ajaib Official
 08 Oktober 2026, 12:26 WIB
 
 Sesi 1 Foreign Net Sell Rp194 Miliar (8/10)
@@ -159,16 +169,6 @@ Top Sell (Val): $GOTO, $CUAN, $AMMN
 
 10
 11
-Ajaib Official
-30 September 2026, 13:00 WIB
-
-Sesi 1 Foreign Net Sell Rp677 Miliar (30/9)
-
-Top Buy (Val): $ANTM, $UNTR, $BBRI
-Top Sell (Val): $ADMF, $BBCA, $TLKM
-
-10
-3
 Berita dan Kabar BBCA Terbaru Hari Ini
 
 Sesi I Asing Kabur Rp 677,4 Miliar, Saham BCA Paling Banyak Dilepas
@@ -188,51 +188,51 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-POLA
+BBNI
 
-Pool Advista Finance Tbk.
+Bank Negara Indonesia (Persero) Tbk.
 
-▲ 6.48%
+▼ 1.46%
 
-SUPA
+AHAP
 
-Super Bank Indonesia Tbk.
+Asuransi Harta Aman Pratama Tbk.
 
-▼ 0.82%
+▼ 10.26%
 
-LPGI
+BPII
 
-Lippo General Insurance Tbk.
+Batavia Prosperindo Internasional Tbk.
 
-▼ 0.78%
+▼ 3.15%
 
-MTWI
+HDFA
 
-Malacca Trust Wuwungan Insurance Tbk.
+Radana Bhaskara Finance Tbk.
 
-▲ 3.23%
+▼ 4.12%
 
-BJBR
+BEKS
 
-Bank Pembangunan Daerah Jawa Barat dan Banten Tbk.
+Bank Pembangunan Daerah Banten Tbk.
 
-▲ 0.00%
+▼ 9.09%
 
 BSIM
 
 Bank Sinarmas Tbk.
 
-▲ 0.00%
+▼ 3.17%
 
-MAYA
+BMAS
 
-Bank Mayapada Internasional Tbk.
+Bank Kasikorn Indonesia Tbk.
 
-▲ 0.00%
+▲ 1.26%
 
-BDMN
+TRUS
 
-Bank Danamon Indonesia Tbk.
+Trust Finance Indonesia Tbk
 
 ▲ 0.00%
 
