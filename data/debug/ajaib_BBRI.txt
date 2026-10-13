@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-3,110
-10 (0.32%)
+3,050
+60 (-1.93%)
 Invalid Date Invalid Date WIB
-129.81 M
+37.3 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 4.080
 Performa Harga
 Harga kembali 1 minggu
--0.32%
+-1.93%
 Harga kembali 1 Bulan
--4.89%
+-6.73%
 Harga kembali 3 Bulan
-11.47%
+6.27%
 Harga kembali 6 Bulan
--8.26%
+-9.50%
 Harga Tertinggi (52 Minggu)
 4,050
 Harga Terendah (52 Minggu)
@@ -60,21 +60,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-466.64 T
+457.63 T
 Current PE Ratio (Annualized)
-7.64
+7.49
 Current PE Ratio (TTM)
-7.7
+7.55
 Earnings Yield (TTM)
-12.99
+13.25
 Current Price to Book Value
-1.46
+1.44
 Current Price to Cashflow (TTM)
-33.49
+32.84
 Current Price to Free Cashflow (TTM)
-61.12
+59.94
 PEG Ratio
-0.97
+0.95
 Per Share
 Current EPS (TTM)
 404.07
@@ -183,53 +183,53 @@ IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
 IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-BPFI
+GSMF
 
-Woori Finance Indonesia Tbk.
+Equity Development Investment Tbk.
 
-▲ 3.33%
+▲ 1.12%
 
-AGRO
+MAYA
 
-Bank Raya Indonesia Tbk.
+Bank Mayapada Internasional Tbk.
 
-▼ 1.49%
+▼ 1.52%
 
-TRUS
+BNBA
 
-Trust Finance Indonesia Tbk
+Bank Bumi Arta Tbk.
 
-▲ 0.00%
+▼ 0.63%
 
-DNET
+BBMD
 
-Indoritel Makmur Internasional Tbk.
-
-▲ 1.53%
-
-VRNA
-
-Mizuho Leasing Indonesia Tbk.
-
-▼ 1.28%
-
-TIFA
-
-KDB Tifa Finance Tbk.
+Bank Mestika Dharma Tbk.
 
 ▲ 0.00%
 
-ASDM
+BBLD
 
-Asuransi Dayin Mitra Tbk.
+Buana Finance Tbk.
 
-▼ 0.98%
+▼ 0.76%
 
-BJBR
+OCAP
 
-Bank Pembangunan Daerah Jawa Barat dan Banten Tbk.
+Onix Capital Tbk.
 
-▼ 1.32%
+▲ 0.00%
+
+BGTG
+
+Bank Ganesha Tbk.
+
+▲ 0.00%
+
+BABP
+
+Bank MNC Internasional Tbk.
+
+▲ 0.00%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

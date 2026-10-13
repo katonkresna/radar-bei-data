@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-5,950
-100 (-1.65%)
+5,925
+25 (-0.42%)
 Invalid Date Invalid Date WIB
-97.97 M
+37.29 M
 Volume
 1D
 1W
@@ -40,13 +40,13 @@ YTD
 8.787
 Performa Harga
 Harga kembali 1 minggu
--3.64%
+-3.28%
 Harga kembali 1 Bulan
--5.93%
+-6.72%
 Harga kembali 3 Bulan
--3.64%
+-5.22%
 Harga kembali 6 Bulan
--11.19%
+-10.27%
 Harga Tertinggi (52 Minggu)
 8,750
 Harga Terendah (52 Minggu)
@@ -59,21 +59,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-726.15 T
+720.05 T
 Current PE Ratio (Annualized)
-12.29
+12.19
 Current PE Ratio (TTM)
-12.51
+12.4
 Earnings Yield (TTM)
-7.99
+8.06
 Current Price to Book Value
-2.69
+2.66
 Current Price to Cashflow (TTM)
-10.55
+10.46
 Current Price to Free Cashflow (TTM)
-11.04
+10.95
 PEG Ratio
-4.62
+4.58
 Per Share
 Current EPS (TTM)
 475.69
@@ -188,53 +188,53 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-RELI
+STAR
 
-Reliance Sekuritas Indonesia Tbk.
+Calculus Global Ventures Tbk.
 
-▼ 0.92%
+▼ 8.79%
 
-SFAN
+BMAS
 
-Surya Fajar Capital Tbk.
-
-▲ 0.00%
-
-ADMF
-
-Adira Dinamika Multi Finance Tbk.
-
-▼ 0.89%
-
-BNGA
-
-Bank CIMB Niaga Tbk.
-
-▼ 0.30%
-
-GSMF
-
-Equity Development Investment Tbk.
-
-▼ 4.30%
-
-POLA
-
-Pool Advista Finance Tbk.
-
-▼ 2.78%
-
-MTWI
-
-Malacca Trust Wuwungan Insurance Tbk.
+Bank Kasikorn Indonesia Tbk.
 
 ▲ 0.00%
 
-HDFA
+IMJS
 
-Radana Bhaskara Finance Tbk.
+Indomobil Multi Jasa Tbk.
 
-▼ 4.12%
+▲ 0.00%
+
+MREI
+
+Maskapai Reasuransi Indonesia Tbk.
+
+▲ 0.00%
+
+BBMD
+
+Bank Mestika Dharma Tbk.
+
+▲ 0.00%
+
+BBRI
+
+Bank Rakyat Indonesia (Persero) Tbk.
+
+▼ 1.61%
+
+AGRO
+
+Bank Raya Indonesia Tbk.
+
+▼ 0.76%
+
+KREN
+
+Quantum Clovera Investama Tbk.
+
+▲ 0.00%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
