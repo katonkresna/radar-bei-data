@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-3,050
-60 (-1.93%)
+3,080
+30 (-0.96%)
 Invalid Date Invalid Date WIB
-37.3 M
+102.01 M
 Volume
 1D
 1W
@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-14 Okt
-19 Des
-06 Mar
-26 Mei
-06 Agt
+15 Okt
+22 Des
+09 Mar
+29 Mei
+07 Agt
 2.538
 2.938
 3.338
@@ -41,13 +41,13 @@ YTD
 4.080
 Performa Harga
 Harga kembali 1 minggu
--1.93%
+-0.96%
 Harga kembali 1 Bulan
--6.73%
+-5.81%
 Harga kembali 3 Bulan
-6.27%
+7.32%
 Harga kembali 6 Bulan
--9.50%
+-8.61%
 Harga Tertinggi (52 Minggu)
 4,050
 Harga Terendah (52 Minggu)
@@ -60,21 +60,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-457.63 T
+462.13 T
 Current PE Ratio (Annualized)
-7.49
+7.56
 Current PE Ratio (TTM)
-7.55
+7.62
 Earnings Yield (TTM)
-13.25
+13.12
 Current Price to Book Value
-1.44
+1.45
 Current Price to Cashflow (TTM)
-32.84
+33.16
 Current Price to Free Cashflow (TTM)
-59.94
+60.53
 PEG Ratio
-0.95
+0.96
 Per Share
 Current EPS (TTM)
 404.07
@@ -105,10 +105,10 @@ Jual
 
 Beli
 
-Netral
-Jual 8
+Jual
+Jual 9
 Netral 0
-Beli 6
+Beli 5
 Baca selengkapnya
 Dividen
 Jumlah Dividen
@@ -123,6 +123,16 @@ Payment Date
 08 Mei 2026
 Selengkapnya
 Feeds
+Ajaib Official
+13 Oktober 2026, 13:11 WIB
+
+Sesi 1 Foreign Net Sell Rp62,5 Miliar (13/10)
+
+Top Buy (Val): $TINS, $BUMI, $DSSA
+Top Sell (Val): $BMRI, $TLKM, $BBRI
+
+0
+1
 Inv8JVL0
 12 Oktober 2026, 17:53 WIB
 
@@ -138,7 +148,7 @@ Sesi 1 Foreign Net Sell Rp32 Miliar (9/10)
 Top Buy (Val): $SINI,$CUAN, $ARCI
 Top Sell (Val): $GOTO, $BUMI, $BBRI
 
-1
+5
 7
 Sutarjo
 08 Oktober 2026, 13:31 WIB
@@ -157,14 +167,15 @@ Top Sell (Val): $BBCA, $GOTO, $DEWA
 
 2
 9
-Penjuang100jt
-08 Oktober 2026, 11:26 WIB
-
-$BBRI $PANI arakan dar
-
-1
-0
 Berita dan Kabar BBRI Terbaru Hari Ini
+
+BRI Wealth Management Hadirkan Tiga Reksa Dana Baru
+
+CNBC Indonesia • 9 Okt 2026 • 17:17 WIB
+
+Kisah BRILink Agen Nova Yulianti Dekatkan Akses Keuangan di Muara Enim
+
+CNN Indonesia • 9 Okt 2026 • 12:10 WIB
 
 Kinerja BRI Kinclong, 3 Indikator Ini di Atas Rata-Rata Industri
 
@@ -173,63 +184,55 @@ CNBC Indonesia • 1 Okt 2026 • 11:40 WIB
 BRI Jadi Satu-satunya Bank RI di SdanP Global Sustainability Yearbook
 
 CNBC Indonesia • 1 Okt 2026 • 11:12 WIB
-
-BRI Infinite Prioritas Hadirkan Kesempatan Ekstra 27.000 GarudaMiles
-
-CNBC Indonesia • 1 Okt 2026 • 08:14 WIB
-
-IHSG Hari Ini Diprediksi Menguat, Pantau Saham AMRT, BBRI hingga DSNG
-
-IDX Channel • 1 Okt 2026 • 06:39 WIB
 Saham Terkait
 
-GSMF
+BDMN
 
-Equity Development Investment Tbk.
-
-▲ 1.12%
-
-MAYA
-
-Bank Mayapada Internasional Tbk.
-
-▼ 1.52%
-
-BNBA
-
-Bank Bumi Arta Tbk.
-
-▼ 0.63%
-
-BBMD
-
-Bank Mestika Dharma Tbk.
+Bank Danamon Indonesia Tbk.
 
 ▲ 0.00%
 
-BBLD
+SFAN
 
-Buana Finance Tbk.
+Surya Fajar Capital Tbk.
+
+▼ 0.25%
+
+BKSW
+
+Bank QNB Indonesia Tbk.
+
+▲ 0.00%
+
+MFIN
+
+Mandala Multifinance Tbk.
+
+▲ 0.00%
+
+AGRO
+
+Bank Raya Indonesia Tbk.
 
 ▼ 0.76%
 
-OCAP
+PANS
 
-Onix Capital Tbk.
+Panin Sekuritas Tbk.
 
-▲ 0.00%
+▼ 1.22%
 
-BGTG
+SMMA
 
-Bank Ganesha Tbk.
-
-▲ 0.00%
-
-BABP
-
-Bank MNC Internasional Tbk.
+Sinarmas Multiartha Tbk.
 
 ▲ 0.00%
+
+PEGE
+
+Panca Global Kapital Tbk.
+
+▲ 1.67%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

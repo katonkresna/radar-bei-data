@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-5,925
-25 (-0.42%)
+5,950
+-
 Invalid Date Invalid Date WIB
-37.29 M
+122.72 M
 Volume
 1D
 1W
@@ -29,24 +29,24 @@ Volume
 1Y
 5Y
 YTD
-14 Okt
-19 Des
-06 Mar
-26 Mei
-06 Agt
+15 Okt
+22 Des
+09 Mar
+29 Mei
+07 Agt
 4.753
 6.253
 7.753
 8.787
 Performa Harga
 Harga kembali 1 minggu
--3.28%
+-2.46%
 Harga kembali 1 Bulan
--6.72%
+-5.93%
 Harga kembali 3 Bulan
--5.22%
+-4.42%
 Harga kembali 6 Bulan
--10.27%
+-9.51%
 Harga Tertinggi (52 Minggu)
 8,750
 Harga Terendah (52 Minggu)
@@ -59,21 +59,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-720.05 T
+726.15 T
 Current PE Ratio (Annualized)
-12.19
+12.29
 Current PE Ratio (TTM)
-12.4
+12.51
 Earnings Yield (TTM)
-8.06
+7.99
 Current Price to Book Value
-2.66
+2.69
 Current Price to Cashflow (TTM)
-10.46
+10.55
 Current Price to Free Cashflow (TTM)
-10.95
+11.04
 PEG Ratio
-4.58
+4.62
 Per Share
 Current EPS (TTM)
 475.69
@@ -130,8 +130,15 @@ Sesi 1 Foreign Net Sell Rp166 Miliar (12/10)
 Top Buy (Val): $GOTO, $ASII, $ERAA
 Top Sell (Val): $BUMI, $BBCA, $DEWA
 
-0
+3
 10
+KARTIKA10
+12 Oktober 2026, 21:09 WIB
+
+📢 Saya baru saja mengirim Order Jual $BBCA di harga Rp6.500.
+
+0
+1
 Ajaib Official
 08 Oktober 2026, 12:26 WIB
 
@@ -159,16 +166,6 @@ Makan enak sambil beli $BBCA
 
 0
 1
-Ajaib Official
-01 Oktober 2026, 12:38 WIB
-
-Sesi 1 Foreign Net Sell Rp204 Miliar (1/10)
-
-Top Buy (Val): $ENRG, $BBCA, $DSSA
-Top Sell (Val): $GOTO, $CUAN, $AMMN
-
-10
-11
 Berita dan Kabar BBCA Terbaru Hari Ini
 
 Sesi I Asing Kabur Rp 677,4 Miliar, Saham BCA Paling Banyak Dilepas
@@ -188,53 +185,53 @@ BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
 IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-STAR
+BCIC
 
-Calculus Global Ventures Tbk.
+Bank JTrust Indonesia Tbk.
 
-▼ 8.79%
+▼ 0.78%
 
-BMAS
+AHAP
 
-Bank Kasikorn Indonesia Tbk.
+Asuransi Harta Aman Pratama Tbk.
 
-▲ 0.00%
+▲ 1.43%
 
-IMJS
+NOBU
 
-Indomobil Multi Jasa Tbk.
-
-▲ 0.00%
-
-MREI
-
-Maskapai Reasuransi Indonesia Tbk.
+Bank Nationalnobu Tbk.
 
 ▲ 0.00%
 
-BBMD
+YOII
 
-Bank Mestika Dharma Tbk.
-
-▲ 0.00%
-
-BBRI
-
-Bank Rakyat Indonesia (Persero) Tbk.
-
-▼ 1.61%
-
-AGRO
-
-Bank Raya Indonesia Tbk.
-
-▼ 0.76%
-
-KREN
-
-Quantum Clovera Investama Tbk.
+Asuransi Digital Bersama Tbk.
 
 ▲ 0.00%
+
+ASMI
+
+Asuransi Maximus Graha Persada Tbk.
+
+▼ 14.71%
+
+INPC
+
+Bank Artha Graha Internasional Tbk.
+
+▲ 4.90%
+
+VTNY
+
+Venteny Fortuna International Tbk.
+
+▼ 3.64%
+
+TRUS
+
+Trust Finance Indonesia Tbk
+
+▲ 0.44%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
