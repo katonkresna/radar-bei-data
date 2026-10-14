@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-5,950
--
+6,050
+100 (1.68%)
 Invalid Date Invalid Date WIB
-122.72 M
+5.01 M
 Volume
 1D
 1W
@@ -40,13 +40,13 @@ YTD
 8.787
 Performa Harga
 Harga kembali 1 minggu
--2.46%
+-2.05%
 Harga kembali 1 Bulan
--5.93%
+-5.53%
 Harga kembali 3 Bulan
--4.42%
+-4.02%
 Harga kembali 6 Bulan
--9.51%
+-9.13%
 Harga Tertinggi (52 Minggu)
 8,750
 Harga Terendah (52 Minggu)
@@ -59,21 +59,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-726.15 T
+729.2 T
 Current PE Ratio (Annualized)
-12.29
+12.35
 Current PE Ratio (TTM)
-12.51
+12.56
 Earnings Yield (TTM)
-7.99
+7.96
 Current Price to Book Value
-2.69
+2.7
 Current Price to Cashflow (TTM)
-10.55
+10.59
 Current Price to Free Cashflow (TTM)
-11.04
+11.09
 PEG Ratio
-4.62
+4.64
 Per Share
 Current EPS (TTM)
 475.69
@@ -168,6 +168,10 @@ Makan enak sambil beli $BBCA
 1
 Berita dan Kabar BBCA Terbaru Hari Ini
 
+IHSG Terbang 1%, Ini Penyebabnya
+
+CNBC Indonesia • 9 Okt 2026 • 15:38 WIB
+
 Sesi I Asing Kabur Rp 677,4 Miliar, Saham BCA Paling Banyak Dilepas
 
 CNBC Indonesia • 30 Sep 2026 • 13:07 WIB
@@ -179,59 +183,55 @@ CNBC Indonesia • 30 Sep 2026 • 06:45 WIB
 IHSG Hari Ini Berpeluang Menguat, Cek Saham BBCA, ICBP hingga UNTR
 
 IDX Channel • 30 Sep 2026 • 06:41 WIB
-
-BCA (BBCA) Tegaskan Isu Saham Mau Diakuisisi Haji Isam Tidak Benar
-
-IDX Channel • 29 Sep 2026 • 15:31 WIB
 Saham Terkait
 
-BBLD
+AHAP
 
-Buana Finance Tbk.
+Asuransi Harta Aman Pratama Tbk.
 
-▲ 1.52%
+▼ 2.82%
 
-BBTN
+TRUS
 
-Bank Tabungan Negara (Persero) Tbk.
+Trust Finance Indonesia Tbk
 
-▲ 0.00%
+▲ 0.88%
 
-ABDA
+PNBS
 
-Asuransi Bina Dana Arta Tbk.
+Bank Panin Dubai Syariah Tbk.
 
-▼ 12.25%
+▼ 2.38%
 
-PEGE
+ASJT
 
-Panca Global Kapital Tbk.
-
-▲ 1.67%
-
-PLAS
-
-Polaris Investama Tbk
+Asuransi Jasa Tania Tbk.
 
 ▲ 0.00%
 
-LPPS
+IBFN
 
-Lenox Pasifik Investama Tbk.
+Intan Baru Prana Tbk.
 
-▼ 3.23%
+▲ 0.00%
 
-AMOR
+BVIC
 
-Ashmore Asset Management Indonesia Tbk.
+Bank Victoria International Tbk.
 
-▲ 2.22%
+▲ 0.00%
 
-AMAR
+NISP
 
-Bank Amar Indonesia Tbk.
+Bank OCBC NISP Tbk.
 
-▼ 0.88%
+▲ 0.82%
+
+NICK
+
+Charnic Capital Tbk.
+
+▼ 1.64%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
