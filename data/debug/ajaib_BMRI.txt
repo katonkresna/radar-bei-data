@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-4,030
-40 (1.00%)
+3,960
+30 (-0.75%)
 Invalid Date Invalid Date WIB
-110.24 M
+106.87 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 5.429
 Performa Harga
 Harga kembali 1 minggu
--2.68%
+-3.41%
 Harga kembali 1 Bulan
--8.49%
+-10.81%
 Harga kembali 3 Bulan
--6.12%
+-4.81%
 Harga kembali 6 Bulan
--13.26%
+-15.92%
 Harga Tertinggi (52 Minggu)
 5,375
 Harga Terendah (52 Minggu)
@@ -60,19 +60,19 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-368.68 T
+365.9 T
 Current PE Ratio (Annualized)
-6.06
+6.02
 Current PE Ratio (TTM)
-5.92
+5.88
 Earnings Yield (TTM)
-16.89
+17.01
 Current Price to Book Value
-1.3
+1.29
 Current Price to Cashflow (TTM)
-8.53
+8.47
 Current Price to Free Cashflow (TTM)
-9.62
+9.55
 PEG Ratio
 0.75
 Per Share
@@ -189,53 +189,53 @@ CNBC Indonesia • 9 Okt 2026 • 09:57 WIB
 CNN Indonesia • 1 Okt 2026 • 21:43 WIB
 Saham Terkait
 
-STAR
+INPC
 
-Calculus Global Ventures Tbk.
+Bank Artha Graha Internasional Tbk.
 
-▲ 2.38%
+▼ 2.00%
 
-LPGI
+CFIN
 
-Lippo General Insurance Tbk.
-
-▲ 0.00%
-
-TIFA
-
-KDB Tifa Finance Tbk.
-
-▲ 2.74%
-
-ASDM
-
-Asuransi Dayin Mitra Tbk.
+Clipan Finance Indonesia Tbk.
 
 ▲ 0.00%
 
-POLA
+ARTO
 
-Pool Advista Finance Tbk.
+Bank Jago Tbk.
 
-▲ 1.11%
+▲ 4.03%
 
-GSMF
+PNIN
 
-Equity Development Investment Tbk.
-
-▼ 2.17%
-
-YULE
-
-Yulie Sekuritas Indonesia Tbk.
+Paninvest Tbk.
 
 ▲ 0.00%
 
-HDFA
+LPPS
 
-Radana Bhaskara Finance Tbk.
+Lenox Pasifik Investama Tbk.
 
-▲ 6.45%
+▲ 1.67%
+
+MASB
+
+Bank Multiarta Sentosa Tbk.
+
+▲ 0.00%
+
+BCAP
+
+MNC Kapital Indonesia Tbk.
+
+▼ 3.45%
+
+PANS
+
+Panin Sekuritas Tbk.
+
+▲ 0.00%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

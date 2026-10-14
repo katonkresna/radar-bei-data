@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-3,110
-30 (0.97%)
+3,090
+10 (0.32%)
 Invalid Date Invalid Date WIB
-102.01 M
+109.15 M
 Volume
 1D
 1W
@@ -41,13 +41,13 @@ YTD
 4.080
 Performa Harga
 Harga kembali 1 minggu
--0.96%
+-1.59%
 Harga kembali 1 Bulan
--5.81%
+-9.12%
 Harga kembali 3 Bulan
-7.32%
+10.36%
 Harga kembali 6 Bulan
--8.61%
+-10.69%
 Harga Tertinggi (52 Minggu)
 4,050
 Harga Terendah (52 Minggu)
@@ -60,19 +60,19 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-462.13 T
+463.63 T
 Current PE Ratio (Annualized)
-7.56
+7.59
 Current PE Ratio (TTM)
-7.62
+7.65
 Earnings Yield (TTM)
-13.12
+13.08
 Current Price to Book Value
 1.45
 Current Price to Cashflow (TTM)
-33.16
+33.27
 Current Price to Free Cashflow (TTM)
-60.53
+60.73
 PEG Ratio
 0.96
 Per Share
@@ -169,70 +169,70 @@ Top Sell (Val): $BBCA, $GOTO, $DEWA
 9
 Berita dan Kabar BBRI Terbaru Hari Ini
 
-BRI Wealth Management Hadirkan Tiga Reksa Dana Baru
+Punya Nilai USD6,9 Miliar, BRI Kokoh Jadi Merek Paling Bernilai di RI
 
-CNBC Indonesia • 9 Okt 2026 • 17:17 WIB
+CNBC Indonesia • 11 Okt 2026 • 16:16 WIB
 
-Kisah BRILink Agen Nova Yulianti Dekatkan Akses Keuangan di Muara Enim
+SBR015 Tawarkan Dua Pilihan Tenor, Investasi Kian Mudah lewat BRI
 
-CNN Indonesia • 9 Okt 2026 • 12:10 WIB
+CNN Indonesia • 11 Okt 2026 • 15:19 WIB
 
-Kinerja BRI Kinclong, 3 Indikator Ini di Atas Rata-Rata Industri
+Kisah BRILink Agen Kirana Perluas Inklusi Keuangan di Pedesaan
 
-CNBC Indonesia • 1 Okt 2026 • 11:40 WIB
+CNN Indonesia • 10 Okt 2026 • 17:05 WIB
 
-BRI Jadi Satu-satunya Bank RI di SdanP Global Sustainability Yearbook
+BRI Gelar Promo Khusus Buy 1 Get 2 Nonton di The Premiere Cinema XXI
 
-CNBC Indonesia • 1 Okt 2026 • 11:12 WIB
+CNN Indonesia • 9 Okt 2026 • 20:40 WIB
 Saham Terkait
 
-BHAT
+HDFA
 
-Bhakti Multi Artha Tbk.
+Radana Bhaskara Finance Tbk.
 
 ▲ 0.00%
 
-BKSW
+JMAS
 
-Bank QNB Indonesia Tbk.
+Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk.
 
-▼ 2.08%
+▲ 0.00%
+
+AHAP
+
+Asuransi Harta Aman Pratama Tbk.
+
+▼ 7.04%
+
+BBLD
+
+Buana Finance Tbk.
+
+▲ 0.00%
+
+BNLI
+
+Bank Permata Tbk.
+
+▲ 0.00%
 
 SDRA
 
 Bank Woori Saudara Indonesia 1906 Tbk.
 
-▼ 0.51%
+▲ 0.00%
 
-POLA
+APIC
 
-Pool Advista Finance Tbk.
-
-▲ 1.11%
-
-BACA
-
-Bank Capital Indonesia Tbk.
-
-▲ 0.93%
-
-BBMD
-
-Bank Mestika Dharma Tbk.
+Pacific Strategic Financial Tbk.
 
 ▲ 0.00%
 
-MEGA
+BABP
 
-Bank Mega Tbk.
+Bank MNC Internasional Tbk.
 
-▼ 0.26%
-
-AMOR
-
-Ashmore Asset Management Indonesia Tbk.
-
-▼ 0.54%
+▼ 3.33%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

@@ -17,10 +17,10 @@ Day Trading
 Trading Limit
 
 Mulai Investasi
-6,050
-100 (1.68%)
+6,125
+175 (2.94%)
 Invalid Date Invalid Date WIB
-5.01 M
+136.3 M
 Volume
 1D
 1W
@@ -40,13 +40,13 @@ YTD
 8.787
 Performa Harga
 Harga kembali 1 minggu
--2.05%
+1.24%
 Harga kembali 1 Bulan
--5.53%
+-5.77%
 Harga kembali 3 Bulan
--4.02%
+-
 Harga kembali 6 Bulan
--9.13%
+-9.26%
 Harga Tertinggi (52 Minggu)
 8,750
 Harga Terendah (52 Minggu)
@@ -59,21 +59,21 @@ Technical
 Statistik Utama
 Valuation Information
 Market Cap
-729.2 T
+747.51 T
 Current PE Ratio (Annualized)
-12.35
+12.65
 Current PE Ratio (TTM)
-12.56
+12.88
 Earnings Yield (TTM)
-7.96
+7.77
 Current Price to Book Value
-2.7
+2.76
 Current Price to Cashflow (TTM)
-10.59
+10.86
 Current Price to Free Cashflow (TTM)
-11.09
+11.36
 PEG Ratio
-4.64
+4.76
 Per Share
 Current EPS (TTM)
 475.69
@@ -185,53 +185,53 @@ IHSG Hari Ini Berpeluang Menguat, Cek Saham BBCA, ICBP hingga UNTR
 IDX Channel • 30 Sep 2026 • 06:41 WIB
 Saham Terkait
 
-AHAP
+YULE
 
-Asuransi Harta Aman Pratama Tbk.
+Yulie Sekuritas Indonesia Tbk.
 
-▼ 2.82%
+▲ 1.13%
 
-TRUS
+MFIN
 
-Trust Finance Indonesia Tbk
-
-▲ 0.88%
-
-PNBS
-
-Bank Panin Dubai Syariah Tbk.
-
-▼ 2.38%
-
-ASJT
-
-Asuransi Jasa Tania Tbk.
+Mandala Multifinance Tbk.
 
 ▲ 0.00%
 
-IBFN
+SMMA
 
-Intan Baru Prana Tbk.
-
-▲ 0.00%
-
-BVIC
-
-Bank Victoria International Tbk.
+Sinarmas Multiartha Tbk.
 
 ▲ 0.00%
 
-NISP
+ARTO
 
-Bank OCBC NISP Tbk.
+Bank Jago Tbk.
 
-▲ 0.82%
+▲ 4.03%
 
-NICK
+BBRI
 
-Charnic Capital Tbk.
+Bank Rakyat Indonesia (Persero) Tbk.
 
-▼ 1.64%
+▲ 0.32%
+
+MTWI
+
+Malacca Trust Wuwungan Insurance Tbk.
+
+▼ 0.81%
+
+INPC
+
+Bank Artha Graha Internasional Tbk.
+
+▼ 2.00%
+
+ASRM
+
+Asuransi Ramayana Tbk.
+
+▲ 6.35%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
