@@ -1,37 +1,4 @@
-[08:53:08] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[08:53:08] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[08:53:08] idx.co.id: 0/16 saham (None), IHSG n/a (None)
-[08:53:27] ajaib BMRI: parse gagal
-[08:53:33] pluang BMRI: parse gagal
-[08:53:40] ajaib BBCA: parse gagal
-[08:53:44] pluang BBCA: parse gagal
-[08:53:55] ajaib BBRI: parse gagal
-[08:53:58] pluang BBRI: parse gagal
-[08:54:12] ajaib BBNI: parse gagal
-[08:54:15] pluang BBNI: parse gagal
-[08:54:24] ajaib TLKM: parse gagal
-[08:54:28] pluang TLKM: parse gagal
-[08:54:34] ajaib ASII: parse gagal
-[08:54:38] pluang ASII: parse gagal
-[08:54:44] ajaib AMRT: parse gagal
-[08:54:47] pluang AMRT: parse gagal
-[08:55:04] ajaib ISAT: parse gagal
-[08:55:08] pluang ISAT: parse gagal
-[08:55:22] ajaib INDF: parse gagal
-[08:55:25] pluang INDF: parse gagal
-[08:55:33] ajaib SIDO: parse gagal
-[08:55:36] pluang SIDO: parse gagal
-[08:55:42] ajaib AADI: parse gagal
-[08:55:45] pluang AADI: parse gagal
-[08:55:48] ajaib ADRO: parse gagal
-[08:55:52] pluang ADRO: parse gagal
-[08:56:09] ajaib PTBA: parse gagal
-[08:56:12] pluang PTBA: parse gagal
-[08:56:18] ajaib ANTM: parse gagal
-[08:56:21] pluang ANTM: parse gagal
-[08:56:35] ajaib MEDC: parse gagal
-[08:56:38] pluang MEDC: parse gagal
-[08:56:44] ajaib BRMS: parse gagal
-[08:56:47] pluang BRMS: parse gagal
-[08:56:47] ajaib: 0/16 harga, pluang: 0/16 harga
-[08:56:47] hasil gagal — latest.json lama (baik) dipertahankan
+[21:23:45] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[21:23:45] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[21:23:45] idx.co.id: 0/16 saham (None), IHSG n/a (None)
+[21:27:01] ajaib: 16/16 harga, pluang: 16/16 harga
