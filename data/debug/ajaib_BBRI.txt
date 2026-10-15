@@ -18,7 +18,7 @@ Trading Limit
 
 Mulai Investasi
 3,090
-10 (0.32%)
+-
 Invalid Date Invalid Date WIB
 109.15 M
 Volume
@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-15 Okt
-22 Des
-09 Mar
-29 Mei
-07 Agt
+16 Okt
+23 Des
+10 Mar
+02 Jun
+10 Agt
 2.538
 2.938
 3.338
@@ -186,53 +186,53 @@ Kisah BRILink Agen Kirana Perluas Inklusi Keuangan di Pedesaan
 CNN Indonesia • 10 Okt 2026 • 17:05 WIB
 Saham Terkait
 
-NICK
+ASRM
 
-Charnic Capital Tbk.
+Asuransi Ramayana Tbk.
 
-▼ 5.90%
+▲ 0.00%
 
-BPII
+BBHI
 
-Batavia Prosperindo Internasional Tbk.
+Allo Bank Indonesia Tbk.
 
-▼ 3.62%
-
-BGTG
-
-Bank Ganesha Tbk.
-
-▼ 0.96%
-
-BBSI
-
-Krom Bank Indonesia Tbk.
-
-▼ 0.25%
-
-BKSW
-
-Bank QNB Indonesia Tbk.
-
-▼ 2.08%
+▲ 0.00%
 
 ADMF
 
 Adira Dinamika Multi Finance Tbk.
 
-▲ 0.30%
+▲ 0.00%
 
-OCAP
+INPC
 
-Onix Capital Tbk.
+Bank Artha Graha Internasional Tbk.
 
 ▲ 0.00%
 
-BJBR
+PEGE
 
-Bank Pembangunan Daerah Jawa Barat dan Banten Tbk.
+Panca Global Kapital Tbk.
 
-▼ 0.66%
+▲ 0.00%
+
+BGTG
+
+Bank Ganesha Tbk.
+
+▲ 0.00%
+
+COIN
+
+Indokripto Koin Semesta Tbk.
+
+▲ 0.00%
+
+ASMI
+
+Asuransi Maximus Graha Persada Tbk.
+
+▲ 0.00%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

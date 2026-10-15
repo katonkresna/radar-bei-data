@@ -18,7 +18,7 @@ Trading Limit
 
 Mulai Investasi
 3,960
-30 (-0.75%)
+-
 Invalid Date Invalid Date WIB
 106.87 M
 Volume
@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-15 Okt
-22 Des
-09 Mar
-29 Mei
-07 Agt
+16 Okt
+23 Des
+10 Mar
+02 Jun
+10 Agt
 3.636
 4.086
 4.536
@@ -172,6 +172,10 @@ Top Sell (Val): $BBRI, $BUMI, $AMMN
 2
 Berita dan Kabar BMRI Terbaru Hari Ini
 
+Gadai Saham ke Mandiri, Emiten Haji Isam (PGUN) Siap Hadapi Risiko Ini
+
+CNBC Indonesia • 12 Okt 2026 • 10:45 WIB
+
 BEI Buka Suara soal Haji Isam Gadai Saham ke Bank Mandiri
 
 CNN Indonesia • 9 Okt 2026 • 19:19 WIB
@@ -183,59 +187,55 @@ CNN Indonesia • 9 Okt 2026 • 19:16 WIB
 Usai Gadai Saham ke Bank Mandiri, Saham Haji Isam (JARR) Anjlok 4,5%
 
 CNBC Indonesia • 9 Okt 2026 • 09:57 WIB
-
-5 Tahun Livin' by Mandiri Hadirkan Solusi Investasi dan Pembiayaan
-
-CNN Indonesia • 1 Okt 2026 • 21:43 WIB
 Saham Terkait
 
-BCAP
+BBTN
 
-MNC Kapital Indonesia Tbk.
-
-▼ 3.45%
-
-IBFN
-
-Intan Baru Prana Tbk.
+Bank Tabungan Negara (Persero) Tbk.
 
 ▲ 0.00%
 
-BKSW
+BNBA
 
-Bank QNB Indonesia Tbk.
-
-▼ 2.08%
-
-BTPN
-
-Bank SMBC Indonesia Tbk.
-
-▼ 0.82%
-
-SFAN
-
-Surya Fajar Capital Tbk.
-
-▲ 0.25%
-
-AHAP
-
-Asuransi Harta Aman Pratama Tbk.
-
-▼ 7.04%
-
-YOII
-
-Asuransi Digital Bersama Tbk.
+Bank Bumi Arta Tbk.
 
 ▲ 0.00%
 
-YULE
+PNBN
 
-Yulie Sekuritas Indonesia Tbk.
+Bank Pan Indonesia Tbk
 
-▲ 1.13%
+▲ 0.00%
+
+BTPS
+
+Bank BTPN Syariah Tbk.
+
+▲ 0.00%
+
+BBLD
+
+Buana Finance Tbk.
+
+▲ 0.00%
+
+MASB
+
+Bank Multiarta Sentosa Tbk.
+
+▲ 0.00%
+
+ADMF
+
+Adira Dinamika Multi Finance Tbk.
+
+▲ 0.00%
+
+BHAT
+
+Bhakti Multi Artha Tbk.
+
+▲ 0.00%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 

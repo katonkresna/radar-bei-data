@@ -18,7 +18,7 @@ Trading Limit
 
 Mulai Investasi
 6,125
-175 (2.94%)
+-
 Invalid Date Invalid Date WIB
 136.3 M
 Volume
@@ -29,11 +29,11 @@ Volume
 1Y
 5Y
 YTD
-15 Okt
-22 Des
-09 Mar
-29 Mei
-07 Agt
+16 Okt
+23 Des
+10 Mar
+02 Jun
+10 Agt
 4.753
 6.253
 7.753
@@ -104,10 +104,10 @@ Jual
 
 Beli
 
-Jual
-Jual 10
+Netral
+Jual 8
 Netral 0
-Beli 4
+Beli 6
 Baca selengkapnya
 Dividen
 Jumlah Dividen
@@ -188,53 +188,53 @@ IHSG Hari Ini Berpeluang Menguat, Cek Saham BBCA, ICBP hingga UNTR
 IDX Channel • 30 Sep 2026 • 06:41 WIB
 Saham Terkait
 
-BMRI
+POLA
 
-Bank Mandiri (Persero) Tbk.
+Pool Advista Finance Tbk.
 
-▼ 0.75%
+▲ 0.00%
 
-INPC
+BBYB
 
-Bank Artha Graha Internasional Tbk.
+Bank Neo Commerce Tbk.
 
-▼ 2.00%
-
-BBTN
-
-Bank Tabungan Negara (Persero) Tbk.
-
-▲ 0.48%
+▲ 0.00%
 
 BDMN
 
 Bank Danamon Indonesia Tbk.
 
-▲ 1.52%
+▲ 0.00%
 
-BINA
+PADI
 
-Bank Ina Perdana Tbk.
+Minna Padi Investama Sekuritas Tbk.
 
-▼ 0.50%
+▲ 0.00%
 
-BABP
+PLAS
 
-Bank MNC Internasional Tbk.
+Polaris Investama Tbk
 
-▼ 3.33%
+▲ 0.00%
 
-BNBA
+BPII
 
-Bank Bumi Arta Tbk.
+Batavia Prosperindo Internasional Tbk.
 
-▼ 0.64%
+▲ 0.00%
 
-LPPS
+BTPS
 
-Lenox Pasifik Investama Tbk.
+Bank BTPN Syariah Tbk.
 
-▲ 1.67%
+▲ 0.00%
+
+BPFI
+
+Woori Finance Indonesia Tbk.
+
+▲ 0.00%
 
 Yuk, investasi atau trading aset ini dengan download Ajaib sekarang!
 
