@@ -54,10 +54,10 @@ Lot
 Bid
 Ask
 Lot
-30
-7.350
-5.225
-3280
+0
+0
+0
+0
 *The data shown is obtained from the Indonesian Stock Exchange (IDX) and is authorized for display.
 Running Trade
 Pembaruan langsung setiap transaksi yang dieksekusi — harga, aksi, dan jumlah lot — untuk memantau tekanan beli dan jual secara real-time.
@@ -75,7 +75,7 @@ Catatan real-time setiap transaksi beli dan jual yang dieksekusi — lengkap den
 No data available
 Ringkasan Broker
 Ketahui broker yang sedang membeli atau menjual, beserta nilai transaksi, volume lot, dan harga rata-rata — untuk memahami pola perdagangan institusional dan sentimen pasar.
-15 Oct 2026–15 Oct 2026
+16 Oct 2026–16 Oct 2026
 Net
 BY
 B.VAL
@@ -124,68 +124,87 @@ Pay Date
 08 Apr '26
 Kabar
 Lihat selengkapnya
-14 Oct 2026 | 11:49 AM
+16 Oct 2026 | 7:13 AM
 
-Bca wealth summit 2026 jangkau lebih dari 4 juta pengunjung online
+Soal rumor akuisisi bca oleh haji isam, ojk terus pantau dinamika bank
 
-14 Oct 2026 | 7:24 AM
+16 Oct 2026 | 7:02 AM
 
-Bakti bca hadirkan operasi katarak gratis bagi 261 warga cianjur
+Penyaluran kredit ukm bca tumbuh 6,9 persen capai rp134 triliun per juli
 
-13 Oct 2026 | 7:21 AM
+15 Oct 2026 | 3:20 PM
 
-Bca-bi edukasi pedagang di batam melalui program gerai pasar qris
+Donor darah bakti bca himpun ratusan kantong darah dari mahasiswa
 
-12 Oct 2026 | 2:24 PM
+15 Oct 2026 | 2:55 PM
 
-Bca gelar indonesia knowledge forum 2026
+Bca berbagi ilmu ajak mahasiswa unusa dan unair siap hadapi dunia kerja
 
-12 Oct 2026 | 11:29 AM
+15 Oct 2026 | 2:32 PM
 
-Bca salurkan mobil operasional ke ponpes lirboyo
+Atlet penerima beasiswa dari bakti bca torehkan rekor di asian games 2026
 
-7 Oct 2026 | 12:35 PM
+15 Oct 2026 | 1:51 PM
 
-Malaysia airlines, bca, novus bermitra hubungkan ekosistem perjalanan dan pembayaran
+Kredit bca tumbuh double digit, pembiayaan ke ukm di atas rata-rata industri
 
+Banyak orang juga membeli
+BSWD
+Bank Of India Indonesia Tbk.
+-
+PTSP
+Pioneerindo Gourmet International Tbk.
+-
+UNTR
+United Tractors Tbk.
+-
+BIKE
+Sepeda Bersama Indonesia Tbk
+-
+INTP
+Indocement Tunggal Prakarsa Tbk
+-
+CMRY
+Cisarua Mountain Dairy Tbk.
+-
 Harga Pasar Global ID
 IHSG
-5.943,02
+5.863,78
 0,00%
 IDX 30
-331,16
-+0,90%
+328,80
+-0,71%
 ASX 200
-8.704,20
--0,27%
+8.793,70
++0,85%
 SSE
-3.704,22
--1,67%
+3.707,48
+-1,59%
 HSI
-24.121,00
--0,79%
+24.366,94
++1,26%
 STI
-5.376,75
--0,86%
+5.411,38
++0,15%
 Nikkei 225
-64.826,36
--4,31%
+65.532,00
++1,72%
 DAX 30
-25.183,50
--0,28%
+25.524,50
++0,14%
 FTSE 100
-10.724,86
-+0,70%
+10.840,35
++1,08%
 CAC 40
-7.873,11
-+0,58%
+7.934,70
++0,78%
 Powered By
 Saham Indonesia (oleh PT Sarana Santosa Sejati sebagai Mitra Pemasaran Perantara Pedagang Efek Level II yang bekerja sama dengan PT Pluang Maju Sekuritas sebagai Perusahaan Efek) berizin dan diawasi oleh OJK. Baca Syarat dan Ketentuan
 
 Semua investasi mengandung risiko dan kemungkinan kerugian nilai investasi. Kinerja pada masa lalu tidak mencerminkan kinerja di masa depan. Kinerja historikal, expected return, dan proyeksi probabilitas disediakan untuk tujuan informasi dan ilustrasi.
 Statistik Pasar
 Market Cap
-747,51 T
+741,41 T
 Volume
 -
 Lot
@@ -197,11 +216,11 @@ Rata-Rata
 Nilai
 -
 IEP
-6.100
+-
 IEV
-19,33 rb
+-
 
-Pantau harga saham BBCA hari ini di Pluang, diperbarui secara real-time dengan grafik live dan data pasar. Bank Central Asia Tbk (BBCA) memiliki kapitalisasi pasar sebesar 747,51 T. Indikator valuasi utama seperti IEP (Harga Keseimbangan Indikatif) sebesar 6.100 dan IEV (Volume Keseimbangan Indikatif) sebesar 19,33 rb lembar memberikan wawasan tambahan mengenai penemuan harga pra-pembukaan dan keseimbangan penawaran-permintaan. Statistik utama ini membantu investor menilai likuiditas, perilaku perdagangan, dan sentimen pasar terhadap BBCA di Bursa Efek Indonesia (BEI). Beli dan jual saham BBCA di Pluang dengan data pasar real-time — aman dan diawasi OJK.
+Pantau harga saham BBCA hari ini di Pluang, diperbarui secara real-time dengan grafik live dan data pasar. Bank Central Asia Tbk (BBCA) memiliki kapitalisasi pasar sebesar 741,41 T. Statistik utama ini membantu investor menilai likuiditas, perilaku perdagangan, dan sentimen pasar terhadap BBCA di Bursa Efek Indonesia (BEI). Beli dan jual saham BBCA di Pluang dengan data pasar real-time — aman dan diawasi OJK.
 
 Download atau daftar untuk investasi di aset ini!
 Daftar

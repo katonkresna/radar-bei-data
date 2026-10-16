@@ -54,10 +54,10 @@ Lot
 Bid
 Ask
 Lot
-8
-4.950
-3.400
-1350
+0
+0
+0
+0
 *The data shown is obtained from the Indonesian Stock Exchange (IDX) and is authorized for display.
 Running Trade
 Pembaruan langsung setiap transaksi yang dieksekusi — harga, aksi, dan jumlah lot — untuk memantau tekanan beli dan jual secara real-time.
@@ -75,7 +75,7 @@ Catatan real-time setiap transaksi beli dan jual yang dieksekusi — lengkap den
 No data available
 Ringkasan Broker
 Ketahui broker yang sedang membeli atau menjual, beserta nilai transaksi, volume lot, dan harga rata-rata — untuk memahami pola perdagangan institusional dan sentimen pasar.
-15 Oct 2026–15 Oct 2026
+16 Oct 2026–16 Oct 2026
 Net
 BY
 B.VAL
@@ -143,37 +143,56 @@ Bank mandiri gelar donor darah di wilayah operasional
 
 28 tahun bank mandiri, hadir dan berbagi manfaat untuk masyarakat
 
+Banyak orang juga membeli
+BSWD
+Bank Of India Indonesia Tbk.
+-
+PTSP
+Pioneerindo Gourmet International Tbk.
+-
+UNTR
+United Tractors Tbk.
+-
+BIKE
+Sepeda Bersama Indonesia Tbk
+-
+INTP
+Indocement Tunggal Prakarsa Tbk
+-
+CMRY
+Cisarua Mountain Dairy Tbk.
+-
 Harga Pasar Global ID
 IHSG
-5.943,02
-0,00%
+5.863,78
+-1,33%
 IDX 30
-331,16
-+0,90%
+328,80
+-0,71%
 ASX 200
-8.704,20
--0,27%
+8.813,60
++0,98%
 SSE
-3.704,22
--1,67%
+3.707,48
+-1,59%
 HSI
-24.121,00
--0,79%
+24.062,72
+-1,03%
 STI
-5.376,75
--0,86%
+5.403,50
+-0,37%
 Nikkei 225
-64.826,36
--4,31%
+65.367,15
++1,46%
 DAX 30
-25.183,50
--0,28%
+25.501,50
++0,05%
 FTSE 100
-10.724,86
-+0,70%
+10.840,35
++1,08%
 CAC 40
-7.873,11
-+0,58%
+7.934,70
++0,78%
 Powered By
 Saham Indonesia (oleh PT Sarana Santosa Sejati sebagai Mitra Pemasaran Perantara Pedagang Efek Level II yang bekerja sama dengan PT Pluang Maju Sekuritas sebagai Perusahaan Efek) berizin dan diawasi oleh OJK. Baca Syarat dan Ketentuan
 
@@ -182,21 +201,21 @@ Statistik Pasar
 Market Cap
 365,9 T
 Volume
--
+98,61 jt
 Lot
--
+986,14 rb
 Turnover
--
+390,75 M
 Rata-Rata
--
+3.962,38
 Nilai
--
+390,75 M
 IEP
-3.990
+3.980
 IEV
-13,16 rb
+167,64 rb
 
-Pantau harga saham BMRI hari ini di Pluang, diperbarui secara real-time dengan grafik live dan data pasar. Bank Mandiri Persero Tbk (BMRI) memiliki kapitalisasi pasar sebesar 365,9 T. Indikator valuasi utama seperti IEP (Harga Keseimbangan Indikatif) sebesar 3.990 dan IEV (Volume Keseimbangan Indikatif) sebesar 13,16 rb lembar memberikan wawasan tambahan mengenai penemuan harga pra-pembukaan dan keseimbangan penawaran-permintaan. Statistik utama ini membantu investor menilai likuiditas, perilaku perdagangan, dan sentimen pasar terhadap BMRI di Bursa Efek Indonesia (BEI). Beli dan jual saham BMRI di Pluang dengan data pasar real-time — aman dan diawasi OJK.
+Pantau harga saham BMRI hari ini di Pluang, diperbarui secara real-time dengan grafik live dan data pasar. Bank Mandiri Persero Tbk (BMRI) memiliki kapitalisasi pasar sebesar 365,9 T, dengan total nilai perdagangan sebesar 390,75 M pada periode tersebut. Saham ini mencatat volume perdagangan sebesar 98,61 jt lembar (atau 986,14 rb lot, di mana 1 lot = 100 lembar), yang mencerminkan aktivitas pasarnya. Harga rata-rata perdagangan berada di 3.962,38, sementara total turnover mencapai 390,75 M, menunjukkan tingkat likuiditas. Indikator valuasi utama seperti IEP (Harga Keseimbangan Indikatif) sebesar 3.980 dan IEV (Volume Keseimbangan Indikatif) sebesar 167,64 rb lembar memberikan wawasan tambahan mengenai penemuan harga pra-pembukaan dan keseimbangan penawaran-permintaan. Statistik utama ini membantu investor menilai likuiditas, perilaku perdagangan, dan sentimen pasar terhadap BMRI di Bursa Efek Indonesia (BEI). Beli dan jual saham BMRI di Pluang dengan data pasar real-time — aman dan diawasi OJK.
 
 Download atau daftar untuk investasi di aset ini!
 Daftar

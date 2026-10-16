@@ -1,4 +1,37 @@
-[22:40:13] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[22:40:13] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[22:40:13] idx.co.id: 0/16 saham (None), IHSG n/a (None)
-[22:43:26] ajaib: 16/16 harga, pluang: 16/16 harga
+[08:41:54] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[08:41:54] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[08:41:54] idx.co.id: 0/16 saham (None), IHSG n/a (None)
+[08:42:13] pluang BMRI: parse gagal
+[08:42:23] pluang BBCA: parse gagal
+[08:42:37] pluang BBRI: parse gagal
+[08:42:57] pluang BBNI: parse gagal
+[08:43:06] pluang TLKM: parse gagal
+[08:43:16] pluang ASII: parse gagal
+[08:43:24] pluang AMRT: parse gagal
+[08:43:45] pluang ISAT: parse gagal
+[08:44:03] pluang INDF: parse gagal
+[08:44:10] pluang SIDO: parse gagal
+[08:44:17] pluang AADI: parse gagal
+[08:44:24] pluang ADRO: parse gagal
+[08:44:31] pluang PTBA: parse gagal
+[08:44:38] pluang ANTM: parse gagal
+[08:44:55] pluang MEDC: parse gagal
+[08:45:04] pluang BRMS: parse gagal
+[08:45:04] ajaib: 16/16 harga, pluang: 0/16 harga
+[08:45:04] ajaib BMRI: stempel 2026-10-16T05:30:00 bukan penutupan hari ini -> diabaikan
+[08:45:04] ajaib BBCA: stempel 2026-10-16T05:30:00 bukan penutupan hari ini -> diabaikan
+[08:45:04] ajaib BBRI: stempel 2026-10-16T05:30:00 bukan penutupan hari ini -> diabaikan
+[08:45:04] ajaib BBNI: stempel 2026-10-16T05:30:00 bukan penutupan hari ini -> diabaikan
+[08:45:04] ajaib TLKM: stempel 2026-10-16T05:30:00 bukan penutupan hari ini -> diabaikan
+[08:45:04] ajaib ASII: stempel 2026-10-16T05:30:00 bukan penutupan hari ini -> diabaikan
+[08:45:04] ajaib AMRT: stempel 2026-10-16T05:30:00 bukan penutupan hari ini -> diabaikan
+[08:45:04] ajaib ISAT: stempel 2026-10-16T05:30:00 bukan penutupan hari ini -> diabaikan
+[08:45:04] ajaib INDF: stempel 2026-10-16T05:30:00 bukan penutupan hari ini -> diabaikan
+[08:45:04] ajaib SIDO: stempel 2026-10-16T05:30:00 bukan penutupan hari ini -> diabaikan
+[08:45:04] ajaib AADI: stempel 2026-10-16T05:30:00 bukan penutupan hari ini -> diabaikan
+[08:45:04] ajaib ADRO: stempel 2026-10-16T05:30:00 bukan penutupan hari ini -> diabaikan
+[08:45:04] ajaib PTBA: stempel 2026-10-16T05:30:00 bukan penutupan hari ini -> diabaikan
+[08:45:04] ajaib ANTM: stempel 2026-10-16T05:30:00 bukan penutupan hari ini -> diabaikan
+[08:45:04] ajaib MEDC: stempel 2026-10-16T05:30:00 bukan penutupan hari ini -> diabaikan
+[08:45:04] ajaib BRMS: stempel 2026-10-16T05:30:00 bukan penutupan hari ini -> diabaikan
+[08:45:04] hasil gagal — latest.json lama (baik) dipertahankan
