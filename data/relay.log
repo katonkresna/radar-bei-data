@@ -1,5 +1,5 @@
-[21:13:53] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[21:13:53] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[21:13:53] idx.co.id: 0/16 saham (None), IHSG n/a (None)
-[21:16:27] ajaib AADI: baris perubahan tak dikenal: '1400 (-12.39%)'
-[21:17:35] ajaib: 16/16 harga, pluang: 16/16 harga
+[22:25:40] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[22:25:40] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[22:25:40] idx.co.id: 0/16 saham (None), IHSG n/a (None)
+[22:28:34] ajaib AADI: baris perubahan tak dikenal: '1400 (-12.39%)'
+[22:29:41] ajaib: 16/16 harga, pluang: 16/16 harga
