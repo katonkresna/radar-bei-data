@@ -54,10 +54,10 @@ Lot
 Bid
 Ask
 Lot
-0
-0
-0
-0
+13
+6.075
+4.820
+1015460
 *The data shown is obtained from the Indonesian Stock Exchange (IDX) and is authorized for display.
 Running Trade
 Pembaruan langsung setiap transaksi yang dieksekusi — harga, aksi, dan jumlah lot — untuk memantau tekanan beli dan jual secara real-time.
@@ -75,7 +75,7 @@ Catatan real-time setiap transaksi beli dan jual yang dieksekusi — lengkap den
 No data available
 Ringkasan Broker
 Ketahui broker yang sedang membeli atau menjual, beserta nilai transaksi, volume lot, dan harga rata-rata — untuk memahami pola perdagangan institusional dan sentimen pasar.
-16 Oct 2026–16 Oct 2026
+19 Oct 2026–19 Oct 2026
 Net
 BY
 B.VAL
@@ -124,6 +124,10 @@ Pay Date
 08 Apr '26
 Kabar
 Lihat selengkapnya
+16 Oct 2026 | 11:06 AM
+
+Bca ajak masyarakat hidup sehat dan melek investasi lewat runvestasi 2026
+
 16 Oct 2026 | 7:13 AM
 
 Soal rumor akuisisi bca oleh haji isam, ojk terus pantau dinamika bank
@@ -144,67 +148,44 @@ Bca berbagi ilmu ajak mahasiswa unusa dan unair siap hadapi dunia kerja
 
 Atlet penerima beasiswa dari bakti bca torehkan rekor di asian games 2026
 
-15 Oct 2026 | 1:51 PM
-
-Kredit bca tumbuh double digit, pembiayaan ke ukm di atas rata-rata industri
-
-Banyak orang juga membeli
-BSWD
-Bank Of India Indonesia Tbk.
--
-PTSP
-Pioneerindo Gourmet International Tbk.
--
-UNTR
-United Tractors Tbk.
--
-BIKE
-Sepeda Bersama Indonesia Tbk
--
-INTP
-Indocement Tunggal Prakarsa Tbk
--
-CMRY
-Cisarua Mountain Dairy Tbk.
--
 Harga Pasar Global ID
 IHSG
-5.863,78
+5.185,11
 0,00%
 IDX 30
-328,80
--0,71%
+283,66
+-13,73%
 ASX 200
-8.793,70
-+0,85%
+8.810,40
++0,04%
 SSE
-3.707,48
--1,59%
+3.703,84
+-0,33%
 HSI
-24.366,94
-+1,26%
+24.186,80
+-0,52%
 STI
-5.411,38
-+0,15%
+5.400,75
+-0,27%
 Nikkei 225
-65.532,00
-+1,72%
+64.562,59
+-1,17%
 DAX 30
-25.524,50
-+0,14%
+25.555,50
++0,34%
 FTSE 100
-10.840,35
-+1,08%
+10.881,90
++0,38%
 CAC 40
-7.934,70
-+0,78%
+7.956,70
++0,28%
 Powered By
 Saham Indonesia (oleh PT Sarana Santosa Sejati sebagai Mitra Pemasaran Perantara Pedagang Efek Level II yang bekerja sama dengan PT Pluang Maju Sekuritas sebagai Perusahaan Efek) berizin dan diawasi oleh OJK. Baca Syarat dan Ketentuan
 
 Semua investasi mengandung risiko dan kemungkinan kerugian nilai investasi. Kinerja pada masa lalu tidak mencerminkan kinerja di masa depan. Kinerja historikal, expected return, dan proyeksi probabilitas disediakan untuk tujuan informasi dan ilustrasi.
 Statistik Pasar
 Market Cap
-741,41 T
+631,57 T
 Volume
 -
 Lot
@@ -216,11 +197,11 @@ Rata-Rata
 Nilai
 -
 IEP
--
+4.820
 IEV
--
+420,05 rb
 
-Pantau harga saham BBCA hari ini di Pluang, diperbarui secara real-time dengan grafik live dan data pasar. Bank Central Asia Tbk (BBCA) memiliki kapitalisasi pasar sebesar 741,41 T. Statistik utama ini membantu investor menilai likuiditas, perilaku perdagangan, dan sentimen pasar terhadap BBCA di Bursa Efek Indonesia (BEI). Beli dan jual saham BBCA di Pluang dengan data pasar real-time — aman dan diawasi OJK.
+Pantau harga saham BBCA hari ini di Pluang, diperbarui secara real-time dengan grafik live dan data pasar. Bank Central Asia Tbk (BBCA) memiliki kapitalisasi pasar sebesar 631,57 T. Indikator valuasi utama seperti IEP (Harga Keseimbangan Indikatif) sebesar 4.820 dan IEV (Volume Keseimbangan Indikatif) sebesar 420,05 rb lembar memberikan wawasan tambahan mengenai penemuan harga pra-pembukaan dan keseimbangan penawaran-permintaan. Statistik utama ini membantu investor menilai likuiditas, perilaku perdagangan, dan sentimen pasar terhadap BBCA di Bursa Efek Indonesia (BEI). Beli dan jual saham BBCA di Pluang dengan data pasar real-time — aman dan diawasi OJK.
 
 Download atau daftar untuk investasi di aset ini!
 Daftar
