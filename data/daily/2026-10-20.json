@@ -1,0 +1,273 @@
+{
+ "generated_at": "2026-10-20T21:28:46+07:00",
+ "trade_date": "2026-10-20",
+ "status": "ok",
+ "prices": {
+  "BMRI": {
+   "close": 3690.0,
+   "prev": 3360.0,
+   "chg_pct": 9.82,
+   "hi52": 5375.0,
+   "lo52": 3200.0,
+   "volume_txt": "395.3 M",
+   "date": "2026-10-20",
+   "as_of": "2026-10-20T16:14:00",
+   "source": "ajaib.co.id",
+   "confirmed_by": [
+    "ajaib",
+    "pluang"
+   ],
+   "status": "confirmed_2"
+  },
+  "BBCA": {
+   "close": 5200.0,
+   "prev": 4820.0,
+   "chg_pct": 7.88,
+   "hi52": 8750.0,
+   "lo52": 4740.0,
+   "volume_txt": "1.13 B",
+   "date": "2026-10-20",
+   "as_of": "2026-10-20T16:14:00",
+   "source": "ajaib.co.id",
+   "confirmed_by": [
+    "ajaib",
+    "pluang"
+   ],
+   "status": "confirmed_2"
+  },
+  "BBRI": {
+   "close": 2790.0,
+   "prev": 2540.0,
+   "chg_pct": 9.84,
+   "hi52": 4050.0,
+   "lo52": 2460.0,
+   "volume_txt": "692.97 M",
+   "date": "2026-10-20",
+   "as_of": "2026-10-20T16:14:00",
+   "source": "ajaib.co.id",
+   "confirmed_by": [
+    "ajaib",
+    "pluang"
+   ],
+   "status": "confirmed_2"
+  },
+  "BBNI": {
+   "close": 3220.0,
+   "prev": 2960.0,
+   "chg_pct": 8.78,
+   "hi52": 4730.0,
+   "lo52": 2830.0,
+   "volume_txt": "122.04 M",
+   "date": "2026-10-20",
+   "as_of": "2026-10-20T16:14:00",
+   "source": "ajaib.co.id",
+   "confirmed_by": [
+    "ajaib",
+    "pluang"
+   ],
+   "status": "confirmed_2"
+  },
+  "TLKM": {
+   "close": 2060.0,
+   "prev": 1770.0,
+   "chg_pct": 16.38,
+   "hi52": 3990.0,
+   "lo52": 1770.0,
+   "volume_txt": "652.34 M",
+   "date": "2026-10-20",
+   "as_of": "2026-10-20T16:14:00",
+   "source": "ajaib.co.id",
+   "confirmed_by": [
+    "ajaib",
+    "pluang"
+   ],
+   "status": "confirmed_2"
+  },
+  "ASII": {
+   "close": 4500.0,
+   "prev": 4130.0,
+   "chg_pct": 8.96,
+   "hi52": 7475.0,
+   "lo52": 3920.0,
+   "volume_txt": "102 M",
+   "date": "2026-10-20",
+   "as_of": "2026-10-20T16:14:00",
+   "source": "ajaib.co.id",
+   "confirmed_by": [
+    "ajaib",
+    "pluang"
+   ],
+   "status": "confirmed_2"
+  },
+  "AMRT": {
+   "close": 1045.0,
+   "prev": 985.0,
+   "chg_pct": 6.09,
+   "hi52": 2270.0,
+   "lo52": 920.0,
+   "volume_txt": "441.32 M",
+   "date": "2026-10-20",
+   "as_of": "2026-10-20T16:14:00",
+   "source": "ajaib.co.id",
+   "confirmed_by": [
+    "ajaib",
+    "pluang"
+   ],
+   "status": "confirmed_2"
+  },
+  "ISAT": {
+   "close": 1715.0,
+   "prev": 1635.0,
+   "chg_pct": 4.89,
+   "hi52": 2850.0,
+   "lo52": 1525.0,
+   "volume_txt": "309.77 M",
+   "date": "2026-10-20",
+   "as_of": "2026-10-20T16:14:00",
+   "source": "ajaib.co.id",
+   "confirmed_by": [
+    "ajaib",
+    "pluang"
+   ],
+   "status": "confirmed_2"
+  },
+  "INDF": {
+   "close": 6575.0,
+   "prev": 6475.0,
+   "chg_pct": 1.54,
+   "hi52": 7600.0,
+   "lo52": 5850.0,
+   "volume_txt": "10.95 M",
+   "date": "2026-10-20",
+   "as_of": "2026-10-20T16:03:00",
+   "source": "ajaib.co.id",
+   "confirmed_by": [
+    "ajaib",
+    "pluang"
+   ],
+   "status": "confirmed_2"
+  },
+  "SIDO": {
+   "close": 326.0,
+   "prev": 306.0,
+   "chg_pct": 6.54,
+   "hi52": 585.0,
+   "lo52": 302.0,
+   "volume_txt": "30.74 M",
+   "date": "2026-10-20",
+   "as_of": "2026-10-20T16:12:00",
+   "source": "ajaib.co.id",
+   "confirmed_by": [
+    "ajaib",
+    "pluang"
+   ],
+   "status": "confirmed_2"
+  },
+  "AADI": {
+   "close": 10950.0,
+   "prev": 10175.0,
+   "chg_pct": 7.62,
+   "hi52": 12925.0,
+   "lo52": 6750.0,
+   "volume_txt": "20.13 M",
+   "date": "2026-10-20",
+   "as_of": "2026-10-20T16:14:00",
+   "source": "ajaib.co.id",
+   "confirmed_by": [
+    "ajaib",
+    "pluang"
+   ],
+   "status": "confirmed_2"
+  },
+  "ADRO": {
+   "close": 2400.0,
+   "prev": 2210.0,
+   "chg_pct": 8.6,
+   "hi52": 2860.0,
+   "lo52": 1695.0,
+   "volume_txt": "73.17 M",
+   "date": "2026-10-20",
+   "as_of": "2026-10-20T16:14:00",
+   "source": "ajaib.co.id",
+   "confirmed_by": [
+    "ajaib",
+    "pluang"
+   ],
+   "status": "confirmed_2"
+  },
+  "PTBA": {
+   "close": 3050.0,
+   "prev": 2870.0,
+   "chg_pct": 6.27,
+   "hi52": 3490.0,
+   "lo52": 2220.0,
+   "volume_txt": "66.43 M",
+   "date": "2026-10-20",
+   "as_of": "2026-10-20T16:14:00",
+   "source": "ajaib.co.id",
+   "confirmed_by": [
+    "ajaib",
+    "pluang"
+   ],
+   "status": "confirmed_2"
+  },
+  "ANTM": {
+   "close": 2740.0,
+   "prev": 2480.0,
+   "chg_pct": 10.48,
+   "hi52": 4970.0,
+   "lo52": 2380.0,
+   "volume_txt": "142.78 M",
+   "date": "2026-10-20",
+   "as_of": "2026-10-20T16:14:00",
+   "source": "ajaib.co.id",
+   "confirmed_by": [
+    "ajaib",
+    "pluang"
+   ],
+   "status": "confirmed_2"
+  },
+  "MEDC": {
+   "close": 1400.0,
+   "prev": 1260.0,
+   "chg_pct": 11.11,
+   "hi52": 2000.0,
+   "lo52": 1005.0,
+   "volume_txt": "69.69 M",
+   "date": "2026-10-20",
+   "as_of": "2026-10-20T16:14:00",
+   "source": "ajaib.co.id",
+   "confirmed_by": [
+    "ajaib",
+    "pluang"
+   ],
+   "status": "confirmed_2"
+  },
+  "BRMS": {
+   "close": 428.0,
+   "prev": 436.0,
+   "chg_pct": -1.83,
+   "hi52": 1385.0,
+   "lo52": 406.0,
+   "volume_txt": "816.43 M",
+   "date": "2026-10-20",
+   "as_of": "2026-10-20T16:14:00",
+   "source": "ajaib.co.id",
+   "confirmed_by": [
+    "ajaib",
+    "pluang"
+   ],
+   "status": "confirmed_2"
+  }
+ },
+ "ihsg": null,
+ "notes": [
+  "16/16 harga; 16 terkonfirmasi 2+ sumber; trade_date=2026-10-20"
+ ],
+ "log": [
+  "[21:28:47] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/htm'",
+  "[21:28:47] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/htm'",
+  "[21:28:47] idx.co.id: 0/16 saham (None), IHSG n/a (None)",
+  "[21:32:29] ajaib: 16/16 harga, pluang: 16/16 harga"
+ ]
+}
