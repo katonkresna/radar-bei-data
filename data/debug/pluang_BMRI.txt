@@ -54,10 +54,10 @@ Lot
 Bid
 Ask
 Lot
-16334
-4.230
-3.160
-411435
+1
+4.300
+3.450
+1052
 *The data shown is obtained from the Indonesian Stock Exchange (IDX) and is authorized for display.
 Running Trade
 Pembaruan langsung setiap transaksi yang dieksekusi — harga, aksi, dan jumlah lot — untuk memantau tekanan beli dan jual secara real-time.
@@ -75,7 +75,7 @@ Catatan real-time setiap transaksi beli dan jual yang dieksekusi — lengkap den
 No data available
 Ringkasan Broker
 Ketahui broker yang sedang membeli atau menjual, beserta nilai transaksi, volume lot, dan harga rata-rata — untuk memahami pola perdagangan institusional dan sentimen pasar.
-19 Oct 2026–19 Oct 2026
+22 Oct 2026–22 Oct 2026
 Net
 BY
 B.VAL
@@ -119,6 +119,18 @@ Tempat
 Jakarta Selatan, secara elektronik melalui fasilitas Electronic General Meeting System KSEI (eASY.KSEI) dalam tautan htt
 Kabar
 Lihat selengkapnya
+20 Oct 2026 | 2:34 PM
+
+Bank mandiri perkuat fundamental bisnis dengan neraca yang tetap sehat
+
+19 Oct 2026 | 10:04 AM
+
+Bank mandiri raih penghargaan cx100
+
+19 Oct 2026 | 9:04 AM
+
+Yuliot tambah kepemilikan saham bank mandiri
+
 16 Oct 2026 | 2:55 PM
 
 Soal agunan saham jarr dan pgun, ini penjelasan resmi bank mandiri
@@ -131,56 +143,44 @@ Bank mandiri pindahkan 3 kantor cabang
 
 Bank mandiri perkuat layanan emas terintegrasi di livin by mandiri
 
-7 Oct 2026 | 3:46 PM
-
-Bank mandiri pindahkan 3 kantor cabang
-
-7 Oct 2026 | 9:55 AM
-
-Bank mandiri berbagi apresiasi bersama pekerja rentan melalui livin mandiri
-
-5 Oct 2026 | 2:19 PM
-
-Bank mandiri gelar donor darah di wilayah operasional
-
 Harga Pasar Global ID
 IHSG
-5.185,11
+5.328,36
 0,00%
 IDX 30
-283,66
--13,73%
+300,72
++1,04%
 ASX 200
-8.810,40
-+0,04%
-SSE
-3.703,84
--0,33%
-HSI
-24.186,80
+8.785,30
 -0,52%
+SSE
+3.696,06
+-0,46%
+HSI
+23.207,47
+-1,88%
 STI
-5.400,75
--0,27%
+5.450,42
++0,23%
 Nikkei 225
-64.562,59
--1,17%
+64.199,21
+-0,65%
 DAX 30
-25.555,50
-+0,34%
+25.531,00
+-0,26%
 FTSE 100
-10.881,90
-+0,38%
+10.752,88
++0,19%
 CAC 40
-7.956,70
-+0,28%
+7.921,68
++1,06%
 Powered By
 Saham Indonesia (oleh PT Sarana Santosa Sejati sebagai Mitra Pemasaran Perantara Pedagang Efek Level II yang bekerja sama dengan PT Pluang Maju Sekuritas sebagai Perusahaan Efek) berizin dan diawasi oleh OJK. Baca Syarat dan Ketentuan
 
 Semua investasi mengandung risiko dan kemungkinan kerugian nilai investasi. Kinerja pada masa lalu tidak mencerminkan kinerja di masa depan. Kinerja historikal, expected return, dan proyeksi probabilitas disediakan untuk tujuan informasi dan ilustrasi.
 Statistik Pasar
 Market Cap
-313,24 T
+341,88 T
 Volume
 -
 Lot
@@ -192,11 +192,11 @@ Rata-Rata
 Nilai
 -
 IEP
-3.160
+3.680
 IEV
-415,25 rb
+30,83 rb
 
-Pantau harga saham BMRI hari ini di Pluang, diperbarui secara real-time dengan grafik live dan data pasar. Bank Mandiri Persero Tbk (BMRI) memiliki kapitalisasi pasar sebesar 313,24 T. Indikator valuasi utama seperti IEP (Harga Keseimbangan Indikatif) sebesar 3.160 dan IEV (Volume Keseimbangan Indikatif) sebesar 415,25 rb lembar memberikan wawasan tambahan mengenai penemuan harga pra-pembukaan dan keseimbangan penawaran-permintaan. Statistik utama ini membantu investor menilai likuiditas, perilaku perdagangan, dan sentimen pasar terhadap BMRI di Bursa Efek Indonesia (BEI). Beli dan jual saham BMRI di Pluang dengan data pasar real-time — aman dan diawasi OJK.
+Pantau harga saham BMRI hari ini di Pluang, diperbarui secara real-time dengan grafik live dan data pasar. Bank Mandiri Persero Tbk (BMRI) memiliki kapitalisasi pasar sebesar 341,88 T. Indikator valuasi utama seperti IEP (Harga Keseimbangan Indikatif) sebesar 3.680 dan IEV (Volume Keseimbangan Indikatif) sebesar 30,83 rb lembar memberikan wawasan tambahan mengenai penemuan harga pra-pembukaan dan keseimbangan penawaran-permintaan. Statistik utama ini membantu investor menilai likuiditas, perilaku perdagangan, dan sentimen pasar terhadap BMRI di Bursa Efek Indonesia (BEI). Beli dan jual saham BMRI di Pluang dengan data pasar real-time — aman dan diawasi OJK.
 
 Download atau daftar untuk investasi di aset ini!
 Daftar
