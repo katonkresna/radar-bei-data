@@ -1,13 +1,10 @@
-Investasi
+Produk
 Fitur
 Biaya
 Keamanan
 Akademi
 Lainnya
 Pluang+
-ID
-|
-EN
 Trading di Web
 Home
 /
@@ -54,10 +51,10 @@ Lot
 Bid
 Ask
 Lot
-919
-6.250
-4.910
-41066
+3698
+6.025
+4.680
+9827
 *The data shown is obtained from the Indonesian Stock Exchange (IDX) and is authorized for display.
 Running Trade
 Pembaruan langsung setiap transaksi yang dieksekusi — harga, aksi, dan jumlah lot — untuk memantau tekanan beli dan jual secara real-time.
@@ -75,7 +72,7 @@ Catatan real-time setiap transaksi beli dan jual yang dieksekusi — lengkap den
 No data available
 Ringkasan Broker
 Ketahui broker yang sedang membeli atau menjual, beserta nilai transaksi, volume lot, dan harga rata-rata — untuk memahami pola perdagangan institusional dan sentimen pasar.
-22 Oct 2026–22 Oct 2026
+26 Oct 2026–26 Oct 2026
 Net
 BY
 B.VAL
@@ -124,68 +121,68 @@ Pay Date
 08 Apr '26
 Kabar
 Lihat selengkapnya
+26 Oct 2026 | 7:16 AM
+
+Bca ajak agen perjalanan internasional kunjungi desa wisata binaan
+
+23 Oct 2026 | 2:07 PM
+
+Bca perluas pasar internasional untuk desa wisata binaan
+
+23 Oct 2026 | 11:24 AM
+
+Bakti bca gelar babak final teacher tech championship 2026 di jakarta
+
+23 Oct 2026 | 9:31 AM
+
+Perluas akses pasar global, bca ajak agen dan operator perjalanan internasional
+
+22 Oct 2026 | 3:09 PM
+
+Bca hadirkan dukungan bagi pelaku umkm naik kelas
+
 22 Oct 2026 | 6:58 AM
 
 Bca perpanjang periode buyback saham hingga 23 oktober 2026
 
-20 Oct 2026 | 8:44 AM
-
-Bca perluas penggunaan qris di pusat perbelanjaan surabaya
-
-19 Oct 2026 | 1:25 PM
-
-Bca dorong ribuan peserta bertindak strategis hadapi tantangan bisnis
-
-19 Oct 2026 | 10:48 AM
-
-Bca siap lanjutkan buyback saham
-
-16 Oct 2026 | 11:06 AM
-
-Bca ajak masyarakat hidup sehat dan melek investasi lewat runvestasi 2026
-
-16 Oct 2026 | 7:13 AM
-
-Soal rumor akuisisi bca oleh haji isam, ojk terus pantau dinamika bank
-
 Harga Pasar Global ID
 IHSG
-5.328,36
+5.439,26
 0,00%
 IDX 30
-300,72
-+1,04%
+306,21
++0,37%
 ASX 200
-8.785,30
--0,52%
+8.780,10
+-0,17%
 SSE
-3.696,06
--0,46%
+3.672,61
+-0,48%
 HSI
-23.207,47
--1,88%
+23.077,08
+-0,07%
 STI
-5.450,42
-+0,23%
+5.400,57
+-0,40%
 Nikkei 225
-64.199,21
--0,65%
+62.525,26
+-0,27%
 DAX 30
-25.531,00
--0,26%
+25.190,50
++0,23%
 FTSE 100
-10.752,88
-+0,19%
+10.690,36
+-0,32%
 CAC 40
-7.921,68
-+1,06%
+7.782,82
+-0,36%
 Powered By
 Saham Indonesia (oleh PT Sarana Santosa Sejati sebagai Mitra Pemasaran Perantara Pedagang Efek Level II yang bekerja sama dengan PT Pluang Maju Sekuritas sebagai Perusahaan Efek) berizin dan diawasi oleh OJK. Baca Syarat dan Ketentuan
 
 Semua investasi mengandung risiko dan kemungkinan kerugian nilai investasi. Kinerja pada masa lalu tidak mencerminkan kinerja di masa depan. Kinerja historikal, expected return, dan proyeksi probabilitas disediakan untuk tujuan informasi dan ilustrasi.
 Statistik Pasar
 Market Cap
-643,77 T
+613,26 T
 Volume
 -
 Lot
@@ -197,11 +194,11 @@ Rata-Rata
 Nilai
 -
 IEP
-5.150
+5.050
 IEV
-66,08 rb
+27,43 rb
 
-Pantau harga saham BBCA hari ini di Pluang, diperbarui secara real-time dengan grafik live dan data pasar. Bank Central Asia Tbk (BBCA) memiliki kapitalisasi pasar sebesar 643,77 T. Indikator valuasi utama seperti IEP (Harga Keseimbangan Indikatif) sebesar 5.150 dan IEV (Volume Keseimbangan Indikatif) sebesar 66,08 rb lembar memberikan wawasan tambahan mengenai penemuan harga pra-pembukaan dan keseimbangan penawaran-permintaan. Statistik utama ini membantu investor menilai likuiditas, perilaku perdagangan, dan sentimen pasar terhadap BBCA di Bursa Efek Indonesia (BEI). Beli dan jual saham BBCA di Pluang dengan data pasar real-time — aman dan diawasi OJK.
+Pantau harga saham BBCA hari ini di Pluang, diperbarui secara real-time dengan grafik live dan data pasar. Bank Central Asia Tbk (BBCA) memiliki kapitalisasi pasar sebesar 613,26 T. Indikator valuasi utama seperti IEP (Harga Keseimbangan Indikatif) sebesar 5.050 dan IEV (Volume Keseimbangan Indikatif) sebesar 27,43 rb lembar memberikan wawasan tambahan mengenai penemuan harga pra-pembukaan dan keseimbangan penawaran-permintaan. Statistik utama ini membantu investor menilai likuiditas, perilaku perdagangan, dan sentimen pasar terhadap BBCA di Bursa Efek Indonesia (BEI). Beli dan jual saham BBCA di Pluang dengan data pasar real-time — aman dan diawasi OJK.
 
 Download atau daftar untuk investasi di aset ini!
 Daftar
@@ -213,6 +210,3 @@ Dapatkan harga Bank Central Asia Tbk (BBCA) hari ini di Bursa Efek Indonesia, li
 Lihat grafik saham Bank Central Asia Tbk (BBCA) live, pantau tren harga BBCA, analisa performa harian Bank Central Asia Tbk, ikuti perubahan harga historis, serta dapatkan insight pergerakan saham dan kondisi pasar Indonesia di Pluang.
 
 Ikuti berita saham Bank Central Asia Tbk hari ini, harga BBCA terbaru dalam Rupiah, apakah saham Bank Central Asia Tbk sedang naik atau turun, tren pasar BBCA, serta insight real-time untuk trading yang lebih informatif di Pluang.
-
-Trading di Web
-Download

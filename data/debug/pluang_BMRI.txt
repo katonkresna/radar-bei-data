@@ -1,13 +1,10 @@
-Investasi
+Produk
 Fitur
 Biaya
 Keamanan
 Akademi
 Lainnya
 Pluang+
-ID
-|
-EN
 Trading di Web
 Home
 /
@@ -54,10 +51,10 @@ Lot
 Bid
 Ask
 Lot
-1
-4.300
-3.450
-1052
+20
+4.860
+3.630
+846
 *The data shown is obtained from the Indonesian Stock Exchange (IDX) and is authorized for display.
 Running Trade
 Pembaruan langsung setiap transaksi yang dieksekusi — harga, aksi, dan jumlah lot — untuk memantau tekanan beli dan jual secara real-time.
@@ -75,7 +72,7 @@ Catatan real-time setiap transaksi beli dan jual yang dieksekusi — lengkap den
 No data available
 Ringkasan Broker
 Ketahui broker yang sedang membeli atau menjual, beserta nilai transaksi, volume lot, dan harga rata-rata — untuk memahami pola perdagangan institusional dan sentimen pasar.
-22 Oct 2026–22 Oct 2026
+26 Oct 2026–26 Oct 2026
 Net
 BY
 B.VAL
@@ -119,6 +116,22 @@ Tempat
 Jakarta Selatan, secara elektronik melalui fasilitas Electronic General Meeting System KSEI (eASY.KSEI) dalam tautan htt
 Kabar
 Lihat selengkapnya
+23 Oct 2026 | 5:26 PM
+
+Bank mandiri catat pertumbuhan laba 20,7 persen per september 2026
+
+23 Oct 2026 | 8:12 AM
+
+Bmri konsisten berikan nilai tambah lewat dividen dan buyback
+
+23 Oct 2026 | 7:28 AM
+
+Bank mandiri jaga kualitas pertumbuhan bisnis
+
+22 Oct 2026 | 2:46 PM
+
+Bank mandiri pindahkan 3 kantor cabang
+
 20 Oct 2026 | 2:34 PM
 
 Bank mandiri perkuat fundamental bisnis dengan neraca yang tetap sehat
@@ -127,60 +140,44 @@ Bank mandiri perkuat fundamental bisnis dengan neraca yang tetap sehat
 
 Bank mandiri raih penghargaan cx100
 
-19 Oct 2026 | 9:04 AM
-
-Yuliot tambah kepemilikan saham bank mandiri
-
-16 Oct 2026 | 2:55 PM
-
-Soal agunan saham jarr dan pgun, ini penjelasan resmi bank mandiri
-
-14 Oct 2026 | 10:37 AM
-
-Bank mandiri pindahkan 3 kantor cabang
-
-12 Oct 2026 | 7:30 AM
-
-Bank mandiri perkuat layanan emas terintegrasi di livin by mandiri
-
 Harga Pasar Global ID
 IHSG
-5.328,36
+5.439,26
 0,00%
 IDX 30
-300,72
-+1,04%
+306,21
++0,37%
 ASX 200
-8.785,30
--0,52%
+8.780,10
+-0,17%
 SSE
-3.696,06
--0,46%
+3.672,61
+-0,48%
 HSI
-23.207,47
--1,88%
+23.077,08
+-0,07%
 STI
-5.450,42
-+0,23%
+5.400,57
+-0,40%
 Nikkei 225
-64.199,21
--0,65%
+62.525,26
+-0,27%
 DAX 30
-25.531,00
--0,26%
+25.190,50
++0,23%
 FTSE 100
-10.752,88
-+0,19%
+10.690,36
+-0,32%
 CAC 40
-7.921,68
-+1,06%
+7.782,82
+-0,36%
 Powered By
 Saham Indonesia (oleh PT Sarana Santosa Sejati sebagai Mitra Pemasaran Perantara Pedagang Efek Level II yang bekerja sama dengan PT Pluang Maju Sekuritas sebagai Perusahaan Efek) berizin dan diawasi oleh OJK. Baca Syarat dan Ketentuan
 
 Semua investasi mengandung risiko dan kemungkinan kerugian nilai investasi. Kinerja pada masa lalu tidak mencerminkan kinerja di masa depan. Kinerja historikal, expected return, dan proyeksi probabilitas disediakan untuk tujuan informasi dan ilustrasi.
 Statistik Pasar
 Market Cap
-341,88 T
+360,36 T
 Volume
 -
 Lot
@@ -192,11 +189,11 @@ Rata-Rata
 Nilai
 -
 IEP
-3.680
+3.900
 IEV
-30,83 rb
+17,71 rb
 
-Pantau harga saham BMRI hari ini di Pluang, diperbarui secara real-time dengan grafik live dan data pasar. Bank Mandiri Persero Tbk (BMRI) memiliki kapitalisasi pasar sebesar 341,88 T. Indikator valuasi utama seperti IEP (Harga Keseimbangan Indikatif) sebesar 3.680 dan IEV (Volume Keseimbangan Indikatif) sebesar 30,83 rb lembar memberikan wawasan tambahan mengenai penemuan harga pra-pembukaan dan keseimbangan penawaran-permintaan. Statistik utama ini membantu investor menilai likuiditas, perilaku perdagangan, dan sentimen pasar terhadap BMRI di Bursa Efek Indonesia (BEI). Beli dan jual saham BMRI di Pluang dengan data pasar real-time — aman dan diawasi OJK.
+Pantau harga saham BMRI hari ini di Pluang, diperbarui secara real-time dengan grafik live dan data pasar. Bank Mandiri Persero Tbk (BMRI) memiliki kapitalisasi pasar sebesar 360,36 T. Indikator valuasi utama seperti IEP (Harga Keseimbangan Indikatif) sebesar 3.900 dan IEV (Volume Keseimbangan Indikatif) sebesar 17,71 rb lembar memberikan wawasan tambahan mengenai penemuan harga pra-pembukaan dan keseimbangan penawaran-permintaan. Statistik utama ini membantu investor menilai likuiditas, perilaku perdagangan, dan sentimen pasar terhadap BMRI di Bursa Efek Indonesia (BEI). Beli dan jual saham BMRI di Pluang dengan data pasar real-time — aman dan diawasi OJK.
 
 Download atau daftar untuk investasi di aset ini!
 Daftar
@@ -208,6 +205,3 @@ Dapatkan harga Bank Mandiri Persero Tbk (BMRI) hari ini di Bursa Efek Indonesia,
 Lihat grafik saham Bank Mandiri Persero Tbk (BMRI) live, pantau tren harga BMRI, analisa performa harian Bank Mandiri Persero Tbk, ikuti perubahan harga historis, serta dapatkan insight pergerakan saham dan kondisi pasar Indonesia di Pluang.
 
 Ikuti berita saham Bank Mandiri Persero Tbk hari ini, harga BMRI terbaru dalam Rupiah, apakah saham Bank Mandiri Persero Tbk sedang naik atau turun, tren pasar BMRI, serta insight real-time untuk trading yang lebih informatif di Pluang.
-
-Trading di Web
-Download
