@@ -1,21 +1,4 @@
-[10:51:13] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[10:51:13] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[10:51:13] idx.co.id: 0/16 saham (None), IHSG n/a (None)
-[10:55:01] ajaib: 16/16 harga, pluang: 16/16 harga
-[10:55:01] ajaib BMRI: stempel 2026-11-06T10:51:00 bukan penutupan hari ini -> diabaikan
-[10:55:01] ajaib BBCA: stempel 2026-11-06T10:51:00 bukan penutupan hari ini -> diabaikan
-[10:55:01] ajaib BBRI: stempel 2026-11-06T10:51:00 bukan penutupan hari ini -> diabaikan
-[10:55:01] ajaib BBNI: stempel 2026-11-06T10:51:00 bukan penutupan hari ini -> diabaikan
-[10:55:01] ajaib TLKM: stempel 2026-11-06T10:51:00 bukan penutupan hari ini -> diabaikan
-[10:55:01] ajaib ASII: stempel 2026-11-06T10:52:00 bukan penutupan hari ini -> diabaikan
-[10:55:01] ajaib AMRT: stempel 2026-11-06T10:52:00 bukan penutupan hari ini -> diabaikan
-[10:55:01] ajaib ISAT: stempel 2026-11-06T10:52:00 bukan penutupan hari ini -> diabaikan
-[10:55:01] ajaib INDF: stempel 2026-11-06T10:52:00 bukan penutupan hari ini -> diabaikan
-[10:55:01] ajaib SIDO: stempel 2026-11-06T10:52:00 bukan penutupan hari ini -> diabaikan
-[10:55:01] ajaib AADI: stempel 2026-11-06T10:53:00 bukan penutupan hari ini -> diabaikan
-[10:55:01] ajaib ADRO: stempel 2026-11-06T10:53:00 bukan penutupan hari ini -> diabaikan
-[10:55:01] ajaib PTBA: stempel 2026-11-06T10:53:00 bukan penutupan hari ini -> diabaikan
-[10:55:01] ajaib ANTM: stempel 2026-11-06T10:54:00 bukan penutupan hari ini -> diabaikan
-[10:55:01] ajaib MEDC: stempel 2026-11-06T10:54:00 bukan penutupan hari ini -> diabaikan
-[10:55:01] ajaib BRMS: stempel 2026-11-06T10:54:00 bukan penutupan hari ini -> diabaikan
-[10:55:01] hasil gagal — latest.json lama (baik) dipertahankan
+[23:55:52] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[23:55:52] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[23:55:53] idx.co.id: 0/16 saham (None), IHSG n/a (None)
+[23:59:39] ajaib: 16/16 harga, pluang: 16/16 harga
