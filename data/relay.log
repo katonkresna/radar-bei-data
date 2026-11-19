@@ -1,21 +1,21 @@
-[02:33:50] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[02:33:50] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-[02:33:50] idx.co.id: 0/16 saham (None), IHSG n/a (None)
-[02:36:48] ajaib: 16/16 harga, pluang: 16/16 harga
-[02:36:48] ajaib BMRI: stempel 2026-11-18T16:14:00 bukan penutupan hari ini -> diabaikan
-[02:36:48] ajaib BBCA: stempel 2026-11-18T16:14:00 bukan penutupan hari ini -> diabaikan
-[02:36:48] ajaib BBRI: stempel 2026-11-18T16:14:00 bukan penutupan hari ini -> diabaikan
-[02:36:48] ajaib BBNI: stempel 2026-11-18T16:14:00 bukan penutupan hari ini -> diabaikan
-[02:36:48] ajaib TLKM: stempel 2026-11-18T16:14:00 bukan penutupan hari ini -> diabaikan
-[02:36:48] ajaib ASII: stempel 2026-11-18T16:14:00 bukan penutupan hari ini -> diabaikan
-[02:36:48] ajaib AMRT: stempel 2026-11-18T16:14:00 bukan penutupan hari ini -> diabaikan
-[02:36:48] ajaib ISAT: stempel 2026-11-18T16:14:00 bukan penutupan hari ini -> diabaikan
-[02:36:48] ajaib INDF: stempel 2026-11-18T16:13:00 bukan penutupan hari ini -> diabaikan
-[02:36:48] ajaib SIDO: stempel 2026-11-18T16:09:00 bukan penutupan hari ini -> diabaikan
-[02:36:48] ajaib AADI: stempel 2026-11-18T16:14:00 bukan penutupan hari ini -> diabaikan
-[02:36:48] ajaib ADRO: stempel 2026-11-18T16:14:00 bukan penutupan hari ini -> diabaikan
-[02:36:48] ajaib PTBA: stempel 2026-11-18T16:14:00 bukan penutupan hari ini -> diabaikan
-[02:36:48] ajaib ANTM: stempel 2026-11-18T16:14:00 bukan penutupan hari ini -> diabaikan
-[02:36:48] ajaib MEDC: stempel 2026-11-18T16:14:00 bukan penutupan hari ini -> diabaikan
-[02:36:48] ajaib BRMS: stempel 2026-11-18T16:14:00 bukan penutupan hari ini -> diabaikan
-[02:36:48] hasil gagal — latest.json lama (baik) dipertahankan
+[11:34:03] idx-stock requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[11:34:03] idx-index requests: HTTP 403 ct=text/html; charset=UTF-8 body[:120]='<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+[11:34:03] idx.co.id: 0/16 saham (None), IHSG n/a (None)
+[11:36:43] ajaib: 16/16 harga, pluang: 16/16 harga
+[11:36:43] ajaib BMRI: stempel 2026-11-19T11:33:00 bukan penutupan hari ini -> diabaikan
+[11:36:43] ajaib BBCA: stempel 2026-11-19T11:34:00 bukan penutupan hari ini -> diabaikan
+[11:36:43] ajaib BBRI: stempel 2026-11-19T11:34:00 bukan penutupan hari ini -> diabaikan
+[11:36:43] ajaib BBNI: stempel 2026-11-19T11:34:00 bukan penutupan hari ini -> diabaikan
+[11:36:43] ajaib TLKM: stempel 2026-11-19T11:34:00 bukan penutupan hari ini -> diabaikan
+[11:36:43] ajaib ASII: stempel 2026-11-19T11:34:00 bukan penutupan hari ini -> diabaikan
+[11:36:43] ajaib AMRT: stempel 2026-11-19T11:34:00 bukan penutupan hari ini -> diabaikan
+[11:36:43] ajaib ISAT: stempel 2026-11-19T11:35:00 bukan penutupan hari ini -> diabaikan
+[11:36:43] ajaib INDF: stempel 2026-11-19T11:34:00 bukan penutupan hari ini -> diabaikan
+[11:36:43] ajaib SIDO: stempel 2026-11-19T11:35:00 bukan penutupan hari ini -> diabaikan
+[11:36:43] ajaib AADI: stempel 2026-11-19T11:35:00 bukan penutupan hari ini -> diabaikan
+[11:36:43] ajaib ADRO: stempel 2026-11-19T11:35:00 bukan penutupan hari ini -> diabaikan
+[11:36:43] ajaib PTBA: stempel 2026-11-19T11:35:00 bukan penutupan hari ini -> diabaikan
+[11:36:43] ajaib ANTM: stempel 2026-11-19T11:36:00 bukan penutupan hari ini -> diabaikan
+[11:36:43] ajaib MEDC: stempel 2026-11-19T11:35:00 bukan penutupan hari ini -> diabaikan
+[11:36:43] ajaib BRMS: stempel 2026-11-19T11:36:00 bukan penutupan hari ini -> diabaikan
+[11:36:43] hasil gagal — latest.json lama (baik) dipertahankan
